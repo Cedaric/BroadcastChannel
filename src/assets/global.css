@@ -27,55 +27,78 @@ html {
 
 .search-icon {
   position: absolute;
-  top: 20px;
-  right: 0px;
+  top: 15px;
+  right: 12px;
   width: 24px;
   height: 24px;
   padding: 4px;
   appearance: none;
   outline: none;
+  z-index: 101;
 
   &:after {
-    content: '🔍';
+    font-family: 'remixicon';
+    content: '\f0d1'; /* ri-search-line */
     width: 100%;
     height: 100%;
     position: absolute;
     top: 0;
     left: 0;
-    background-color: var(--background-color);
+    background-color: transparent;
     text-align: center;
     vertical-align: middle;
     line-height: 24px;
+    font-size: 16px;
+    color: var(--secondary-color);
   }
 }
 
 .search-icon:checked + .search-form {
   display: block !important;
+  animation: searchSlideDown 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes searchSlideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .search-form {
   display: none;
-  background: var(--code-background-color);
+  position: absolute;
+  top: 100%;
+  left: 12px;
+  width: calc(100% - 24px);
+  z-index: 99;
+  background: var(--cell-background-color);
   color: var(--secondary-color);
   padding: 8px;
   border-radius: var(--box-border-radius);
+  box-shadow: var(--shadows-hover);
+  border: 1px solid var(--border-color);
 
   > input {
-    border: 1px solid var(--background-color);
+    border: 1px solid var(--border-color);
     border-radius: var(--box-border-radius);
     background: var(--code-background-color);
-    color: var(--secondary-color);
+    color: var(--foreground-color);
     outline: none;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 2.4;
-    padding: 0 0.5em;
+    padding: 0 1em;
     box-sizing: border-box;
     width: 100%;
   }
 }
 
 .copyright-wrap {
-  color: #666;
+  color: var(--foreground-secondary-color);
   line-height: 1.5;
   font-size: 14px;
   display: none;
@@ -91,6 +114,12 @@ html {
 
   .search-form {
     display: block;
+    position: static;
+    width: 100%;
+    box-shadow: none;
+    border: none;
+    background: var(--code-background-color);
+    box-sizing: border-box;
   }
 
   .search-icon {

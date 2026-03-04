@@ -9,7 +9,8 @@
 ## ✨ 特性
 
 - **将 Telegram Channel 转为微博客**
-- **SEO 友好** `/sitemap.xml`
+- **SEO 友好** 支持海量数据的 `/sitemap-index.xml`
+- **媒体本地化** 自动抓取 Telegram CDN 图片/音视频至本地，防止链接过期失效
 - **浏览器端 0 JS**
 - **提供 RSS 和 RSS JSON** `/rss.xml` `/rss.json`
 
@@ -81,6 +82,35 @@
 6. 绑定域名（可选）。
 7. 更新代码，参考 GitHub 官方文档 [从 Web UI 同步分叉分支](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui)。
 
+#### 进阶高级部署：双端静态架构 (完全无服务器化、零超时)
+
+如果你的频道存在访问超时或 SEO 抓取失败的问题，你可以开启极速分离架构：
+
+1. 配置 GitHub Secrets
+在你的 GitHub 仓库 Settings -> Secrets and variables -> Actions 中，添加以下 Repository variables：
+ * CHANNELS_CONFIG : 配置频道名称和用于构建 Sitemap 的站点关联 URL。值必须为标准的 JSON 数组格式：
+ * 
+```json
+[
+  {
+    "name": "durov",
+    "url": "https://api-durov.yourdomain.com"
+  },
+  {
+    "name": "telegram",
+    "url": "https://api-tg.yourdomain.com"
+  }
+]
+```
+
+2. 触发首次同步
+转到仓库的 Actions 面板，手动触发一次 Static Data Sync 工作流。该 Action 会自动并发运行，并为你创建多个独立的数据分支（如 data-durov、data-telegram）。
+3. 配置多实例部署 (Vercel/Netlify)
+前往你的静态托管平台，为每个频道创建一个独立的项目实例：
+ * 项目 A (Durov API)：绑定该 GitHub 仓库，部署分支选择 data-durov，无需配置构建命令（纯静态文件）。绑定域名 api-durov.yourdomain.com。
+ * 项目 B (Telegram API)：绑定同一仓库，部署分支选择 data-telegram，同样无需构建命令。绑定域名 api-tg.yourdomain.com。
+4. 回到你的部署平台（如 Vercel/Netlify 等 Astro 站点的部署处），将 `.env` 环境变量中的 `STATIC_API_URL` 设置为你的自定义域名，例如 `STATIC_API_URL=https://api-durov.yourdomain.com/api` 。
+
 ## ⚒️ 配置
 
 ```env
@@ -93,7 +123,7 @@ TIMEZONE=Asia/Shanghai
 
 ## 社交媒体用户名
 TELEGRAM=miantiao-me
-TWITTER=miantiao-me
+X=miantiao-me
 GITHUB=miantiao-me
 
 ## 下面两个社交媒体需要为 URL
@@ -118,7 +148,6 @@ SENTRY_PROJECT=SENTRY_PROJECT
 
 ## Telegram 主机名称和静态资源代理，不建议修改
 HOST=telegram.dog
-STATIC_PROXY=
 
 ## 启用谷歌站内搜索
 GOOGLE_SEARCH_SITE=memo.miantiao.me
@@ -140,6 +169,9 @@ NAVS=Title1,URL1;Title2,URL3;Title3,URL3;
 
 ## 启用 RSS 美化
 RSS_BEAUTIFY=true
+
+## 高级配置：静态数据 API 节点（详见进阶高级部署）。跨域部署时，用于解析数据源及本地化的媒体资源。
+STATIC_API_URL=https://your-github-pages-url.com/api
 ```
 
 ## 🙋🏻 常问问题

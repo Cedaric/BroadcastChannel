@@ -3,7 +3,7 @@ import { getEnv } from '../lib/env'
 import voidFile from '../assets/void.png'
 import rss from '../assets/rss.svg'
 import podcast from '../assets/podcast.svg'
-import twitter from '../assets/twitter.svg'
+import x from '../assets/x.svg'
 import github from '../assets/github.svg'
 import discord from '../assets/discord.svg'
 import telegram from '../assets/telegram.svg'
@@ -14,14 +14,14 @@ const { SITE_URL, RSS_URL } = Astro.locals
 const { channel } = Astro.props
 
 const PODCASRT = getEnv(import.meta.env, Astro, 'PODCASRT')
-const TWITTER = getEnv(import.meta.env, Astro, 'TWITTER')
+const X = getEnv(import.meta.env, Astro, 'X')
 const GITHUB = getEnv(import.meta.env, Astro, 'GITHUB')
 const TELEGRAM = getEnv(import.meta.env, Astro, 'TELEGRAM')
 const DISCORD = getEnv(import.meta.env, Astro, 'DISCORD')
 const MASTODON = getEnv(import.meta.env, Astro, 'MASTODON')
 const BLUESKY = getEnv(import.meta.env, Astro, 'BLUESKY')
 
-const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? '/static/'
+const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? ''
 const hideDescription = getEnv(import.meta.env, Astro, 'HIDE_DESCRIPTION')
 ---
 
@@ -53,9 +53,9 @@ const hideDescription = getEnv(import.meta.env, Astro, 'HIDE_DESCRIPTION')
     }
 
     {
-      TWITTER && TWITTER.length > 0 && (
-        <a href={`https://twitter.com/${TWITTER}`} title="Twitter" target="_blank">
-          <img {...twitter} alt={`twitter.com/${TWITTER}`} class="social-icon" width="1em" />
+      X && X.length > 0 && (
+        <a href={`https://X.com/${X}`} title="X" target="_blank">
+          <img {...x} alt={`X.com/${X}`} class="social-icon" width="1em" />
         </a>
       )
     }

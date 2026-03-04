@@ -17,9 +17,11 @@ const channel = {
   ...(channelInfo || {}),
   posts: [post],
   seo: post,
+  prevPostId: post.prevPostId,
+  nextPostId: post.nextPostId,
 }
 
-const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? '/static/'
+const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? ''
 ---
 
 <List channel={channel} before={false} after={false} isItem={true}>

@@ -8,8 +8,8 @@ English | [简体中文](./README.zh-cn.md)
 
 ## ✨ Features
 
-- **Turn your Telegram Channel into a MicroBlog**
-- **SEO friendly** `/sitemap.xml`
+- **SEO friendly** scalable `/sitemap-index.xml`
+- **Media Localization** automatically downloads CDN images/audio/video to prevent link expiration
 - **0 JS on the browser side**
 - **RSS and RSS JSON** `/rss.xml` `/rss.json`
 
@@ -81,6 +81,18 @@ For detailed tutorials, see [Deploy your Astro site](https://docs.astro.build/en
 6. Bind a domain (optional).
 7. Update code, refer to the official GitHub documentation [Syncing a fork branch from the web UI](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui).
 
+#### Advanced Deployment: Static Two-Stage Architecture (Zero Timeouts)
+
+If you experience crawl timeouts or poor SEO indexing for your Sitemap/RSS, you can enable the disconnected static API pipeline:
+
+1. **Configure GitHub Secrets**: Go to your repository **Settings -> Secrets and variables -> Actions** and add the following Repository secrets:
+   - `CHANNEL`: Your Telegram channel name (e.g. `miantiao_me`).
+   - `SITE_URL` (Optional but recommended): The primary URL your site will be deployed at (e.g. `https://memo.miantiao.me`) to build accurate Sitemaps.
+2. Go to the **Actions** tab in your repository and manually trigger the `Static Data Sync` workflow once. The Action will **automatically create an empty `data` branch** and push the compiled static APIs there.
+3. Go to your repository **Settings -> Pages** and point GitHub Pages to deploy from the `data` branch.
+4. Go to your Astro deployment configuration (Vercel/Cloudflare, etc.) and add the `STATIC_API_URL` environment variable, setting it to your GitHub Pages URL (e.g. `STATIC_API_URL=https://<username>.github.io/<repo-name>`) or bound custom `data` domain. **This also fully resolves cross-domain loading for all natively localized media (images/video/audio).**
+5. The Astro site will instantly snap to 0-latency static rendering with failproof Search Engine discovery.
+
 ## ⚒️ Configuration
 
 ```env
@@ -93,7 +105,7 @@ TIMEZONE=America/New_York
 
 ## Social media usernames
 TELEGRAM=miantiao-me
-TWITTER=miantiao-me
+X=miantiao-me
 GITHUB=miantiao-me
 MASTODON=mastodon.social/@Mastodon
 BLUESKY=bsky.app
@@ -120,7 +132,6 @@ SENTRY_PROJECT=SENTRY_PROJECT
 
 ## Telegram host name and static resource proxy, not recommended to modify
 HOST=telegram.dog
-STATIC_PROXY=
 
 ## Enable Google Site Search
 GOOGLE_SEARCH_SITE=memo.miantiao.me
@@ -142,6 +153,9 @@ NAVS=Title1,URL1;Title2,URL3;Title3,URL3;
 
 ## Enable RSS beautify
 RSS_BEAUTIFY=true
+
+## Advanced: Static API Engine Node (See Advanced Deployment). Used for cross-domain static data and media assets.
+STATIC_API_URL=https://your-github-pages-url.com/api
 ```
 
 ## 🙋🏻 FAQs

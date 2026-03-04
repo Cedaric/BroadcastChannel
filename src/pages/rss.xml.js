@@ -4,6 +4,16 @@ import { getEnv } from '../lib/env'
 import { getChannelInfo } from '../lib/telegram'
 
 export async function GET(Astro) {
+  const staticApiUrl = getEnv(import.meta.env, Astro, 'STATIC_API_URL')
+  if (staticApiUrl && !Astro.url.searchParams.get('tag')) { // We don't have static tagged RSS
+    const res = await fetch(`${staticApiUrl}/rss.xml`)
+    if (res.ok) {
+      return new Response(await res.text(), {
+        headers: { 'Content-Type': 'application/xml', 'Cache-Control': 'public, max-age=3600' },
+      })
+    }
+  }
+
   const { SITE_URL } = Astro.locals
   const tag = Astro.url.searchParams.get('tag')
   const channel = await getChannelInfo(Astro, {

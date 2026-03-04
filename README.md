@@ -85,13 +85,34 @@ For detailed tutorials, see [Deploy your Astro site](https://docs.astro.build/en
 
 If you experience crawl timeouts or poor SEO indexing for your Sitemap/RSS, you can enable the disconnected static API pipeline:
 
-1. **Configure GitHub Secrets**: Go to your repository **Settings -> Secrets and variables -> Actions** and add the following Repository secrets:
-   - `CHANNEL`: Your Telegram channel name (e.g. `miantiao_me`).
-   - `SITE_URL` (Optional but recommended): The primary URL your site will be deployed at (e.g. `https://memo.miantiao.me`) to build accurate Sitemaps.
-2. Go to the **Actions** tab in your repository and manually trigger the `Static Data Sync` workflow once. The Action will **automatically create an empty `data` branch** and push the compiled static APIs there.
-3. Go to your repository **Settings -> Pages** and point GitHub Pages to deploy from the `data` branch.
-4. Go to your Astro deployment configuration (Vercel/Cloudflare, etc.) and add the `STATIC_API_URL` environment variable, setting it to your GitHub Pages URL (e.g. `STATIC_API_URL=https://<username>.github.io/<repo-name>`) or bound custom `data` domain. **This also fully resolves cross-domain loading for all natively localized media (images/video/audio).**
-5. The Astro site will instantly snap to 0-latency static rendering with failproof Search Engine discovery.
+# English Translation
+
+1. Configure GitHub Secrets
+   In your GitHub repository's Settings -> Secrets and variables -> Actions, add the following Repository variables:
+   * CHANNELS_CONFIG: Configure channel names and associated URLs for building Sitemaps. The value must be in standard JSON array format:
+   * 
+```json
+   [
+     {
+       "name": "durov",
+       "url": "https://api-durov.yourdomain.com"
+     },
+     {
+       "name": "telegram",
+       "url": "https://api-tg.yourdomain.com"
+     }
+   ]
+```
+
+2. Trigger the Initial Sync
+   Go to your repository's Actions panel and manually trigger the Static Data Sync workflow. This Action will run concurrently and automatically create multiple independent data branches (such as data-durov, data-telegram) for you.
+
+3. Configure Multi-instance Deployment (Vercel/Netlify)
+   Go to your static hosting platform and create a separate project instance for each channel:
+   * Project A (Durov API): Link to this GitHub repository, select data-durov as the deployment branch, no build command needed (pure static files). Bind the domain api-durov.yourdomain.com.
+   * Project B (Telegram API): Link to the same repository, select data-telegram as the deployment branch, also no build command needed. Bind the domain api-tg.yourdomain.com.
+
+4. Return to your deployment platform (where your Astro site is deployed, such as Vercel/Netlify), and set the `STATIC_API_URL` in your `.env` environment variables to your custom domain, for example `STATIC_API_URL=https://api-durov.yourdomain.com/api`.
 
 ## ⚒️ Configuration
 

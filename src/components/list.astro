@@ -48,16 +48,16 @@ const { hasNextPage, hasPrevPage, nextPageUrl, prevPageUrl } = channel.paginatio
         </>
       ) : isItem && (channel.prevPostId || channel.nextPostId) ? (
         <>
-          {channel.nextPostId ? (
-            <a href={`${SITE_URL}posts/${channel.nextPostId}`} title="Older" class="page">
+          {channel.prevPostId ? (
+            <a href={`${SITE_URL}posts/${channel.prevPostId}`} title="Older" class="page">
               Before
             </a>
           ) : (
             <span class="page-placeholder">&nbsp;</span>
           )}
           <div class="pages-info" />
-          {channel.prevPostId ? (
-            <a href={`${SITE_URL}posts/${channel.prevPostId}`} title="Newer" class="page">
+          {channel.nextPostId ? (
+            <a href={`${SITE_URL}posts/${channel.nextPostId}`} title="Newer" class="page">
               After
             </a>
           ) : (

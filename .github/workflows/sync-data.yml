@@ -2,7 +2,7 @@ name: Static Data Sync
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 2,3,4,7,13,14,16 * * *'
   workflow_dispatch:
 
 jobs:

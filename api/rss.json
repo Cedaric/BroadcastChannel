@@ -1,0 +1,16 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "OwenChannel",
+  "description": "Telegram Broadcast Channel for OwenChannel",
+  "home_page_url": "https://owen.ceda.is/",
+  "items": [
+    {
+      "url": "https://owen.ceda.is/posts/3",
+      "title": "所有内容默认可被质疑",
+      "description": "",
+      "date_published": "2026-03-03T15:39:04.000Z",
+      "tags": [],
+      "content_html": "所有内容默认可被质疑。"
+    }
+  ]
+}

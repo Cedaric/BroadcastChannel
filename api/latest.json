@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Owen's channel",
+    "description": "",
+    "avatar": "/static/ba313a7aee0b526d6071e7bb137959df.jpg",
+    "totalPosts": 1,
+    "totalPages": 1,
+    "currentPage": 1,
+    "pageSize": 20,
+    "hasNextPage": false,
+    "hasPrevPage": false,
+    "nextPageUrl": null,
+    "prevPageUrl": null
+  },
+  "data": [
+    {
+      "id": "3",
+      "title": "所有内容默认可被质疑",
+      "type": "text",
+      "datetime": "2026-03-03T15:39:04+00:00",
+      "tags": [],
+      "text": "所有内容默认可被质疑。",
+      "content": "所有内容默认可被质疑。",
+      "reactions": []
+    }
+  ]
+}

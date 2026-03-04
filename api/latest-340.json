@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "title": "Fiona’s daily news",
+    "description": "",
+    "avatar": "/static/9f18ebc1dde8dffdc92732e2c6944e6d.jpg",
+    "totalPosts": 525,
+    "totalPages": 27,
+    "currentPage": 18,
+    "pageSize": 20,
+    "hasNextPage": true,
+    "hasPrevPage": true,
+    "nextPageUrl": "latest-360.json",
+    "prevPageUrl": "latest-320.json"
+  },
+  "data": [
+    {
+      "id": "201",
+      "title": "起床了！恭喜咱们抄底成功",
+      "type": "text",
+      "datetime": "2024-08-06T01:14:27+00:00",
+      "tags": [],
+      "text": "起床了！恭喜咱们抄底成功",
+      "content": "起床了！恭喜咱们抄底成功",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "31",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "title": "又买了一点",
+      "type": "text",
+      "datetime": "2024-08-05T13:51:06+00:00",
+      "tags": [],
+      "text": "又买了一点",
+      "content": "又买了一点",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "17",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "199",
+      "title": "想了想也不可能买到真的最低点，为了让自己的波段真正成功，119买入一成仓位的 $SOL",
+      "type": "text",
+      "datetime": "2024-08-05T09:01:55+00:00",
+      "tags": [],
+      "text": "想了想也不可能买到真的最低点，为了让自己的波段真正成功，119买入一成仓位的 $SOL",
+      "content": "想了想也不可能买到真的最低点，为了让自己的波段真正成功，119买入一成仓位的 $SOL",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "19",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "198",
+      "title": "Lucky的我，逃顶两次，先是卖了SOL和其他，再是昨晚割了AAVE",
+      "type": "text",
+      "datetime": "2024-08-05T04:13:08+00:00",
+      "tags": [],
+      "text": "Lucky的我，逃顶两次，先是卖了SOL和其他，再是昨晚割了AAVE。下一条就是抄底了，但是不是现在。这次系统性风险导致的，多看少动。",
+      "content": "Lucky的我，逃顶两次，先是卖了SOL和其他，再是昨晚割了AAVE。<br><br>下一条就是抄底了，但是不是现在。这次系统性风险导致的，多看少动。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "197",
+      "title": "Lucky的我，逃顶两次，先是卖了SOL和其他，再是昨晚割了AAVE",
+      "type": "text",
+      "datetime": "2024-08-05T04:12:14+00:00",
+      "tags": [],
+      "text": "Lucky的我，逃顶两次，先是卖了SOL和其他，再是昨晚割了AAVE。下一条就是抄底了，但是不是现在。这次系统性风险导致的，多看少动。",
+      "content": "Lucky的我，逃顶两次，先是卖了SOL和其他，再是昨晚割了AAVE。<br><br>下一条就是抄底了，但是不是现在。这次系统性风险导致的，多看少动。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "😍",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "title": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
+      "type": "text",
+      "datetime": "2024-08-04T14:21:46+00:00",
+      "tags": [],
+      "text": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
+      "content": "后悔太早买了，市场的不确定性依旧很大，先把AAVE卖了，亏损2个点",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "195",
+      "title": "买了一点 AAVE 弱市场里的强势币",
+      "type": "text",
+      "datetime": "2024-08-03T08:57:05+00:00",
+      "tags": [],
+      "text": "买了一点 AAVE 弱市场里的强势币",
+      "content": "买了一点 AAVE 弱市场里的强势币",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "title": "回看只能说卖的好！ 等一个好位置再抄底",
+      "type": "text",
+      "datetime": "2024-08-01T06:07:42+00:00",
+      "tags": [],
+      "text": "回看只能说卖的好！ 等一个好位置再抄底",
+      "content": "回看只能说卖的好！ 等一个好位置再抄底",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "29",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "title": "止盈减仓1/3",
+      "type": "text",
+      "datetime": "2024-07-29T14:39:52+00:00",
+      "tags": [],
+      "text": "止盈减仓1/3",
+      "content": "止盈减仓1/3",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "13",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "192",
+      "title": "Fiona’s daily news, &.231⃣️重大消息1-ETH ETF通过并将开始正式交易2-随着选举进入未知领域，拜登的退出刺激 Polymarket 日交易量创纪录的 2800 万美元，对美国总统选举获胜者的赌注飙升至超过 3 亿美元2⃣️公司：1-传英伟达将推出中国特供版「Blackwell」架构 B20 加速器2-马斯克：特斯拉有望 2026 年大规模生产人形机器人，供其他公司使用3- 微软技术故障造成全球损失或超 10 亿美元3⃣️行情预测1-有分析师指出：在特朗普参加比特币大会之前获利了结将会付出昂贵的代价",
+      "type": "text",
+      "datetime": "2024-07-23T02:47:05+00:00",
+      "tags": [],
+      "text": "Fiona’s daily news, &.231⃣️重大消息1-ETH ETF通过并将开始正式交易2-随着选举进入未知领域，拜登的退出刺激 Polymarket 日交易量创纪录的 2800 万美元，对美国总统选举获胜者的赌注飙升至超过 3 亿美元2⃣️公司：1-传英伟达将推出中国特供版「Blackwell」架构 B20 加速器2-马斯克：特斯拉有望 2026 年大规模生产人形机器人，供其他公司使用3- 微软技术故障造成全球损失或超 10 亿美元3⃣️行情预测1-有分析师指出：在特朗普参加比特币大会之前获利了结将会付出昂贵的代价。https://www.coindesk.com/markets/2024/07/22/taking-profits-on-bitcoin-ahead-of-trump-conference-appearance-could-be-expensive-exercise-analyst/2-10x Research 创始人Markus Thielen预计特朗普将赢得 11 月大选，引发 SEC 主席Gary Gensler 提前退位。（放鞭炮庆祝）",
+      "content": "Fiona’s daily news, &amp;.23<br><i class=\"emoji\"><b>1⃣️</b></i>重大消息<br>1-ETH ETF通过并将开始正式交易<br>2-随着选举进入未知领域，拜登的退出刺激 Polymarket 日交易量创纪录的 2800 万美元，对美国总统选举获胜者的赌注飙升至超过 3 亿美元<br><br><i class=\"emoji\"><b>2⃣️</b></i>公司：<br>1-传英伟达将推出中国特供版「Blackwell」架构 B20 加速器<br>2-马斯克：特斯拉有望 2026 年大规模生产人形机器人，供其他公司使用<br>3- 微软技术故障造成全球损失或超 10 亿美元<br><br><i class=\"emoji\"><b>3⃣️</b></i>行情预测<br>1-有分析师指出：在特朗普参加比特币大会之前获利了结将会付出昂贵的代价。<a href=\"https://www.coindesk.com/markets/2024/07/22/taking-profits-on-bitcoin-ahead-of-trump-conference-appearance-could-be-expensive-exercise-analyst/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.coindesk.com/markets/2024/07/22/taking-profits-on-bitcoin-ahead-of-trump-conference-appearance-could-be-expensive-exercise-analyst/\">https://www.coindesk.com/markets/2024/07/22/taking-profits-on-bitcoin-ahead-of-trump-conference-appearance-could-be-expensive-exercise-analyst/</a><br>2-10x Research 创始人Markus Thielen预计特朗普将赢得 11 月大选，引发 SEC 主席Gary Gensler 提前退位。（放鞭炮庆祝）<a class=\"tgme_widget_message_link_preview\" href=\"https://www.coindesk.com/markets/2024/07/22/taking-profits-on-bitcoin-ahead-of-trump-conference-appearance-could-be-expensive-exercise-analyst\" target=\"_blank\" rel=\"noopener\" title=\"Traders could be forgiven for wanting to cash in after bitcoin's {{BTC}} quick rise of more than 20% to the current $67,000 from its early July lows, but another possibly major positive catalyst might be just days away, said 10x Research founder Markus Thielen.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Coindesk</div>\n  <img class=\"link_preview_image\" alt=\"Taking Profits on Bitcoin Ahead of Trump Conference Appearance Could Be 'Expensive Exercise': Analyst\" src=\"/static/3a7a37c773d56d0c3b6c2e8f896e2254.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Taking Profits on Bitcoin Ahead of Trump Conference Appearance Could Be 'Expensive Exercise': Analyst</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Traders could be forgiven for wanting to cash in after bitcoin's {{BTC}} quick rise of more than 20% to the current $67,000 from its early July lows, but another possibly major positive catalyst might be just days away, said 10x Research founder Markus Thielen.</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "title": "Sol最靓的仔！今天2810到2820加仓了一点MKR，主要还是基于拆分预期和RWA收益",
+      "type": "text",
+      "datetime": "2024-07-22T11:12:42+00:00",
+      "tags": [],
+      "text": "Sol最靓的仔！今天2810到2820加仓了一点MKR，主要还是基于拆分预期和RWA收益。",
+      "content": "Sol最靓的仔！<br>今天2810到2820加仓了一点MKR，主要还是基于拆分预期和RWA收益。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "190",
+      "title": "BTC 60k-66k，SOL 150-169",
+      "type": "text",
+      "datetime": "2024-07-19T23:33:05+00:00",
+      "tags": [],
+      "text": "BTC 60k-66k，SOL 150-169",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/186\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">关停了网格，从中性走向看涨。暂无其他操作，毕竟之前加仓加在山腰了几次。 看好 $SOL $BTC</div>\n</small></blockquote></a>BTC 60k-66k，SOL 150-169",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "title": "people止盈，看不太懂了",
+      "type": "text",
+      "datetime": "2024-07-18T16:00:06+00:00",
+      "tags": [],
+      "text": "people止盈，看不太懂了",
+      "content": "people止盈，看不太懂了",
+      "reactions": []
+    },
+    {
+      "id": "188",
+      "title": "否极泰来 大石落地Mt.Gox冷钱包地址再次将约48641枚BTC转至一新地址PANews 7月16日消息，据Arkham监测，Mt.Gox冷钱包地址4分钟前向3JQieE开头新地址转移约48641枚BTC，价值约30.7亿美元",
+      "type": "text",
+      "datetime": "2024-07-16T08:59:09+00:00",
+      "tags": [],
+      "text": "否极泰来 大石落地Mt.Gox冷钱包地址再次将约48641枚BTC转至一新地址PANews 7月16日消息，据Arkham监测，Mt.Gox冷钱包地址4分钟前向3JQieE开头新地址转移约48641枚BTC，价值约30.7亿美元。🔗https://www.panewslab.com/zh/sqarticledetails/lebjr3tn.html",
+      "content": "否极泰来 大石落地<br><br>Mt.Gox冷钱包地址再次将约48641枚BTC转至一新地址<br><br>PANews 7月16日消息，据Arkham监测，Mt.Gox冷钱包地址4分钟前向3JQieE开头新地址转移约48641枚BTC，价值约30.7亿美元。<br><br><i class=\"emoji\"><b>🔗</b></i><a href=\"https://www.panewslab.com/zh/sqarticledetails/lebjr3tn.html\" target=\"_blank\" rel=\"noopener\" title=\"https://www.panewslab.com/zh/sqarticledetails/lebjr3tn.html\">https://www.panewslab.com/zh/sqarticledetails/lebjr3tn.html</a><a class=\"tgme_widget_message_link_preview\" href=\"https://www.panewslab.com/zh/sqarticledetails/lebjr3tn.html\" target=\"_blank\" rel=\"noopener\" title=\"\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/30064bc3052529c8a8c44fdde7d5197a.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Panews</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">PANews | PANews</div>\n  \n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "title": "暴涨 如期而至",
+      "type": "text",
+      "datetime": "2024-07-15T23:42:22+00:00",
+      "tags": [],
+      "text": "暴涨 如期而至",
+      "content": "暴涨 如期而至",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "20",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "title": "关停了网格，从中性走向看涨",
+      "type": "text",
+      "datetime": "2024-07-15T08:11:26+00:00",
+      "tags": [],
+      "text": "关停了网格，从中性走向看涨。暂无其他操作，毕竟之前加仓加在山腰了几次。看好 $SOL $BTC",
+      "content": "关停了网格，从中性走向看涨。暂无其他操作，毕竟之前加仓加在山腰了几次。<br>看好 $SOL $BTC",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "185",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-07-14T07:03:08+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-185-0\" popovertargetaction=\"show\">\n        <img src=\"/static/550a5248f704f057daf76113b1e28fe9.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-185-0\" popovertarget=\"modal-185-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/550a5248f704f057daf76113b1e28fe9.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "title": "买了 EAR FIGHT PEOPLE ，加上之前的Trump，应该就是我今年的选举组合选币了",
+      "type": "text",
+      "datetime": "2024-07-14T04:31:08+00:00",
+      "tags": [],
+      "text": "买了 EAR FIGHT PEOPLE ，加上之前的Trump，应该就是我今年的选举组合选币了。今天的事情会很大地改变选举的进程",
+      "content": "买了 EAR FIGHT PEOPLE ，加上之前的Trump，应该就是我今年的选举组合选币了。今天的事情会很大地改变选举的进程",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "title": "老树开新花，MakerDao 8月将上新：",
+      "type": "text",
+      "datetime": "2024-07-06T09:25:16+00:00",
+      "tags": [],
+      "text": "老树开新花，MakerDao 8月将上新：https://x.com/nft_hu/status/1809518564178804964",
+      "content": "老树开新花，MakerDao 8月将上新：<br><a href=\"https://x.com/nft_hu/status/1809518564178804964\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1809518564178804964\">https://x.com/nft_hu/status/1809518564178804964</a>",
+      "reactions": []
+    },
+    {
+      "id": "182",
+      "title": "Upbit 上线ondo, ondo算是这次残酷行情下最坚挺的代币了🫡",
+      "type": "text",
+      "datetime": "2024-06-14T03:31:19+00:00",
+      "tags": [],
+      "text": "Upbit 上线ondo, ondo算是这次残酷行情下最坚挺的代币了🫡",
+      "content": "Upbit 上线ondo, ondo算是这次残酷行情下最坚挺的代币了<i class=\"emoji\"><b>🫡</b></i>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}

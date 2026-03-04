@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Fiona’s daily news",
+    "description": "",
+    "avatar": "/static/9f18ebc1dde8dffdc92732e2c6944e6d.jpg",
+    "totalPosts": 525,
+    "totalPages": 27,
+    "currentPage": 3,
+    "pageSize": 20,
+    "hasNextPage": true,
+    "hasPrevPage": true,
+    "nextPageUrl": "latest-60.json",
+    "prevPageUrl": "latest-20.json"
+  },
+  "data": [
+    {
+      "id": "514",
+      "title": "【Fiona 的日报频道】 2026-01-26 ━━ 宏观要闻 ━━1️⃣ 🌟 盘前美股下跌：风险偏好回落、关门担忧上升 + 利率/财报焦虑 美股盘前期货普遍走低，道指、标普 500、纳指期货均跌约 0.3%–0.7%",
+      "type": "text",
+      "datetime": "2026-01-26T06:14:26+00:00",
+      "tags": [],
+      "text": "【Fiona 的日报频道】 2026-01-26 ━━ 宏观要闻 ━━1️⃣ 🌟 盘前美股下跌：风险偏好回落、关门担忧上升 + 利率/财报焦虑 美股盘前期货普遍走低，道指、标普 500、纳指期货均跌约 0.3%–0.7%。市场担忧 美国政府可能再次关门（因参议院与众议院就国土安全拨款存在分歧），同时等待本周美联储利率决议与大型科技财报。政治与政策不确定性叠加销售季疲弱预期令风险资产承压。2️⃣ 美国天然气期货大幅上涨 受大范围冬季寒潮影响，美国天然气期货价格自 **2022年以来首次突破每百万英热单位 **6 美元关口，主要因供暖需求激增且部分产能受寒潮干扰。3️⃣ 美联储前景与宏观数据不确定性 市场对美联储本周政策会议当前维持利率不变的预期较强，同时对未来降息路径分歧存在；数据延迟（如政府关门可能影响数据发布）使政策方向不够明确。4️⃣印度尼帕病毒疫情爆发，传染源或来自医院。评价： 短线风险偏好偏弱，盘前调整主要来自政策/政治不确定性叠加事件风险（政府关门可能性、利率与企业财报压力）。天然气与避险资产表现分化明显，能源市场受到天气与供需基本面的双重动。━━ AI / 科技新闻 ━━1️⃣ 大型科技财报密集发布将成为近期市场焦点 市场正进入一轮大型科技公司业绩密集发布期，包括微软、Meta、苹果等，投资者将在未来几天密切关注其盈利与指南更新。2️⃣特斯拉Optimus将进驻奥斯汀工厂，马斯克预测明年开售。3️⃣达沃斯现分歧：DeepMind称存在泡沫，英伟达、微软坚称需求旺盛。4️⃣IDC：2025年全球人形机器人出货量约1.8万台，智元在五大商用场景领先。5️⃣银河通用成为2026春晚指定具身大模型机器人。━━ 商品 & 能源 ━━1️⃣ 天然气炸裂式涨势 美国天然气期货在寒潮影响下大幅上扬，突破 6 美元整数关口；极端天气带来的取暖需求激增与生产受限是主因。2️⃣ 原油价格维持高位震荡 受寒潮与供应不确定性影响，原油整体维持震荡态势，Brent 与 WTI 均相对平稳；地缘政治与冬季供需基本面共同支撑油价。3️⃣ 贵金属避险氛围延续 避险需求延续推升黄金等贵金属价格，高位震荡反映市场对不确定性的持续定价。评价： 能源市场短期由天气与供应扰动主导；除天然气外，其他能源产品显现出在地缘与基本面力量之间震荡的特征。━━ 加密市场 ━━1️⃣ BTC ≈ $87,000 左右震荡2️⃣ ETH 跟随 BTC 整体情绪波动 以太坊亦表现震荡，对宏观危险资产偏好下降敏感。评价： 加密继续呈现高 beta 同步性：在宏观不确定性上升时表现弱于风格性风险资产单边行情。",
+      "content": "<b>【Fiona 的日报频道】 2026-01-26<br> ━━ 宏观要闻 ━━<br><i class=\"emoji\"><b>1️⃣</b></i> <i class=\"emoji\"><b>🌟</b></i> 盘前美股下跌：风险偏好回落、关门担忧上升 + 利率/财报焦虑</b><br> 美股盘前期货普遍走低，道指、标普 500、纳指期货均跌约 0.3%–0.7%。市场担忧 美国政府可能再次关门（因参议院与众议院就国土安全拨款存在分歧），同时等待本周美联储利率决议与大型科技财报。政治与政策不确定性叠加销售季疲弱预期令风险资产承压。<br><i class=\"emoji\"><b>2️⃣</b></i> 美国天然气期货大幅上涨<br> 受大范围冬季寒潮影响，美国天然气期货价格自 **2022年以来首次突破每百万英热单位 **6 美元关口，主要因供暖需求激增且部分产能受寒潮干扰。<br><i class=\"emoji\"><b>3️⃣</b></i> 美联储前景与宏观数据不确定性<br> 市场对美联储本周政策会议当前维持利率不变的预期较强，同时对未来降息路径分歧存在；数据延迟（如政府关门可能影响数据发布）使政策方向不够明确。<br><i class=\"emoji\"><b>4️⃣</b></i>印度尼帕病毒疫情爆发，传染源或来自医院。<br>评价：<br> 短线风险偏好偏弱，盘前调整主要来自政策/政治不确定性叠加事件风险（政府关门可能性、利率与企业财报压力）。天然气与避险资产表现分化明显，能源市场受到天气与供需基本面的双重动。<br><br><b>━━ AI / 科技新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i> 大型科技财报密集发布将成为近期市场焦点<br> 市场正进入一轮大型科技公司业绩密集发布期，包括微软、Meta、苹果等，投资者将在未来几天密切关注其盈利与指南更新。<br><i class=\"emoji\"><b>2️⃣</b></i>特斯拉Optimus将进驻奥斯汀工厂，马斯克预测明年开售。<br><i class=\"emoji\"><b>3️⃣</b></i>达沃斯现分歧：DeepMind称存在泡沫，英伟达、微软坚称需求旺盛。<br><i class=\"emoji\"><b>4️⃣</b></i>IDC：2025年全球人形机器人出货量约1.8万台，智元在五大商用场景领先。<br><i class=\"emoji\"><b>5️⃣</b></i>银河通用成为2026春晚指定具身大模型机器人。<br><br><b>━━ 商品 &amp; 能源 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i> 天然气炸裂式涨势<br> 美国天然气期货在寒潮影响下大幅上扬，突破 6 美元整数关口；极端天气带来的取暖需求激增与生产受限是主因。</b><br><i class=\"emoji\"><b>2️⃣</b></i> 原油价格维持高位震荡<br> 受寒潮与供应不确定性影响，原油整体维持震荡态势，Brent 与 WTI 均相对平稳；地缘政治与冬季供需基本面共同支撑油价。<br><i class=\"emoji\"><b>3️⃣</b></i> 贵金属避险氛围延续<br> 避险需求延续推升黄金等贵金属价格，高位震荡反映市场对不确定性的持续定价。<br>评价：<br> 能源市场短期由天气与供应扰动主导；除天然气外，其他能源产品显现出在地缘与基本面力量之间震荡的特征。<br><br><b>━━ 加密市场 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i> BTC ≈ $87,000 左右震荡<br><i class=\"emoji\"><b>2️⃣</b></i> ETH 跟随 BTC 整体情绪波动<br> 以太坊亦表现震荡，对宏观危险资产偏好下降敏感。<br>评价：<br> 加密继续呈现高 beta 同步性：在宏观不确定性上升时表现弱于风格性风险资产单边行情。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "513",
+      "title": "美国要给加拿大100%关税特朗普: 卡尼，不叫我爸爸的代价你一会就懂了",
+      "type": "text",
+      "datetime": "2026-01-24T14:37:07+00:00",
+      "tags": [],
+      "text": "美国要给加拿大100%关税特朗普: 卡尼，不叫我爸爸的代价你一会就懂了https://x.com/kobeissiletter/status/2015066539335074118?s=46",
+      "content": "美国要给加拿大100%关税<br>特朗普: 卡尼，不叫我爸爸的代价你一会就懂了<a href=\"https://x.com/kobeissiletter/status/2015066539335074118?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/kobeissiletter/status/2015066539335074118?s=46\">https://x.com/kobeissiletter/status/2015066539335074118?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/kobeissiletter/status/2015066539335074118?s=46\" target=\"_blank\" rel=\"noopener\" title=\"BREAKING: President Trump says he will impose a 100% tariff on ALL Canadian goods and products if Canada makes a trade deal with China.Just 8 days ago, Canada announced a new &quot;strategic partnership&quot; with China.We are back to step #1 of the tariff playbook.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/7728d14e2fccb0e29623d7f3130dd96b.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">The Kobeissi Letter (@KobeissiLetter) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BREAKING: President Trump says he will impose a 100% tariff on ALL Canadian goods and products if Canada makes a trade deal with China.<br><br>Just 8 days ago, Canada announced a new \"strategic partnership\" with China.<br><br>We are back to step #1 of the tariff playbook.</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "512",
+      "title": "【Fiona的日报频道】  2026-01-24 ━━ 宏观要闻 ━━ 1️⃣ 🌟 美股：科技股带动大盘微涨 — Intel下跌拖累情绪 标普500 和纳指周五收盘微涨，受 科技巨头（MSFT、NFLX、META、AMZN、NVDA） 上扬提振；但 Intel 股价大跌约15% 挫伤市场风险偏好，地缘政治紧张也令避险情绪升温",
+      "type": "text",
+      "datetime": "2026-01-24T01:25:07+00:00",
+      "tags": [],
+      "text": "【Fiona的日报频道】  2026-01-24 ━━ 宏观要闻 ━━ 1️⃣ 🌟 美股：科技股带动大盘微涨 — Intel下跌拖累情绪 标普500 和纳指周五收盘微涨，受 科技巨头（MSFT、NFLX、META、AMZN、NVDA） 上扬提振；但 Intel 股价大跌约15% 挫伤市场风险偏好，地缘政治紧张也令避险情绪升温。金银连创新高反映避险需求。VIX波动率有所上升。2️⃣ 利率预期与美联储前景 市场目前预期美联储维持利率不变；另一方面，汇丰银行认为美联储降息周期已结束，反映通胀与经济韧性高于市场普遍预期。3️⃣ 🌟 中国将推出人民币计价 LNG 期货 路透报道，中国计划最早于下月在上海期货交易所推出人民币计价的 液化天然气（LNG）期货，试图减少对西方定价基准的依赖，并增强国内能源风险对冲能力。4️⃣特朗普称将于4月访问中国，外交部回应。5️⃣据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。6️⃣土耳其外交部长：有迹象表明以色列仍在寻求攻击伊朗。评价： 美股走势显示“风险偏好偏均衡”；宏观利率预期趋稳，美元/避险资产分化。━━ AI / 科技新闻 ━━ 1️⃣ 🌟 中国或允许企业准备下单 $NVDA H200 芯片 彭博等报道，中国监管机构正接近批准进口 Nvidia H200 AI 芯片订单，多家中国科技巨头（如 Alibaba Group、腾讯等）被告知可准备订单，这令 $NVDA 在开盘前股价上涨。2️⃣ Nvidia股价因H200中国动态获得支撑 市场解读称，中国可能重启对 H200 订单的批准是利好，NVDA 股价在盘前走高；AMD 等其他芯片供应商也受提振。3️⃣瑞银：英特尔14A先进工艺落地或促成与头部科技企业合作。瑞银将英特尔的目标股价由每股49美元上调至每股52美元。━━ 商品 & 能源 ━━ 1️⃣ 国际油价短期回落 在特朗普对格陵兰与伊朗缓和态度的背景下，国际油价曾出现约2%下跌，反映地缘风险溢价有所下移。2️⃣ 贵金属持续创新高 现货黄金持续攀升并触及历史高点，白银也突破关键关口100大关，显示避险资金大规模流入。3️⃣ 天然气期货波动显著 近期美国天然气期货先涨后回落，全天振幅较大，表明天气预期与供需不确定性短线上推高了波动性。4️⃣智利矿业协会警示：铜矿供应增长仍需数年方可显现。评价： 避险属性商品表现强劲；油价受宏观预期与地缘变量交织影响震荡；能源类资产近期分化明显。",
+      "content": "<b>【Fiona的日报频道】  2026-01-24 </b><br><b>━━ 宏观要闻 ━━</b><br> <b><i class=\"emoji\"><b>1️⃣</b></i> <i class=\"emoji\"><b>🌟</b></i> 美股：科技股带动大盘微涨 — Intel下跌拖累情绪<br> 标普500 和纳指周五收盘微涨，受 科技巨头（MSFT、NFLX、META、AMZN、NVDA） 上扬提振；但 Intel 股价大跌约15% 挫伤市场风险偏好，地缘政治紧张也令避险情绪升温。金银连创新高反映避险需求。VIX波动率有所上升。</b><br><i class=\"emoji\"><b>2️⃣</b></i> 利率预期与美联储前景<br> 市场目前预期美联储维持利率不变；另一方面，汇丰银行认为美联储降息周期已结束，反映通胀与经济韧性高于市场普遍预期。<br><i class=\"emoji\"><b>3️⃣</b></i> <i class=\"emoji\"><b>🌟</b></i> 中国将推出人民币计价 LNG 期货<br> 路透报道，中国计划最早于下月在上海期货交易所推出人民币计价的 液化天然气（LNG）期货，试图减少对西方定价基准的依赖，并增强国内能源风险对冲能力。<br><i class=\"emoji\"><b>4️⃣</b></i>特朗普称将于4月访问中国，外交部回应。<br><i class=\"emoji\"><b>5️⃣</b></i>据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。<br><i class=\"emoji\"><b>6️⃣</b></i>土耳其外交部长：有迹象表明以色列仍在寻求攻击伊朗。<br>评价： 美股走势显示“风险偏好偏均衡”；宏观利率预期趋稳，美元/避险资产分化。<br><b><br>━━ AI / 科技新闻 ━━</b><br> <i class=\"emoji\"><b>1️⃣</b></i> <i class=\"emoji\"><b>🌟</b></i> 中国或允许企业准备下单 $NVDA H200 芯片<br> 彭博等报道，中国监管机构正接近批准进口 Nvidia H200 AI 芯片订单，多家中国科技巨头（如 Alibaba Group、腾讯等）被告知可准备订单，这令 $NVDA 在开盘前股价上涨。<br><i class=\"emoji\"><b>2️⃣</b></i> Nvidia股价因H200中国动态获得支撑<br> 市场解读称，中国可能重启对 H200 订单的批准是利好，NVDA 股价在盘前走高；AMD 等其他芯片供应商也受提振。<br><i class=\"emoji\"><b>3️⃣</b></i>瑞银：英特尔14A先进工艺落地或促成与头部科技企业合作。瑞银将英特尔的目标股价由每股49美元上调至每股52美元。<br><br><b>━━ 商品 &amp; 能源 ━━</b><br> <i class=\"emoji\"><b>1️⃣</b></i> 国际油价短期回落<br> 在特朗普对格陵兰与伊朗缓和态度的背景下，国际油价曾出现约2%下跌，反映地缘风险溢价有所下移。<br><i class=\"emoji\"><b>2️⃣</b></i> 贵金属持续创新高<br> 现货黄金持续攀升并触及历史高点，白银也突破关键关口100大关，显示避险资金大规模流入。<br><i class=\"emoji\"><b>3️⃣</b></i> 天然气期货波动显著<br> 近期美国天然气期货先涨后回落，全天振幅较大，表明天气预期与供需不确定性短线上推高了波动性。<br><i class=\"emoji\"><b>4️⃣</b></i>智利矿业协会警示：铜矿供应增长仍需数年方可显现。<br>评价： 避险属性商品表现强劲；油价受宏观预期与地缘变量交织影响震荡；能源类资产近期分化明显。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "511",
+      "title": "被中国允许H200芯片进口的消息刷屏了",
+      "type": "text",
+      "datetime": "2026-01-23T13:23:19+00:00",
+      "tags": [],
+      "text": "被中国允许H200芯片进口的消息刷屏了。有三点背景说明：1️⃣ 此前中国要求企业证明，为何需要像 H200 这样的芯片、而不是使用国产替代方案。目前这些论证已充分完成，因此 H200 获准下单。2️⃣ 作为下单条件，相关公司 必须同时采购一定数量的国产芯片。3️⃣ 英伟达的业绩指引中并未计入任何中国收入，因此分析师模型中也不应提前计入这部分。也有分析师指出，因为美国对这部分芯片征收额外25%的税款，会让中国AI发展成本较美方更高，从而让盈利变得更难。“Export controls, tariffs, and compliance costs could impose a ~15–30% cost premium on Chinese AI compute compared to U.S. peers.”",
+      "content": "被中国允许H200芯片进口的消息刷屏了。<br><br>有三点背景说明：<br><i class=\"emoji\"><b>1️⃣</b></i> 此前中国要求企业证明，为何需要像 H200 这样的芯片、而不是使用国产替代方案。目前这些论证已充分完成，因此 H200 获准下单。<br><i class=\"emoji\"><b>2️⃣</b></i> 作为下单条件，相关公司 必须同时采购一定数量的国产芯片。<br><i class=\"emoji\"><b>3️⃣</b></i> 英伟达的业绩指引中并未计入任何中国收入，因此分析师模型中也不应提前计入这部分。<br><br>也有分析师指出，因为美国对这部分芯片征收额外25%的税款，会让中国AI发展成本较美方更高，从而让盈利变得更难。<br>“Export controls, tariffs, and compliance costs could impose a ~15–30% cost premium on Chinese AI compute compared to U.S. peers.”",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "510",
+      "title": "Intel 的仓位我不会动，逻辑是：Intel是处在美国国家半导体生态中的关键位置",
+      "type": "text",
+      "datetime": "2026-01-23T13:23:08+00:00",
+      "tags": [],
+      "text": "Intel 的仓位我不会动，逻辑是：Intel是处在美国国家半导体生态中的关键位置。今天的AI或者半导体之争已经升级为“国家级基础设施战争”。美国政府不会让 Intel 倒下，毕竟他 “Too Strategic To Fail”。NVIDIA 想把 Intel CPU 纳入自己的 AI 帝国。还有软因、苹果等。$INTC $NVDA",
+      "content": "Intel 的仓位我不会动，逻辑是：<br>Intel是处在美国国家半导体生态中的关键位置。今天的AI或者半导体之争已经升级为“国家级基础设施战争”。<br><br>美国政府不会让 Intel 倒下，毕竟他 “Too Strategic To Fail”。NVIDIA 想把 Intel CPU 纳入自己的 AI 帝国。还有软因、苹果等。<br><br>$INTC $NVDA",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "509",
+      "title": "INTC 这样我更倾向于是短期利好出尽，看财报会Q1也会比较艰难，个人继续持有",
+      "type": "text",
+      "datetime": "2026-01-23T01:17:30+00:00",
+      "tags": [],
+      "text": "INTC 这样我更倾向于是短期利好出尽，看财报会Q1也会比较艰难，个人继续持有。昨晚又加了一些spy put，伊朗局势又有升级迹象，对冲部分风险。",
+      "content": "INTC 这样我更倾向于是短期利好出尽，看财报会Q1也会比较艰难，个人继续持有。昨晚又加了一些spy put，伊朗局势又有升级迹象，对冲部分风险。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "508",
+      "title": "$INTC 关键财务数据（Q4 2025）营收 137 亿美元，同比下降 4%，但高于市场预期的 134 亿美元",
+      "type": "text",
+      "datetime": "2026-01-23T01:11:48+00:00",
+      "tags": [],
+      "text": "$INTC 关键财务数据（Q4 2025）营收 137 亿美元，同比下降 4%，但高于市场预期的 134 亿美元。毛利率36.1%，同比下降 3.1 个百分点。每股收益-0.12 美元（处于亏损状态）。Non-GAAP：0.15 美元，远超分析师预期的 0.08 美元。❗️全年表现： 2025 全年营收 529 亿美元，基本持平。尽管第四季度的营收和利润都跑赢了华尔街的预期，但英特尔股价在盘后跌幅一度超过 12%。主要原因在于以下几个“雷点”：1️⃣极其疲软的业绩指引（Outlook）这是导致大跌的最直接原因。英特尔对 2026 年 Q1 的预测远低于预期：预期营收： 117 亿至 127 亿美元（市场预期为 125.5 亿）。预期 EPS： 预计 Non-GAAP EPS 仅为 $0.00（市场预期为 0.05 美元）。2️⃣供应链“阵痛”与良率问题财报中提到 Q1 供应将处于“最低水平”。网络分析指出，虽然 18A 制程已经量产，但初期良率（Yield）可能仍未达到理想水平，导致成本高昂且出货量受限。这种“增收不增利”的担忧让投资者选择离场。3️⃣PC 市场份额流失虽然数据中心与 AI（DCAI）营收增长了 9%，但核心的客户端计算小组（CCG，即 PC 处理器）营收下降了 7%。分析师指出，在低端市场（如 Chromebook）和部分主流市场，英特尔正面临 AMD 和 MediaTek 的激烈竞争，甚至预计 2026 年 PC 市场份额可能进一步流失 10%。4️⃣财务结构的复杂性（Altera 的影响）财报提到由于 Altera 的拆分，导致同比数据难以直接对比。这种剥离带来的财务波动，掩盖了核心业务的真实成长性。5️⃣预期过高与估值回调在财报发布前的一年中，英特尔股价因“AI 转型”和“制程复苏”预期，已经上涨了近 150%。当财报指引无法支撑这么高的估值溢价时，市场便出现了剧烈的“利好出尽”式回调。",
+      "content": "$INTC 关键财务数据（Q4 2025）<br>营收 137 亿美元，同比下降 4%，但高于市场预期的 134 亿美元。<br>毛利率36.1%，同比下降 3.1 个百分点。<br>每股收益-0.12 美元（处于亏损状态）。<br>Non-GAAP：0.15 美元，远超分析师预期的 0.08 美元。<br><br><i class=\"emoji\"><b>❗️</b></i>全年表现： 2025 全年营收 529 亿美元，基本持平。<br><br>尽管第四季度的营收和利润都跑赢了华尔街的预期，但英特尔股价在盘后跌幅一度超过 12%。主要原因在于以下几个“雷点”：<br><br><i class=\"emoji\"><b>1️⃣</b></i>极其疲软的业绩指引（Outlook）<br>这是导致大跌的最直接原因。英特尔对 2026 年 Q1 的预测远低于预期：<br>预期营收： 117 亿至 127 亿美元（市场预期为 125.5 亿）。<br>预期 EPS： 预计 Non-GAAP EPS 仅为 $0.00（市场预期为 0.05 美元）。<br><br><i class=\"emoji\"><b>2️⃣</b></i>供应链“阵痛”与良率问题<br>财报中提到 Q1 供应将处于“最低水平”。网络分析指出，虽然 18A 制程已经量产，但初期良率（Yield）可能仍未达到理想水平，导致成本高昂且出货量受限。这种“增收不增利”的担忧让投资者选择离场。<br><br><i class=\"emoji\"><b>3️⃣</b></i>PC 市场份额流失<br>虽然数据中心与 AI（DCAI）营收增长了 9%，但核心的客户端计算小组（CCG，即 PC 处理器）营收下降了 7%。分析师指出，在低端市场（如 Chromebook）和部分主流市场，英特尔正面临 AMD 和 MediaTek 的激烈竞争，甚至预计 2026 年 PC 市场份额可能进一步流失 10%。<br><br><i class=\"emoji\"><b>4️⃣</b></i>财务结构的复杂性（Altera 的影响）<br>财报提到由于 Altera 的拆分，导致同比数据难以直接对比。这种剥离带来的财务波动，掩盖了核心业务的真实成长性。<br><br><i class=\"emoji\"><b>5️⃣</b></i>预期过高与估值回调<br>在财报发布前的一年中，英特尔股价因“AI 转型”和“制程复苏”预期，已经上涨了近 150%。当财报指引无法支撑这么高的估值溢价时，市场便出现了剧烈的“利好出尽”式回调。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "507",
+      "title": "美国11月核心PCE物价指数月率 0.2%，预期0.20%",
+      "type": "text",
+      "datetime": "2026-01-22T15:16:48+00:00",
+      "tags": [],
+      "text": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。影响较小",
+      "content": "美国11月核心PCE物价指数月率 0.2%，预期0.20%。<br>影响较小",
+      "reactions": []
+    },
+    {
+      "id": "506",
+      "title": "400hit 年内翻倍期待一下",
+      "type": "text",
+      "datetime": "2026-01-22T03:14:12+00:00",
+      "tags": [],
+      "text": "400hit 年内翻倍期待一下",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/494\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">加仓了美光</div>\n</small></blockquote></a>400hit 年内翻倍期待一下",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "14",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "505",
+      "title": "周二周三都稍微买了一些美股，主要是intel $INTC，我愿意跟着资金流赌一次他的财报是亮眼的",
+      "type": "text",
+      "datetime": "2026-01-22T02:24:18+00:00",
+      "tags": [],
+      "text": "周二周三都稍微买了一些美股，主要是intel $INTC，我愿意跟着资金流赌一次他的财报是亮眼的。同时还有$COHR，我同样看好今年的光通讯发展和落地。Roocket Lab 今日股价大跌，主要是他新推出的Neutron火箭系统结构在极限测试中出了故障。这个时间很值得关注。之前撰文提到过，Neutron是他今年最值得期待的产品。如果成功，作为中型火箭也会很大程度地弥补市场空白，如果失败，那去年巨额的资本支出研发成本都打了水漂。 $RKLB",
+      "content": "周二周三都稍微买了一些美股，主要是intel $INTC，我愿意跟着资金流赌一次他的财报是亮眼的。同时还有$COHR，我同样看好今年的光通讯发展和落地。<br>Roocket Lab 今日股价大跌，主要是他新推出的Neutron火箭系统结构在极限测试中出了故障。这个时间很值得关注。之前撰文提到过，Neutron是他今年最值得期待的产品。如果成功，作为中型火箭也会很大程度地弥补市场空白，如果失败，那去年巨额的资本支出研发成本都打了水漂。 $RKLB",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "504",
+      "title": "【Fiona的日报频道】  2026-01-22━━ 宏观要闻 ━━1️⃣🌟Taco进行时：特朗普称与北约达成格陵兰岛合作框架，收回对欧洲8国的关税威胁，明确不会武力夺岛",
+      "type": "text",
+      "datetime": "2026-01-22T02:19:31+00:00",
+      "tags": [],
+      "text": "【Fiona的日报频道】  2026-01-22━━ 宏观要闻 ━━1️⃣🌟Taco进行时：特朗普称与北约达成格陵兰岛合作框架，收回对欧洲8国的关税威胁，明确不会武力夺岛。特朗普与北约秘书长吕特周三讨论的格陵兰岛框架包含了“尊重”丹麦对该岛主权的原则。2️⃣美股：美股三大股指在特朗普帖文的助力下走高，道指收涨1.2%，标普500指数涨1.1%、纳指涨1.1%。英伟达(NVDA.O)涨近3%，美光科技(MU.O)涨6.6%，AMD(AMD.O)涨7.7%。纳斯达克中国金龙指数涨2.2%。3️⃣以媒：担心美国不日袭击伊朗 以色列提高警戒级别。4️⃣韩国KOSPI指数首次突破5000点。5️⃣特朗普再施压鲍威尔离任，重申美联储新主席人选已接近确定。评价： 再一次证明了特朗普是波段大师。最近刚好在看《反脆弱》，特朗普真的就是书中所写利用他人的脆弱性盈利的渣滓政客。不过Taco了也对市场是好事！周二周三都加仓了一些目前觉得还不错的。宏观的不确定性还是很强，刚度过了格陵兰岛，还有伊朗的战争危机一触即发。美联储主席人选也对市场增加扰动。━━ AI新闻 ━━1️⃣🌟 OpenAI创始人奥特曼会见中东投资者，洽谈500亿美元融资。2️⃣千问系列模型下载量突破10亿次。3️⃣OpenAI首款硬件设备被曝为AI耳机。4️⃣ 苹果计划将Siri重塑为内置聊天机器人 或在6月官宣。5️⃣据悉Anthropic截至2025年底的年华营收已超过90亿美元。6️⃣英伟达CEO黄仁勋计划1月下旬访问中国，参加春节假期前的公司聚会。━━ 其他要闻 ━━1️⃣泡泡玛特(09992.HK)公告称将斥资9649万港元回购50万股股份，每股回购价191.1-194.9港元。本周，泡泡玛特累计回购金额近3.5亿港元。━━ 有色金属 ━━1️⃣🌟 世界金属统计局（WBMS）公布的最新报告显示，2025年11月，全球精炼铜产量为223.24万吨，消费量为213.23万吨，供应过剩10.01万吨。2️⃣力拓集团将于2026年10月起将位于澳大利亚的Yarwun氧化铝精炼厂的产量削减40%，该决定将使氧化铝年产量减少约120万吨，同时缩减产量将影响炼厂约180个岗位。——加密货币——1️⃣BTC：现报约 $90,013，日内区间 $87,304 – $90,379（过去24小时内多次测试/跌破9万一线）。2️⃣ETH：现报约 $3,026.73，日内低点约 $2,873。",
+      "content": "<b>【Fiona的日报频道】  2026-01-22<br>━━ 宏观要闻 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>Taco进行时：特朗普称与北约达成格陵兰岛合作框架，收回对欧洲8国的关税威胁，明确不会武力夺岛。特朗普与北约秘书长吕特周三讨论的格陵兰岛框架包含了“尊重”丹麦对该岛主权的原则。</b><br><i class=\"emoji\"><b>2️⃣</b></i>美股：美股三大股指在特朗普帖文的助力下走高，道指收涨1.2%，标普500指数涨1.1%、纳指涨1.1%。英伟达(NVDA.O)涨近3%，美光科技(MU.O)涨6.6%，AMD(AMD.O)涨7.7%。纳斯达克中国金龙指数涨2.2%。<br><i class=\"emoji\"><b>3️⃣</b></i>以媒：担心美国不日袭击伊朗 以色列提高警戒级别。<br><i class=\"emoji\"><b>4️⃣</b></i>韩国KOSPI指数首次突破5000点。<br><i class=\"emoji\"><b>5️⃣</b></i>特朗普再施压鲍威尔离任，重申美联储新主席人选已接近确定。<br><br><b>评价： 再一次证明了特朗普是波段大师。最近刚好在看《反脆弱》，特朗普真的就是书中所写利用他人的脆弱性盈利的渣滓政客。不过Taco了也对市场是好事！周二周三都加仓了一些目前觉得还不错的。<br>宏观的不确定性还是很强，刚度过了格陵兰岛，还有伊朗的战争危机一触即发。美联储主席人选也对市场增加扰动。</b><br><br><b>━━ AI新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i> OpenAI创始人奥特曼会见中东投资者，洽谈500亿美元融资。<br><i class=\"emoji\"><b>2️⃣</b></i>千问系列模型下载量突破10亿次。<br><i class=\"emoji\"><b>3️⃣</b></i>OpenAI首款硬件设备被曝为AI耳机。<br><i class=\"emoji\"><b>4️⃣</b></i> 苹果计划将Siri重塑为内置聊天机器人 或在6月官宣。<br><i class=\"emoji\"><b>5️⃣</b></i>据悉Anthropic截至2025年底的年华营收已超过90亿美元。<br><i class=\"emoji\"><b>6️⃣</b></i>英伟达CEO黄仁勋计划1月下旬访问中国，参加春节假期前的公司聚会。<br><br><b>━━ 其他要闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>泡泡玛特(<a href=\"http://09992.HK/\" target=\"_blank\" rel=\"noopener\" title=\"09992.HK\">09992.HK</a>)公告称将斥资9649万港元回购50万股股份，每股回购价191.1-194.9港元。本周，泡泡玛特累计回购金额近3.5亿港元。<br><br><b>━━ 有色金属 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i> 世界金属统计局（WBMS）公布的最新报告显示，2025年11月，全球精炼铜产量为223.24万吨，消费量为213.23万吨，供应过剩10.01万吨。<br><i class=\"emoji\"><b>2️⃣</b></i>力拓集团将于2026年10月起将位于澳大利亚的Yarwun氧化铝精炼厂的产量削减40%，该决定将使氧化铝年产量减少约120万吨，同时缩减产量将影响炼厂约180个岗位。<br><br><b>——加密货币——</b><br><i class=\"emoji\"><b>1️⃣</b></i>BTC：现报约 $90,013，日内区间 $87,304 – $90,379（过去24小时内多次测试/跌破9万一线）。<br><i class=\"emoji\"><b>2️⃣</b></i>ETH：现报约 $3,026.73，日内低点约 $2,873。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "503",
+      "title": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告",
+      "type": "text",
+      "datetime": "2026-01-21T10:01:16+00:00",
+      "tags": [],
+      "text": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告。对 Intel 来说，2026 年并不是一个“已经成功”的年份，而是一个必须接受验证的年份。CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风，但他是否可以接住风，我们拭目以待。https://x.com/nft_hu/status/2013914221558571021?s=20",
+      "content": "写在Intel财报公布之前，这也是陈志武担任CEO以来的首份年度总结报告。<br>对 Intel 来说，2026 年并不是一个“已经成功”的年份，而是一个必须接受验证的年份。<br>CPU 与 Agentic AI 的结构性需求变化，为它提供了久违的顺风，但他是否可以接住风，我们拭目以待。<a href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2013914221558571021?s=20\">https://x.com/nft_hu/status/2013914221558571021?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2013914221558571021?s=20\" target=\"_blank\" rel=\"noopener\" title=\"当计算范式改变，2026年的Intel 等到了它的“风”\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/939aeed71550298a1309f0ebdad2b716.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">当计算范式改变，2026年的Intel 等到了它的“风”</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "502",
+      "title": "买了点BTC SPOT",
+      "type": "text",
+      "datetime": "2026-01-20T15:24:34+00:00",
+      "tags": [],
+      "text": "买了点BTC SPOT",
+      "content": "买了点BTC SPOT",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👎",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "501",
+      "title": "Bitgo申购截止19小时倒计时",
+      "type": "text",
+      "datetime": "2026-01-20T15:15:46+00:00",
+      "tags": [],
+      "text": "Bitgo申购截止19小时倒计时。这次 IPO 的主要情况📅 上市时间预计于 2026 年 1 月 22 日 在纽约证券交易所（NYSE）挂牌，股票代码为 BTGO💰 发行规模与募资目标拟发行 11,800,000 股 普通股。 发行价区间设定为 每股 15–17 美元。 募资规模上限约 2.01 亿美元本次 IPO 由 高盛（Goldman Sachs） 和 花旗集团（Citigroup） 作为主承销商",
+      "content": "Bitgo申购截止19小时倒计时。<br><br>这次 IPO 的主要情况<br><br><i class=\"emoji\"><b>📅</b></i> 上市时间<br>预计于 2026 年 1 月 22 日 在纽约证券交易所（NYSE）挂牌，股票代码为 BTGO<br><br><i class=\"emoji\"><b>💰</b></i> 发行规模与募资目标<br>拟发行 11,800,000 股 普通股。 <br>发行价区间设定为 每股 15–17 美元。 <br>募资规模上限约 2.01 亿美元<br><br>本次 IPO 由 高盛（Goldman Sachs） 和 花旗集团（Citigroup） 作为主承销商",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "👎",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "500",
+      "title": "美光也继续冲锋",
+      "type": "text",
+      "datetime": "2026-01-20T14:53:02+00:00",
+      "tags": [],
+      "text": "美光也继续冲锋",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/494\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">加仓了美光</div>\n</small></blockquote></a>美光也继续冲锋",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "499",
+      "title": "盈利先出本了，交易很有趣，原因是错的，结果是对的",
+      "type": "text",
+      "datetime": "2026-01-20T14:50:58+00:00",
+      "tags": [],
+      "text": "盈利先出本了，交易很有趣，原因是错的，结果是对的",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/490\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了些put对冲战争风险</div>\n</small></blockquote></a>盈利先出本了，交易很有趣，原因是错的，结果是对的",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "498",
+      "title": "【Fiona的日报频道】  2026-01-20 ━━ 宏观要闻 ━━1️⃣🌟美联储官员鹰派信号强化 — 哈玛克：利率维持稳定优于再降美联储官员哈玛克表示更担心持续高通胀，倾向于维持当前利率至春季，不支持近期降息",
+      "type": "text",
+      "datetime": "2026-01-20T03:53:02+00:00",
+      "tags": [],
+      "text": "【Fiona的日报频道】  2026-01-20 ━━ 宏观要闻 ━━1️⃣🌟美联储官员鹰派信号强化 — 哈玛克：利率维持稳定优于再降美联储官员哈玛克表示更担心持续高通胀，倾向于维持当前利率至春季，不支持近期降息。她虽目前尚非FOMC投票成员，但未来可能成为投票者，这意味着美联储内部鹰派声音在增强。2️⃣美债：美国国债规模/债务问题持续发酵美国国债总量首破30万亿美元，债务付息成本大幅上升，财政压力加剧3️⃣现货金银周一双双创下纪录新高现货黄金一度触及4690美元，最终收涨1.64%，报4670.76美元/盎司；现货白银最终收涨4.69%，报94.30美元/盎司。4️⃣美联储主席杰罗姆·鲍威尔（Jerome Powell）计划于周三出席美国最高法院的一场口头辩论。此案的核心，是质疑美国总统特朗普是否有权罢免美联储理事莉莎·库克（Lisa Cook）。5️⃣格陵兰岛摩擦升级 花旗下调欧股评级花旗集团一年多来首次下调了欧洲股票评级，理由是美国总统特朗普试图吞并格陵兰岛，导致布鲁塞尔和华盛顿之间的关系恶化。6️⃣日本30年期国债收益率升至3.700%，创历史新高。7️⃣特朗普借道达沃斯强推“和平委员会”，马克龙率先拒签。━━ AI新闻 ━━1️⃣🌟美光科技：内存大短缺将持续到2026年以后。2️⃣三星和SK海力士削减NAND闪存产量 以提升利润金十数据1月20日讯，占据了全球NAND闪存市场份额超过60%的三星电子和SK海力士预计今年将减少NAND闪存产量。分析师表示，这将像DRAM一样，极大地提升三星电子和SK海力士的营业利润率。据韩媒《朝鲜日报》获得的市场研究机构Omdia的数据显示，三星电子今年的NAND晶圆产量从去年的490万片下调至468万片。SK海力士的NAND闪存产量预计也将从去年约190万片降至今年的170万片。3️⃣🌟 据AXIOS报道，OpenAI预计将在2026年下半年推出其首款硬件设备。━━ 产业新闻 ━━1️⃣泡泡玛特(09992.HK)日内涨10%，公司斥资2.51亿港元回购，为2024年初以来首次回购。━━ 太空要闻 ━━1️⃣2025年度商业航天发射达50次2025年，中国商业航天保持快速发展。全年完成发射50次，占比我国全年宇航发射总数54%。",
+      "content": "<b>【Fiona的日报频道】  2026-01-20 </b><br><b>━━ 宏观要闻 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>美联储官员鹰派信号强化</b> — 哈玛克：利率维持稳定优于再降<br>美联储官员哈玛克表示更担心持续高通胀，倾向于维持当前利率至春季，不支持近期降息。她虽目前尚非FOMC投票成员，但未来可能成为投票者，这意味着美联储内部鹰派声音在增强。<br><i class=\"emoji\"><b>2️⃣</b></i>美债：美国国债规模/债务问题持续发酵<br>美国国债总量首破30万亿美元，债务付息成本大幅上升，财政压力加剧<br><b><i class=\"emoji\"><b>3️⃣</b></i>现货金银周一双双创下纪录新高</b><br>现货黄金一度触及4690美元，最终收涨1.64%，报4670.76美元/盎司；现货白银最终收涨4.69%，报94.30美元/盎司。<br><i class=\"emoji\"><b>4️⃣</b></i>美联储主席杰罗姆·鲍威尔（Jerome Powell）计划于周三出席美国最高法院的一场口头辩论。此案的核心，是质疑美国总统特朗普是否有权罢免美联储理事莉莎·库克（Lisa Cook）。<br><i class=\"emoji\"><b>5️⃣</b></i>格陵兰岛摩擦升级 花旗下调欧股评级<br>花旗集团一年多来首次下调了欧洲股票评级，理由是美国总统特朗普试图吞并格陵兰岛，导致布鲁塞尔和华盛顿之间的关系恶化。<br><i class=\"emoji\"><b>6️⃣</b></i><b>日本30年期国债收益率升至3.700%，创历史新高。</b><br><i class=\"emoji\"><b>7️⃣</b></i>特朗普借道达沃斯强推“和平委员会”，马克龙率先拒签。<br><br><br><b>━━ AI新闻 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>美光科技：内存大短缺将持续到2026年以后。</b><br><i class=\"emoji\"><b>2️⃣</b></i>三星和SK海力士削减NAND闪存产量 以提升利润<br>金十数据1月20日讯，占据了全球NAND闪存市场份额超过60%的三星电子和SK海力士预计今年将减少NAND闪存产量。分析师表示，这将像DRAM一样，极大地提升三星电子和SK海力士的营业利润率。据韩媒《朝鲜日报》获得的市场研究机构Omdia的数据显示，三星电子今年的NAND晶圆产量从去年的490万片下调至468万片。SK海力士的NAND闪存产量预计也将从去年约190万片降至今年的170万片。<br><b><i class=\"emoji\"><b>3️⃣</b></i><i class=\"emoji\"><b>🌟</b></i> 据AXIOS报道，OpenAI预计将在2026年下半年推出其首款硬件设备。</b><br><br><b>━━ 产业新闻 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i>泡泡玛特(</b><a href=\"http://09992.HK/\" target=\"_blank\" rel=\"noopener\" title=\"09992.HK\"><b>09992.HK</b></a><b>)日内涨10%，公司斥资2.51亿港元回购，为2024年初以来首次回购。</b><br><b><br>━━ 太空要闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>2025年度商业航天发射达50次<br>2025年，中国商业航天保持快速发展。全年完成发射50次，占比我国全年宇航发射总数54%。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "497",
+      "title": "推荐阅读原文",
+      "type": "text",
+      "datetime": "2026-01-19T07:20:56+00:00",
+      "tags": [],
+      "text": "推荐阅读原文。文章总结了特朗普关税策略的套路和如何利用这种波动在交易中赚钱https://x.com/KobeissiLetter/status/2012608685462220879?s=20",
+      "content": "推荐阅读原文。<br>文章总结了特朗普关税策略的套路和如何利用这种波动在交易中赚钱<a href=\"https://x.com/KobeissiLetter/status/2012608685462220879?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/KobeissiLetter/status/2012608685462220879?s=20\">https://x.com/KobeissiLetter/status/2012608685462220879?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/KobeissiLetter/status/2012608685462220879?s=20\" target=\"_blank\" rel=\"noopener\" title=\"President Trump's EXACT Tariff Playbook, A Step-by-Step Guide:\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/41a25af10d959b445090667e094eeb88.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">The Kobeissi Letter (@KobeissiLetter) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">President Trump's EXACT Tariff Playbook, A Step-by-Step Guide:</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "496",
+      "title": "Fiona的0119-0125宏观周报：地缘政治/PCE/达沃斯🌟 本周必须关注的 3 个事件（Must Watch）第1️⃣件事：通胀 & 利率预期  公布时间2026/01/22 这周最重要的不是 headline CPI，而是 PCE",
+      "type": "text",
+      "datetime": "2026-01-19T07:05:04+00:00",
+      "tags": [],
+      "text": "Fiona的0119-0125宏观周报：地缘政治/PCE/达沃斯🌟 本周必须关注的 3 个事件（Must Watch）第1️⃣件事：通胀 & 利率预期  公布时间2026/01/22 这周最重要的不是 headline CPI，而是 PCE。 只要核心 PCE 再次证明通胀“黏”，市场对 2026 年降息的幻想会继续被往后推。目前市场仍在 price-in“2026 年会有 1–2 次降息”，但主流大行在往“更少甚至不降”那边迁移。因为 FOMC blackout（噤声期）开始，短期内“官员讲话给指引”的信息变少，预期更容易被数据（比如 PCE）牵着走第2️⃣件事：🌟  AI 核心财报开始“算账”，这一轮财报季不是讲故事，是验证 AI 的 ROI周二 1/20 盘后： $NFLX周三 1/21 盘后：  $TSLA （情绪与波动率）周四 1/22 盘后： $INTC （AI + CPU 叙事关键）下周预期（提前预热）： $MSFT / $GOOG / $META看点：AI 是否带来收入增量，而不是只推高 CapEx第3️⃣件事：Davos 周＝嘴炮密集周———— 本周变数 ————伊朗问题 + 格陵兰时间点（地缘 + 资源）伊朗：新制裁与军事表态仍在持续发酵。市场已部分消化，但任何升级都是尾部风险。格陵兰岛：本周内有美国/北约高层在北极安全与资源问题上的公开行程与表态。影响：稀土、航道、原油、贵金属、有色金属。",
+      "content": "<b>Fiona的0119-0125宏观周报：地缘政治/PCE/达沃斯</b><br><br><b><i class=\"emoji\"><b>🌟</b></i> 本周必须关注的 3 个事件（Must Watch）<br>第<i class=\"emoji\"><b>1️⃣</b></i>件事：通胀 &amp; 利率预期  公布时间2026/01/22</b><br> 这周最重要的不是 headline CPI，而是 PCE。<br> 只要核心 PCE 再次证明通胀“黏”，市场对 2026 年降息的幻想会继续被往后推。<br>目前市场仍在 price-in“2026 年会有 1–2 次降息”，但主流大行在往“更少甚至不降”那边迁移。因为 FOMC blackout（噤声期）开始，短期内“官员讲话给指引”的信息变少，预期更容易被数据（比如 PCE）牵着走<br><br><b>第<i class=\"emoji\"><b>2️⃣</b></i>件事：<i class=\"emoji\"><b>🌟</b></i>  AI 核心财报开始“算账”，这一轮财报季不是讲故事，是验证 AI 的 ROI</b><br>周二 1/20 盘后： $NFLX<br>周三 1/21 盘后：  $TSLA （情绪与波动率）<br>周四 1/22 盘后： $INTC （AI + CPU 叙事关键）<br>下周预期（提前预热）： $MSFT / $GOOG / $META<br>看点：AI 是否带来收入增量，而不是只推高 CapEx<br><br>第<i class=\"emoji\"><b>3️⃣</b></i>件事：Davos 周＝嘴炮密集周<br><br><b>———— 本周变数 ————<br>伊朗问题 + 格陵兰时间点（地缘 + 资源）</b><br>伊朗：<br>新制裁与军事表态仍在持续发酵。市场已部分消化，但任何升级都是尾部风险。<br>格陵兰岛：<br>本周内有美国/北约高层在北极安全与资源问题上的公开行程与表态。<br>影响：稀土、航道、原油、贵金属、有色金属。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "495",
+      "title": "周末日报不更，不过昨天还是有几个好消息",
+      "type": "text",
+      "datetime": "2026-01-17T04:52:29+00:00",
+      "tags": [],
+      "text": "周末日报不更，不过昨天还是有几个好消息。美光被关键人员买入，RKLB被上调了目标价格，AST SpaceMobile 获得美国导弹防御局 SHIELD 计划的主合同位置。 内存和太空经济是目前看好的几个方向里最近势头最猛的。集中精力先买这几个",
+      "content": "周末日报不更，不过昨天还是有几个好消息。美光被关键人员买入，RKLB被上调了目标价格，AST SpaceMobile 获得美国导弹防御局 SHIELD 计划的主合同位置。 内存和太空经济是目前看好的几个方向里最近势头最猛的。集中精力先买这几个",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "22",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}

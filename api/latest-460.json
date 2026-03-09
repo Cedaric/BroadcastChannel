@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/9a09cc90c5b9f5f4e5bdd3fbefbd81b4.jpg",
-    "totalPosts": 531,
+    "avatar": "/static/f7861632747948f4407193673df098d5.jpg",
+    "totalPosts": 532,
     "totalPages": 27,
     "currentPage": 24,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-440.json"
   },
   "data": [
+    {
+      "id": "85",
+      "title": "热点回来ETH L2 ENS等等",
+      "type": "text",
+      "datetime": "2024-03-05T05:45:39+00:00",
+      "tags": [],
+      "text": "热点回来ETH L2 ENS等等",
+      "content": "热点回来ETH L2 ENS等等",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "84",
       "title": "最近参与的一个AI➕DEPIN项目: $STOS在 $TAO 与 $AR 爆拉之后，如果说 AI+Crypto+Storage 还有什么项目被遗漏的话，那就是 $STOS 了",
@@ -341,22 +357,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "62",
-      "title": "如何参与 Berachain Testnet：",
-      "type": "text",
-      "datetime": "2024-01-12T03:11:14+00:00",
-      "tags": [],
-      "text": "如何参与 Berachain Testnet：https://x.com/nft_hu/status/1745643657691295941?s=20",
-      "content": "如何参与 Berachain Testnet：<a href=\"https://x.com/nft_hu/status/1745643657691295941?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1745643657691295941?s=20\">https://x.com/nft_hu/status/1745643657691295941?s=20</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]

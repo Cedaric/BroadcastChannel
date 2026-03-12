@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/8bd4a19c07b949ed9b55b4b5e111628d.jpg",
-    "totalPosts": 537,
+    "avatar": "/static/068d2a81b904f78dbc25c922b5450cdd.jpg",
+    "totalPosts": 539,
     "totalPages": 27,
     "currentPage": 27,
     "pageSize": 20,
@@ -13,6 +13,26 @@
     "prevPageUrl": "latest-500.json"
   },
   "data": [
+    {
+      "id": "25",
+      "title": "Meson挖矿新风险提示：说一个关于meson 挖矿我今天发现的问题，因为昨天官网写着meson reward 所以我认为我挖出来的是msn测试币",
+      "type": "text",
+      "datetime": "2023-12-01T01:23:27+00:00",
+      "tags": [],
+      "text": "Meson挖矿新风险提示：说一个关于meson 挖矿我今天发现的问题，因为昨天官网写着meson reward 所以我认为我挖出来的是msn测试币。但是今天我发现，挖出来的是gaga（另一个币），他兑换MSN的汇率是0.004.假设最后挖出来10亿个测试币，映射的数量=挖出来的数量*0.004*0.001我计算我自己的收益率应该低至1毛/day。拜拜了个拜拜 👋",
+      "content": "Meson挖矿新风险提示：<br>说一个关于meson 挖矿我今天发现的问题，因为昨天官网写着meson reward 所以我认为我挖出来的是msn测试币。但是今天我发现，挖出来的是gaga（另一个币），他兑换MSN的汇率是0.004.<br>假设最后挖出来10亿个测试币，映射的数量=挖出来的数量*0.004*0.001<br>我计算我自己的收益率应该低至1毛/day。<br>拜拜了个拜拜 <i class=\"emoji\"><b>👋</b></i>",
+      "reactions": []
+    },
+    {
+      "id": "24",
+      "title": "Meson挖矿教程，有手就会：",
+      "type": "text",
+      "datetime": "2023-11-30T08:44:25+00:00",
+      "tags": [],
+      "text": "Meson挖矿教程，有手就会：https://x.com/nft_hu/status/1730143725714882953?s=20",
+      "content": "Meson挖矿教程，有手就会：<br><a href=\"https://x.com/nft_hu/status/1730143725714882953?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1730143725714882953?s=20\">https://x.com/nft_hu/status/1730143725714882953?s=20</a>",
+      "reactions": []
+    },
     {
       "id": "23",
       "title": "Meson测试网开了可以去挖币，测试币最后映射",

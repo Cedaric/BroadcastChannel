@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "title": "Fiona’s daily news",
+    "description": "",
+    "avatar": "/static/8d35991d9ac519d771d1f79357957dae.jpg",
+    "totalPosts": 555,
+    "totalPages": 28,
+    "currentPage": 15,
+    "pageSize": 20,
+    "hasNextPage": true,
+    "hasPrevPage": true,
+    "nextPageUrl": "latest-300.json",
+    "prevPageUrl": "latest-260.json"
+  },
+  "data": [
+    {
+      "id": "296",
+      "title": "关于韩国🇰🇷戒严令 ",
+      "type": "text",
+      "datetime": "2024-12-03T14:20:37+00:00",
+      "tags": [],
+      "text": "关于韩国🇰🇷戒严令 https://x.com/nft_hu/status/1863951265660809437?s=46",
+      "content": "关于韩国<i class=\"emoji\"><b>🇰🇷</b></i>戒严令 <a href=\"https://x.com/nft_hu/status/1863951265660809437?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1863951265660809437?s=46\">https://x.com/nft_hu/status/1863951265660809437?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "295",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-12-03T12:15:19+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-295-0\" popovertargetaction=\"show\">\n        <img src=\"/static/95d70a299434677ff3219ca9d1e13c94.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-295-0\" popovertarget=\"modal-295-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/95d70a299434677ff3219ca9d1e13c94.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "294",
+      "title": "Fiona’s Daily News 12.3最近交易所的春天来了，老币们接连上涨，持仓部分都在今日新闻里👔宏观1️⃣WSJ：消息人士：特朗普最快将于明日公布SEC主席继任人选",
+      "type": "text",
+      "datetime": "2024-12-03T06:51:58+00:00",
+      "tags": [],
+      "text": "Fiona’s Daily News 12.3最近交易所的春天来了，老币们接连上涨，持仓部分都在今日新闻里👔宏观1️⃣WSJ：消息人士：特朗普最快将于明日公布SEC主席继任人选https://x.com/EleanorTerrett/status/1863803574121050306🪙币圈 1️⃣韩国交易所交易量激增https://pulse.mk.co.kr/news/english/111843672️⃣Coinbase将Apple Pay集成至其入金服务3️⃣或受存款利率飙升影响，Aave TVL创历史新高4️⃣文章：为什么我要做空SOL？https://www.theblockbeats.info/news/560125⃣️Arbitrum成为Uniswap上首个月交易量超过200亿美元的L2💰行情1⃣️RWA 领涨，ondo QNT RSR等表现出色2⃣️「ETH波段胜率83.3%鲸鱼」抛售1434枚WETH，约523万美元https://x.com/ai_9684xtpa/status/18638335685497405733⃣️1亿枚XRP转入bithumbhttps://whale-alert.io/transaction/ripple/419834767193C68C7470521721782B8052436F853446F361057B9669F948643B",
+      "content": "Fiona’s Daily News 12.3<br>最近交易所的春天来了，老币们接连上涨，持仓部分都在今日新闻里<br><br><i class=\"emoji\"><b>👔</b></i>宏观<br><i class=\"emoji\"><b>1️⃣</b></i>WSJ：消息人士：特朗普最快将于明日公布SEC主席继任人选<br><a href=\"https://x.com/EleanorTerrett/status/1863803574121050306\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/EleanorTerrett/status/1863803574121050306\">https://x.com/EleanorTerrett/status/1863803574121050306</a><br><br><i class=\"emoji\"><b>🪙</b></i>币圈 <br><i class=\"emoji\"><b>1️⃣</b></i>韩国交易所交易量激增<a href=\"https://pulse.mk.co.kr/news/english/11184367\" target=\"_blank\" rel=\"noopener\" title=\"https://pulse.mk.co.kr/news/english/11184367\">https://pulse.mk.co.kr/news/english/11184367</a><br><i class=\"emoji\"><b>2️⃣</b></i>Coinbase将Apple Pay集成至其入金服务<br><i class=\"emoji\"><b>3️⃣</b></i>或受存款利率飙升影响，Aave TVL创历史新高<br><i class=\"emoji\"><b>4️⃣</b></i>文章：为什么我要做空SOL？<br><a href=\"https://www.theblockbeats.info/news/56012\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblockbeats.info/news/56012\">https://www.theblockbeats.info/news/56012</a><br><i class=\"emoji\"><b>5⃣️</b></i>Arbitrum成为Uniswap上首个月交易量超过200亿美元的L2<br><br><i class=\"emoji\"><b>💰</b></i>行情<br><i class=\"emoji\"><b>1⃣️</b></i>RWA 领涨，ondo QNT RSR等表现出色<br><i class=\"emoji\"><b>2⃣️</b></i>「ETH波段胜率83.3%鲸鱼」抛售1434枚WETH，约523万美元<br><a href=\"https://x.com/ai_9684xtpa/status/1863833568549740573\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/ai_9684xtpa/status/1863833568549740573\">https://x.com/ai_9684xtpa/status/1863833568549740573</a><br><i class=\"emoji\"><b>3⃣️</b></i>1亿枚XRP转入bithumb<br><a href=\"https://whale-alert.io/transaction/ripple/419834767193C68C7470521721782B8052436F853446F361057B9669F948643B\" target=\"_blank\" rel=\"noopener\" title=\"https://whale-alert.io/transaction/ripple/419834767193C68C7470521721782B8052436F853446F361057B9669F948643B\">https://whale-alert.io/transaction/ripple/419834767193C68C7470521721782B8052436F853446F361057B9669F948643B</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/EleanorTerrett/status/1863803574121050306\" target=\"_blank\" rel=\"noopener\" title=\"🚨NEW: @realDonaldTrump’s pick to replace @GaryGensler as @SECGov Chair could be announced as soon as tomorrow, sources tell @FoxBusiness. Stay tuned 📺.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/4b44e3251ff8f700d64595fa2a8b2cfc.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Eleanor Terrett (@EleanorTerrett) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('/static/0d52cc88b7126327ddeb4511d9549d4e.png')\"><b>🚨</b></i>NEW: @realDonaldTrump’s pick to replace @GaryGensler as @SECGov Chair could be announced as soon as tomorrow, sources tell @FoxBusiness. Stay tuned <i class=\"emoji\" style=\"background-image:url('/static/272ceb2e5e6357039ee2968dbc5adebc.png')\"><b>📺</b></i>.</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "293",
+      "title": "Fiona’s Daily News 12.2很久没更新了，准备在牛市里恢复日报的更新，机会和持续度都会更好，更有操作的空间",
+      "type": "text",
+      "datetime": "2024-12-02T06:43:39+00:00",
+      "tags": [],
+      "text": "Fiona’s Daily News 12.2很久没更新了，准备在牛市里恢复日报的更新，机会和持续度都会更好，更有操作的空间。👔宏观1️⃣美国总统拜登宣布赦免他的儿子亨特·拜登。据美媒分析，这一决定标志着拜登作为总统的立场发生逆转，他曾多次表示不会利用行政权力赦免儿子或减轻其刑罚。2️⃣WSJ：一旦特朗普重返白宫，SEC可能会放松对加密CEX的法律斗争最起码Gary Gensler是真的要走了 🙏https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc213⃣️Ava Labs创始人：Avalanche正与美国新政府谈判🪙币圈 1️⃣据 Tokenomist.ai 数据显示，JTO、ENA、ADA 将于下周迎来较大额解锁2️⃣比特币市占率跌至56.75%，山寨总市值11月单边上涨近70%3️⃣HYPE市值一度超越OP，昨日交易量占衍生品DEX赛道的47%4️⃣蓝筹NFT普涨，BAYC过去一周涨幅72.56%https://www.theblockbeats.info/flash/272595💰行情XRP ADA HBAR EOS DASH强势DeRec 联盟币",
+      "content": "Fiona’s Daily News 12.2<br>很久没更新了，准备在牛市里恢复日报的更新，机会和持续度都会更好，更有操作的空间。<br><br><i class=\"emoji\"><b>👔</b></i>宏观<br><i class=\"emoji\"><b>1️⃣</b></i>美国总统拜登宣布赦免他的儿子亨特·拜登。据美媒分析，这一决定标志着拜登作为总统的立场发生逆转，他曾多次表示不会利用行政权力赦免儿子或减轻其刑罚。<br><i class=\"emoji\"><b>2️⃣</b></i>WSJ：一旦特朗普重返白宫，SEC可能会放松对加密CEX的法律斗争<br>最起码Gary Gensler是真的要走了 <i class=\"emoji\"><b>🙏</b></i><br><a href=\"https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc21\" target=\"_blank\" rel=\"noopener\" title=\"https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc21\">https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc21</a><br><i class=\"emoji\"><b>3⃣️</b></i>Ava Labs创始人：Avalanche正与美国新政府谈判<br><br><br><i class=\"emoji\"><b>🪙</b></i>币圈 <br><i class=\"emoji\"><b>1️⃣</b></i>据 <a href=\"http://Tokenomist.ai/\" target=\"_blank\" rel=\"noopener\" title=\"Tokenomist.ai\">Tokenomist.ai</a> 数据显示，JTO、ENA、ADA 将于下周迎来较大额解锁<br><i class=\"emoji\"><b>2️⃣</b></i>比特币市占率跌至56.75%，山寨总市值11月单边上涨近70%<br><i class=\"emoji\"><b>3️⃣</b></i>HYPE市值一度超越OP，昨日交易量占衍生品DEX赛道的47%<br><i class=\"emoji\"><b>4️⃣</b></i>蓝筹NFT普涨，BAYC过去一周涨幅72.56%<br><a href=\"https://www.theblockbeats.info/flash/272595\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblockbeats.info/flash/272595\">https://www.theblockbeats.info/flash/272595</a><br><br><i class=\"emoji\"><b>💰</b></i>行情<br>XRP ADA HBAR EOS DASH强势<br>DeRec 联盟币<a class=\"tgme_widget_message_link_preview\" href=\"https://www.wsj.com/finance/regulation/trump-crypto-us-war-0b91cc21\" target=\"_blank\" rel=\"noopener\" title=\"The president-elect’s new SEC chair will likely withdraw from lawsuits aimed at forcing crypto to follow Wall Street rules.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">The Wall Street Journal</div>\n  <img class=\"link_preview_image\" alt=\"Trump’s Return Heralds Litigation Peace for Crypto\" src=\"/static/6c1cc3423ed15d66cf48c3d3d5328328.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Trump’s Return Heralds Litigation Peace for Crypto</div>\n  <div class=\"link_preview_description\" dir=\"auto\">The president-elect’s new SEC chair will likely withdraw from lawsuits aimed at forcing crypto to follow Wall Street rules.</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "🐳",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥱",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "292",
+      "title": "MSTR 与BTC",
+      "type": "text",
+      "datetime": "2024-11-24T03:11:36+00:00",
+      "tags": [],
+      "text": "MSTR 与BTChttps://x.com/nft_hu/status/1860519813854167385",
+      "content": "MSTR 与BTC<br><a href=\"https://x.com/nft_hu/status/1860519813854167385\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1860519813854167385\">https://x.com/nft_hu/status/1860519813854167385</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1860519813854167385\" target=\"_blank\" rel=\"noopener\" title=\"随着 $BTC 逼近10万美金大关，微策略 MSTR 也成为本轮的最大赢家。伴随着掌声和欢呼，质疑和做空也是随之而来，最多的一种猜疑是：比特币/MSTR将会是下一个Luna么？有一部分玩家（包括香橼）也开始了 多$BTC 空 MSTR的组合交易，这背后的故事和逻辑是如何？且听我一一道来。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/2055327a22555996dae7e81e0efc2fe7.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">随着 $BTC 逼近10万美金大关，微策略 MSTR 也成为本轮的最大赢家。伴随着掌声和欢呼，质疑和做空也是随之而来，最多的一种猜疑是：<br>比特币/MSTR将会是下一个Luna么？<br><br>有一部分玩家（包括香橼）也开始了 多$BTC 空 MSTR的组合交易，这背后的故事和逻辑是如何？且听我一一道来。</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "291",
+      "title": "DeSci 来袭：",
+      "type": "text",
+      "datetime": "2024-11-16T08:17:44+00:00",
+      "tags": [],
+      "text": "DeSci 来袭：https://x.com/nft_hu/status/1857698789253066910",
+      "content": "DeSci 来袭：<a href=\"https://x.com/nft_hu/status/1857698789253066910\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1857698789253066910\">https://x.com/nft_hu/status/1857698789253066910</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1857698789253066910\" target=\"_blank\" rel=\"noopener\" title=\"BIO Protocol @bioprotocol 一下子推动了 人们对去中心化科学（DeSci）的关注。$BIO 是什么来头，又是如何吸BN投资？DeSci讲的是怎样一个故事？Let's Dive In～首先回到故事的起源： Bio Protocol。11月，Binance Labs宣布对BIO\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/1a1e5c0df372ba256968f3fce47194c7.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BIO Protocol @bioprotocol 一下子推动了 人们对去中心化科学（DeSci）的关注。<br>$BIO 是什么来头，又是如何吸BN投资？<br>DeSci讲的是怎样一个故事？<br>Let's Dive In～<br><br>首先回到故事的起源： Bio Protocol。11月，Binance Labs宣布对BIO</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "290",
+      "title": "APE Chain 交易须知：1⃣官方桥：",
+      "type": "text",
+      "datetime": "2024-10-20T02:58:13+00:00",
+      "tags": [],
+      "text": "APE Chain 交易须知：1⃣官方桥：https://apechain.com/portal2⃣交易平台：https://app.camelot.exchange3⃣钱包：小狐狸即可4⃣meme发行平台：https://ape.express",
+      "content": "APE Chain 交易须知：<br><i class=\"emoji\"><b>1⃣</b></i>官方桥：<a href=\"https://apechain.com/portal\" target=\"_blank\" rel=\"noopener\" title=\"https://apechain.com/portal\">https://apechain.com/portal</a><br><i class=\"emoji\"><b>2⃣</b></i>交易平台：<a href=\"https://app.camelot.exchange/\" target=\"_blank\" rel=\"noopener\" title=\"https://app.camelot.exchange\">https://app.camelot.exchange</a><br><i class=\"emoji\"><b>3⃣</b></i>钱包：小狐狸即可<br><i class=\"emoji\"><b>4⃣</b></i>meme发行平台：<a href=\"https://ape.express/\" target=\"_blank\" rel=\"noopener\" title=\"https://ape.express\">https://ape.express</a><a class=\"tgme_widget_message_link_preview\" href=\"https://apechain.com/portal\" target=\"_blank\" rel=\"noopener\" title=\"The simplest way to bridge, swap, and on-ramp on ApeChain.\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Apechain</div>\n  <img class=\"link_preview_image\" alt=\"Ape Portal - APECHAIN\" src=\"/static/4cb2bb3f9a04b8efab45e542ac19a2c9.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Ape Portal - APECHAIN</div>\n  <div class=\"link_preview_description\" dir=\"auto\">The simplest way to bridge, swap, and on-ramp on ApeChain.</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "289",
+      "title": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来",
+      "type": "text",
+      "datetime": "2024-10-19T17:50:40+00:00",
+      "tags": [],
+      "text": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来。不是我目前的重心 但是会稍微看一下最近还是比特币为主，加U，还没看到下一个显著的强势币",
+      "content": "meme 赛道我的看法，很拥挤，但是还是有机会：可以看一下moonshot最近的机会比较多，但是只有华语区上车的有点难跑出来。不是我目前的重心 但是会稍微看一下<br><br>最近还是比特币为主，加U，还没看到下一个显著的强势币",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "21",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "288",
+      "title": "最近被安利到一个很牛的新meme发行/交易平台 @usemoonshot （非广）下载链接：",
+      "type": "text",
+      "datetime": "2024-10-19T15:42:06+00:00",
+      "tags": [],
+      "text": "最近被安利到一个很牛的新meme发行/交易平台 @usemoonshot （非广）下载链接：https://moonshot.money/?ref=dO9ogRo7p4为什么说他很牛呢？因为他做了一件事“法币入金”。现在你可以在App Store 直接下载 Google Play，用app pay直接出入金。这件事听起来在web2很简单，但是在web3有多难我相信大家都知道。而且根据Apple pay一贯的作风，使用他们的交易方式都需要上贡+层层审核，这个突然降临的项目去区别于多数”草台班子“，一定是有备而来。同时，和http://pump.fun 不同，他们会挑选token，比如最火的 $GOAT 也是他们的精选，目前看来眼光不错，看看是否会形成持续的上币效应。快一起来玩吧～",
+      "content": "最近被安利到一个很牛的新meme发行/交易平台 <br><a href=\"https://t.me/usemoonshot\" target=\"_blank\" title=\"@usemoonshot\">@usemoonshot</a><br> （非广）<br>下载链接：<br><a href=\"https://moonshot.money/?ref=dO9ogRo7p4\" target=\"_blank\" rel=\"noopener\" title=\"https://moonshot.money/?ref=dO9ogRo7p4\">https://moonshot.money/?ref=dO9ogRo7p4</a><br><br>为什么说他很牛呢？因为他做了一件事“法币入金”。现在你可以在App Store 直接下载 Google Play，用app pay直接出入金。<br><br>这件事听起来在web2很简单，但是在web3有多难我相信大家都知道。而且根据Apple pay一贯的作风，使用他们的交易方式都需要上贡+层层审核，这个突然降临的项目去区别于多数”草台班子“，一定是有备而来。<br><br>同时，和<a href=\"http://pump.fun/\" target=\"_blank\" rel=\"noopener\" title=\"http://pump.fun\">http://pump.fun</a> 不同，他们会挑选token，比如最火的 $GOAT 也是他们的精选，目前看来眼光不错，看看是否会形成持续的上币效应。<br><br>快一起来玩吧～",
+      "reactions": [
+        {
+          "emoji": "👎",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "💩",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤡",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "😍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "287",
+      "title": "最近两周交易复盘",
+      "type": "text",
+      "datetime": "2024-10-14T14:22:11+00:00",
+      "tags": [],
+      "text": "最近两周交易复盘https://x.com/nft_hu/status/1845831951027954032?s=46",
+      "content": "最近两周交易复盘<a href=\"https://x.com/nft_hu/status/1845831951027954032?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1845831951027954032?s=46\">https://x.com/nft_hu/status/1845831951027954032?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌚",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "286",
+      "title": "写在 Sui 新高的时刻，投资其实是一件很单的事",
+      "type": "text",
+      "datetime": "2024-10-12T13:24:14+00:00",
+      "tags": [],
+      "text": "写在 Sui 新高的时刻，投资其实是一件很单的事。看好-买入-拿住。写过买入逻辑和我给他的估值模型。从0.85建仓买入，到每次回调都加仓， $SUI 一度成为我和比特币一样重的最大仓位。看到很多人在不同阶段空 $SUI ，做空本身就是负EV，尤其是做空强势币。我从不叫人做空，做空只是我极少使用的对冲手段。当然艺高人胆大者随意。2.22，到现在这个价格，是我对 $SUI 的第一目标价，我会卖本，剩下的交给市场来发挥想象力。希望 $SUI 可以成为越卖越多的好标的😝",
+      "content": "写在 Sui 新高的时刻，投资其实是一件很单的事。看好-买入-拿住。写过买入逻辑和我给他的估值模型。<br><br>从0.85建仓买入，到每次回调都加仓， $SUI 一度成为我和比特币一样重的最大仓位。<br><br>看到很多人在不同阶段空 $SUI ，做空本身就是负EV，尤其是做空强势币。我从不叫人做空，做空只是我极少使用的对冲手段。当然艺高人胆大者随意。<br><br>2.22，到现在这个价格，是我对 $SUI 的第一目标价，我会卖本，剩下的交给市场来发挥想象力。<br><br>希望 $SUI 可以成为越卖越多的好标的<i class=\"emoji\"><b>😝</b></i>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "68",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "👀",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "285",
+      "title": "今晚非农公布",
+      "type": "text",
+      "datetime": "2024-10-04T09:54:58+00:00",
+      "tags": [],
+      "text": "今晚非农公布",
+      "content": "今晚非农公布",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "20",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "9",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "284",
+      "title": "对标 WLD 的一个掌纹识别项目：主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下",
+      "type": "text",
+      "datetime": "2024-10-04T09:52:45+00:00",
+      "tags": [],
+      "text": "对标 WLD 的一个掌纹识别项目：主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下。欢迎使用我的邀请链接：https://testnet.humanity.org/login?ref=fionact关于项目的介绍可以看：https://x.com/nft_hu/status/1760078920387621263?lang=enHumanity Protocol的团队成员包括了Animoca Brands联合创始人兼执行主席Yat Siu和Polygon Labs联合创始人Sandeep Nailwal在内。、",
+      "content": "对标 WLD 的一个掌纹识别项目：<br>主打的掌纹识别其实内心觉得这个事情有点过气了，但是大家都当撸毛还是可以做一下。<br><br>欢迎使用我的邀请链接：<br><a href=\"https://testnet.humanity.org/login?ref=fionact\" target=\"_blank\" rel=\"noopener\" title=\"https://testnet.humanity.org/login?ref=fionact\">https://testnet.humanity.org/login?ref=fionact</a><br><br>关于项目的介绍可以看：<a href=\"https://x.com/nft_hu/status/1760078920387621263?lang=en\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1760078920387621263?lang=en\">https://x.com/nft_hu/status/1760078920387621263?lang=en</a><br><br>Humanity Protocol的团队成员包括了Animoca Brands联合创始人兼执行主席Yat Siu和Polygon Labs联合创始人Sandeep Nailwal在内。、<a class=\"tgme_widget_message_link_preview\" href=\"https://testnet.humanity.org/login?ref=nasowilliam\" target=\"_blank\" rel=\"noopener\" title=\"\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">app.humanity.org</div>\n  <img class=\"link_preview_image\" alt=\"Humanity Protocol\" src=\"/static/7b835a2fc3156bb74c317822ffef66fb.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">Humanity Protocol</div>\n  \n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "283",
+      "title": "开始回调了",
+      "type": "text",
+      "datetime": "2024-09-30T02:09:58+00:00",
+      "tags": [],
+      "text": "开始回调了",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/281\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">又卖了一些</div>\n</small></blockquote></a>开始回调了",
+      "reactions": [
+        {
+          "emoji": "🥰",
+          "count": "39",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙊",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "282",
+      "title": "好奇 Pepe 🤮和减仓 🤡回复的人想法是什么🤔 欢迎讨论",
+      "type": "text",
+      "datetime": "2024-09-29T01:40:05+00:00",
+      "tags": [],
+      "text": "好奇 Pepe 🤮和减仓 🤡回复的人想法是什么🤔 欢迎讨论。如果不喜欢频道非常希望你可以取关！不然每次看到会有点困惑且伤心💔",
+      "content": "好奇 Pepe <i class=\"emoji\"><b>🤮</b></i>和减仓 <i class=\"emoji\"><b>🤡</b></i>回复的人想法是什么<i class=\"emoji\"><b>🤔</b></i> 欢迎讨论。<br>如果不喜欢频道非常希望你可以取关！不然每次看到会有点困惑且伤心<i class=\"emoji\"><b>💔</b></i>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "116",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "👎",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🦄",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "281",
+      "title": "又卖了一些",
+      "type": "text",
+      "datetime": "2024-09-28T09:12:17+00:00",
+      "tags": [],
+      "text": "又卖了一些",
+      "content": "又卖了一些",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "45",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤡",
+          "count": "14",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "280",
+      "title": "pepe 0.0000085-0.000011 恭喜上车的各位",
+      "type": "text",
+      "datetime": "2024-09-28T03:14:45+00:00",
+      "tags": [],
+      "text": "pepe 0.0000085-0.000011 恭喜上车的各位",
+      "content": "pepe 0.0000085-0.000011 恭喜上车的各位",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "61",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤮",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🏆",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "279",
+      "title": "EGP 5~8 60% profit hit",
+      "type": "text",
+      "datetime": "2024-09-27T09:43:30+00:00",
+      "tags": [],
+      "text": "EGP 5~8 60% profit hit",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/273\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">可以看看（非广） https://x.com/Eigenpiexyz_io/status/1837115051389378920</div>\n</small></blockquote></a>EGP 5~8 60% profit hit",
+      "reactions": [
+        {
+          "emoji": "🥰",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "278",
+      "title": "Pepe去零",
+      "type": "text",
+      "datetime": "2024-09-27T06:20:35+00:00",
+      "tags": [],
+      "text": "Pepe去零",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/270\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">Maybe Pepe time<i class=\"emoji\" style=\"background-image:url('/static/00b7c01400007dce081ce5ffbfebf36d.png')\"><b>😎</b></i></div>\n</small></blockquote></a>Pepe去零",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "20",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "10",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "277",
+      "title": "TG的期权知识机器人，一起来学习期权知识吧",
+      "type": "text",
+      "datetime": "2024-09-26T14:05:02+00:00",
+      "tags": [],
+      "text": "TG的期权知识机器人，一起来学习期权知识吧https://t.me/ApiaryFinanceBot这部分是挺难的，有问题一起群内讨论",
+      "content": "TG的期权知识机器人，一起来学习期权知识吧<a href=\"https://t.me/ApiaryFinanceBot\" target=\"_blank\" rel=\"noopener\" title=\"https://t.me/ApiaryFinanceBot\">https://t.me/ApiaryFinanceBot</a><br>这部分是挺难的，有问题一起群内讨论<a class=\"tgme_widget_message_link_preview\" href=\"https://t.me/ApiaryFinanceBot\" target=\"_blank\" rel=\"noopener\" title=\"Collect options, earn points, and out-rank your friends! 🐝\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/5b443a642f2148cc5f53b515752e11b5.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">Telegram</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Apiary - Powered by Syrupal</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Collect options, earn points, and out-rank your friends! <i class=\"emoji\" style=\"background-image:url('/static/dec03b8042b82894e2b0b92fa564038c.png')\"><b>🐝</b></i></div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}

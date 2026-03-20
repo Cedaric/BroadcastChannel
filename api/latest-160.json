@@ -1,0 +1,415 @@
+{
+  "meta": {
+    "title": "Fiona’s daily news",
+    "description": "",
+    "avatar": "/static/8d35991d9ac519d771d1f79357957dae.jpg",
+    "totalPosts": 555,
+    "totalPages": 28,
+    "currentPage": 9,
+    "pageSize": 20,
+    "hasNextPage": true,
+    "hasPrevPage": true,
+    "nextPageUrl": "latest-180.json",
+    "prevPageUrl": "latest-140.json"
+  },
+  "data": [
+    {
+      "id": "419",
+      "title": "大阳线 终于等到你",
+      "type": "text",
+      "datetime": "2025-10-01T09:18:45+00:00",
+      "tags": [],
+      "text": "大阳线 终于等到你",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/413\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">早安，目前所有的抄底单，除了doge都盈利了。不过周一才刚开始也不想太早乐观。关注本周非农 失业率。</div>\n</small></blockquote></a>大阳线 终于等到你",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "18",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "418",
+      "title": "【近7年来首次 美国联邦政府正式“关门”】金十数据10月1日讯，由于美国会参议院9月30日先后否决两党拨款法案，当地时间10月1日0时1分，美国联邦政府近7年以来再次关门，数十万联邦雇员不得不面临强制休假或被裁员，众多联邦部门的服务也“停摆”",
+      "type": "text",
+      "datetime": "2025-10-01T06:11:27+00:00",
+      "tags": [],
+      "text": "【近7年来首次 美国联邦政府正式“关门”】金十数据10月1日讯，由于美国会参议院9月30日先后否决两党拨款法案，当地时间10月1日0时1分，美国联邦政府近7年以来再次关门，数十万联邦雇员不得不面临强制休假或被裁员，众多联邦部门的服务也“停摆”。当地时间30日晚，白宫管理和预算办公室（OMB）主任沃特发布备忘录，指示各政府机构开始执行其“有序停摆”的预案。不受影响的部门包括军方、联邦调查局和国土安全部等执法部门、联邦航空管理局和邮政局等。",
+      "content": "【近7年来首次 美国联邦政府正式“关门”】金十数据10月1日讯，由于美国会参议院9月30日先后否决两党拨款法案，当地时间10月1日0时1分，美国联邦政府近7年以来再次关门，数十万联邦雇员不得不面临强制休假或被裁员，众多联邦部门的服务也“停摆”。当地时间30日晚，白宫管理和预算办公室（OMB）主任沃特发布备忘录，指示各政府机构开始执行其“有序停摆”的预案。不受影响的部门包括军方、联邦调查局和国土安全部等执法部门、联邦航空管理局和邮政局等。",
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "417",
+      "title": "随着美国政府可能关门的最后期限临近，市场投资者也开始感到紧张，导致美国华尔街股市主要股指期货在星期二（9月30日）小幅退低，金价再创历史新高",
+      "type": "text",
+      "datetime": "2025-09-30T14:02:49+00:00",
+      "tags": [],
+      "text": "随着美国政府可能关门的最后期限临近，市场投资者也开始感到紧张，导致美国华尔街股市主要股指期货在星期二（9月30日）小幅退低，金价再创历史新高。",
+      "content": "随着美国政府可能关门的最后期限临近，市场投资者也开始感到紧张，导致美国华尔街股市主要股指期货在星期二（9月30日）小幅退低，金价再创历史新高。",
+      "reactions": []
+    },
+    {
+      "id": "416",
+      "title": "祝大家国庆中秋🥮双节快乐！",
+      "type": "text",
+      "datetime": "2025-09-30T09:24:29+00:00",
+      "tags": [],
+      "text": "祝大家国庆中秋🥮双节快乐！",
+      "content": "祝大家国庆中秋<i class=\"emoji\"><b>🥮</b></i>双节快乐！",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "64",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "💔",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "415",
+      "title": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子",
+      "type": "text",
+      "datetime": "2025-09-29T02:24:15+00:00",
+      "tags": [],
+      "text": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子。不过这也说明，机器人确实是风口",
+      "content": "其实感觉优必选的这些单子和 NVDA和CRWV之间的关系很像，互相给订单，互相抬轿子。不过这也说明，机器人确实是风口",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "10",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "414",
+      "title": "优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与天奇股份正式签订采购合同",
+      "type": "text",
+      "datetime": "2025-09-29T02:23:14+00:00",
+      "tags": [],
+      "text": "优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与天奇股份正式签订采购合同。天奇股份将采购总价3,000万元的优必选工业人形机器人Walker S系列，该笔采购将于2025年12月31日前完成交付。加上本次订单，截止目前，优必选Walker系列人形机器人已获得近4.3亿元合同。",
+      "content": "<a href=\"https://laohu8.com/S/SLGB\" target=\"_blank\" rel=\"noopener\" title=\"优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与\">优必选官微新闻稿称，优必选智慧物流子公司UQI优奇与</a><a href=\"https://laohu8.com/S/002009\" target=\"_blank\" rel=\"noopener\" title=\"天奇股份正式签订采购合同。天奇股份将采购总价3,000万元的优必选工业人形机器人Walker\">天奇股份正式签订采购合同。天奇股份将采购总价3,000万元的优必选工业人形机器人Walker</a> S系列，该笔采购将于2025年12月31日前完成交付。加上本次订单，截止目前，优必选Walker系列人形机器人已获得近4.3亿元合同。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "413",
+      "title": "早安，目前所有的抄底单，除了doge都盈利了",
+      "type": "text",
+      "datetime": "2025-09-29T01:15:15+00:00",
+      "tags": [],
+      "text": "早安，目前所有的抄底单，除了doge都盈利了。不过周一才刚开始也不想太早乐观。关注本周非农 失业率。",
+      "content": "早安，目前所有的抄底单，除了doge都盈利了。不过周一才刚开始也不想太早乐观。关注本周非农 失业率。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "412",
+      "title": "9.26 市场观察市场情绪很弱，连续下跌",
+      "type": "text",
+      "datetime": "2025-09-26T15:02:54+00:00",
+      "tags": [],
+      "text": "9.26 市场观察市场情绪很弱，连续下跌。这几天有两次比较大的清杠杆行为。鸽子说的几个位置 100k BTC, 3.4k ETH and 160 SOL ，只能做好会到的准备了。刚开始eth从4700回调到4200，我觉得没啥，意料之中，大概率就是sell news+获利盘离开。所以第一波抄底的位置，是sol210，eth 4100。但是如此轻易丝滑地跌破4000，我就会怀疑是否有什么我所不知道的事情在发生。只是因为新币吸血么？还是宏观发生了变化？还是DAT卖出？抄底的最大原因是判断降息所带来的Q4行情，但是如果没有行情呢？如果这是一场错误的主观臆测呢？我不知道。底部不是特定的一个价格，底部确认是需要时间的，底部是一个区间。走一步看一步。🌍宏观风险：二季度美国gdp超预期，初申失业金人数低于预期。经济走势强劲的指标都在打击市场的降息预期。（影响较大）10月初美国政府停摆的可能性（短暂影响）特朗普新一轮关税战（这部分影响最小）⏰关键时间节点：10.1 🇺🇸9月ADP就业人数10.3 9月失业率+非农10.15 9月CPI10.29 美联储利率决定",
+      "content": "9.26 市场观察<br>市场情绪很弱，连续下跌。这几天有两次比较大的清杠杆行为。鸽子说的几个位置 100k BTC, 3.4k ETH and 160 SOL ，只能做好会到的准备了。<br><br>刚开始eth从4700回调到4200，我觉得没啥，意料之中，大概率就是sell news+获利盘离开。所以第一波抄底的位置，是sol210，eth 4100。<br><br>但是如此轻易丝滑地跌破4000，我就会怀疑是否有什么我所不知道的事情在发生。只是因为新币吸血么？还是宏观发生了变化？还是DAT卖出？<br><br>抄底的最大原因是判断降息所带来的Q4行情，但是如果没有行情呢？如果这是一场错误的主观臆测呢？我不知道。<br><br>底部不是特定的一个价格，底部确认是需要时间的，底部是一个区间。走一步看一步。<br><br><i class=\"emoji\"><b>🌍</b></i>宏观风险：<br>二季度美国gdp超预期，初申失业金人数低于预期。经济走势强劲的指标都在打击市场的降息预期。（影响较大）<br>10月初美国政府停摆的可能性（短暂影响）<br>特朗普新一轮关税战（这部分影响最小）<br><br><i class=\"emoji\"><b>⏰</b></i>关键时间节点：<br>10.1 <i class=\"emoji\"><b>🇺🇸</b></i>9月ADP就业人数<br>10.3 9月失业率+非农<br>10.15 9月CPI<br>10.29 美联储利率决定",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "43",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "410",
+      "title": "最近抄底抄的很难受，特别是🐦今天也看空之后",
+      "type": "text",
+      "datetime": "2025-09-24T04:13:42+00:00",
+      "tags": [],
+      "text": "最近抄底抄的很难受，特别是🐦今天也看空之后。但是还是慢慢买，只是放慢买的速度，保证不爆仓的前提下，继续买入。买入的标的也要更加谨慎，只买就算被套也可以拿得住的。非投资建议，每个人的投资方法不同，风险偏好不同。接下来会减少看盘时间和交易频次，来减少情绪波动。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/408\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">其实宏观面没有什么意料之外的利空，反而随着降息周期的开始，更多的流动性汇入。跌的原因不清楚，但是基于长期判断逐步买入。买单早早已经挂好，也已经买入了第一批。 前几周和我老公开玩笑，说我觉得降息附近行情k线会走一个W。先跌到降息利好出上涨，再回调，再开启最长的上涨。 为自己的判断下注吧</div>\n</small></blockquote></a>最近抄底抄的很难受，特别是<i class=\"emoji\"><b>🐦</b></i>今天也看空之后。<br>但是还是慢慢买，只是放慢买的速度，保证不爆仓的前提下，继续买入。买入的标的也要更加谨慎，只买就算被套也可以拿得住的。<br>非投资建议，每个人的投资方法不同，风险偏好不同。<br><br>接下来会减少看盘时间和交易频次，来减少情绪波动。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "38",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "409",
+      "title": "阿里巴巴(09988.HK)涨幅扩大至7%，股价创近4年新高",
+      "type": "text",
+      "datetime": "2025-09-24T03:31:56+00:00",
+      "tags": [],
+      "text": "阿里巴巴(09988.HK)涨幅扩大至7%，股价创近4年新高。相信 持有 等待",
+      "content": "阿里巴巴(<a href=\"http://09988.HK/\" target=\"_blank\" rel=\"noopener\" title=\"09988.HK\">09988.HK</a>)涨幅扩大至7%，股价创近4年新高。<br>相信 持有 等待",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "19",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "408",
+      "title": "其实宏观面没有什么意料之外的利空，反而随着降息周期的开始，更多的流动性汇入",
+      "type": "text",
+      "datetime": "2025-09-22T06:22:38+00:00",
+      "tags": [],
+      "text": "其实宏观面没有什么意料之外的利空，反而随着降息周期的开始，更多的流动性汇入。跌的原因不清楚，但是基于长期判断逐步买入。买单早早已经挂好，也已经买入了第一批。前几周和我老公开玩笑，说我觉得降息附近行情k线会走一个W。先跌到降息利好出上涨，再回调，再开启最长的上涨。为自己的判断下注吧",
+      "content": "其实宏观面没有什么意料之外的利空，反而随着降息周期的开始，更多的流动性汇入。跌的原因不清楚，但是基于长期判断逐步买入。买单早早已经挂好，也已经买入了第一批。<br>前几周和我老公开玩笑，说我觉得降息附近行情k线会走一个W。先跌到降息利好出上涨，再回调，再开启最长的上涨。<br>为自己的判断下注吧",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "46",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤮",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "407",
+      "title": "接到了一大堆，ETH SOL PENGU HYPE WLFI 浮虧巨大的是doge，其他目前都還行",
+      "type": "text",
+      "datetime": "2025-09-22T06:07:47+00:00",
+      "tags": [],
+      "text": "接到了一大堆，ETH SOL PENGU HYPE WLFI 浮虧巨大的是doge，其他目前都還行",
+      "content": "接到了一大堆，ETH SOL PENGU HYPE WLFI 浮虧巨大的是doge，其他目前都還行",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤮",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "406",
+      "title": "抄底了HYPE",
+      "type": "text",
+      "datetime": "2025-09-22T01:35:13+00:00",
+      "tags": [],
+      "text": "抄底了HYPE",
+      "content": "抄底了HYPE",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "30",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤮",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "405",
+      "title": "周六买了点 $WLFI k线走势+回购消息，仓位不大",
+      "type": "text",
+      "datetime": "2025-09-21T06:59:59+00:00",
+      "tags": [],
+      "text": "周六买了点 $WLFI k线走势+回购消息，仓位不大。走的好会考虑加仓，美股联动标的。$ALTS",
+      "content": "周六买了点 $WLFI k线走势+回购消息，仓位不大。走的好会考虑加仓，美股联动标的。$ALTS",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "15",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "404",
+      "title": "听大哥的 稍微买了点 $THE低估值，YZI 投资，Perp概念NFA",
+      "type": "text",
+      "datetime": "2025-09-21T06:58:49+00:00",
+      "tags": [],
+      "text": "听大哥的 稍微买了点 $THE低估值，YZI 投资，Perp概念NFA",
+      "content": "听大哥的 稍微买了点 $THE<br>低估值，YZI 投资，Perp概念<br>NFA",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "19",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤮",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "403",
+      "title": "特征：流动性的增加，新币不再是阴跌，新币重新有巨大的财富效应，交易量扩大，赚钱机会重现",
+      "type": "text",
+      "datetime": "2025-09-21T06:55:44+00:00",
+      "tags": [],
+      "text": "特征：流动性的增加，新币不再是阴跌，新币重新有巨大的财富效应，交易量扩大，赚钱机会重现",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/402\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">这两年过去了，第一次真的感觉是山寨季节来了！真的来了～</div>\n</small></blockquote></a>特征：流动性的增加，新币不再是阴跌，新币重新有巨大的财富效应，交易量扩大，赚钱机会重现",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "402",
+      "title": "这两年过去了，第一次真的感觉是山寨季节来了！真的来了～",
+      "type": "text",
+      "datetime": "2025-09-21T06:50:08+00:00",
+      "tags": [],
+      "text": "这两年过去了，第一次真的感觉是山寨季节来了！真的来了～",
+      "content": "这两年过去了，第一次真的感觉是山寨季节来了！真的来了～",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "29",
+          "isPaid": false
+        },
+        {
+          "emoji": "👎",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "401",
+      "title": "BMNR重回60",
+      "type": "text",
+      "datetime": "2025-09-18T13:42:41+00:00",
+      "tags": [],
+      "text": "BMNR重回60",
+      "content": "BMNR重回60",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥱",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "400",
+      "title": "年初写的机器人 复习一下",
+      "type": "text",
+      "datetime": "2025-09-18T03:28:24+00:00",
+      "tags": [],
+      "text": "年初写的机器人 复习一下https://x.com/nft_hu/status/1896409355379249623?s=46",
+      "content": "年初写的机器人 复习一下<a href=\"https://x.com/nft_hu/status/1896409355379249623?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1896409355379249623?s=46\">https://x.com/nft_hu/status/1896409355379249623?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1896409355379249623?s=46\" target=\"_blank\" rel=\"noopener\" title=\"人形机器人，是科技业新的“兵家必争之地”。AI+机器人技术相结合的高科技产品，被广泛应用于家庭、商业和工业等领域，人形机器人是智能机器人中研发难度最大、技术壁垒最高的产品，是体现一个国家科技发展水平的重要标志。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/1df118adb046c28254dff70ef7fd5adc.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">人形机器人，是科技业新的“兵家必争之地”。AI+机器人技术相结合的高科技产品，被广泛应用于家庭、商业和工业等领域，人形机器人是智能机器人中研发难度最大、技术壁垒最高的产品，是体现一个国家科技发展水平的重要标志。</div>\n</a>",
+      "reactions": []
+    },
+    {
+      "id": "399",
+      "title": "最近的 GLXY 走强势，线看起来不错",
+      "type": "text",
+      "datetime": "2025-09-18T01:09:22+00:00",
+      "tags": [],
+      "text": "最近的 GLXY 走强势，线看起来不错",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/391\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">Will GLXY be next BMNR?</div>\n</small></blockquote></a>最近的 GLXY 走强势，线看起来不错",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "8",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}

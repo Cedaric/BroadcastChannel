@@ -1,17 +1,7 @@
 import * as cheerio from 'cheerio'
 import flourite from 'flourite'
-import { LRUCache } from 'lru-cache'
 import { $fetch } from 'ofetch'
-import { getEnv } from '../env'
-import prism from '../prism'
-
-const cache = new LRUCache({
-  ttl: 1000 * 60 * 5, // 5 minutes
-  maxSize: 50 * 1024 * 1024, // 50MB
-  sizeCalculation: (item) => {
-    return JSON.stringify(item).length
-  },
-})
+import prism from './prism-node.js'
 
 // Normalize emoji variants (e.g., heart variants)
 function normalizeEmoji(emoji) {
@@ -268,175 +258,39 @@ async function getPost($, item, { channel, staticProxy, index = 0, reactionsEnab
   }
 }
 
-const unnessaryHeaders = ['host', 'cookie', 'origin', 'referer']
+export async function fetchTelegramPosts({ host = 't.me', channel, staticProxy = '', reactionsEnabled = false, before = '' } = {}) {
+  const url = `https://${host}/s/${channel}`
+  console.info(`[Parser] Fetching ${url} ?before=${before || 'latest'}`)
 
-export async function getChannelInfo(Astro, { before = '', after = '', q = '', type = 'list', id = '' } = {}) {
-  const cacheKey = JSON.stringify({ before, after, q, type, id })
-  const cachedResult = cache.get(cacheKey)
-
-  if (cachedResult) {
-    console.info('Match Cache', { before, after, q, type, id })
-    return JSON.parse(JSON.stringify(cachedResult))
-  }
-
-  // Where t.me can also be telegram.me, telegram.dog
-  const host = getEnv(import.meta.env, Astro, 'TELEGRAM_HOST') ?? 't.me'
-  const channel = getEnv(import.meta.env, Astro, 'CHANNEL')
-  const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? '/static/'
-  const reactionsEnabled = getEnv(import.meta.env, Astro, 'REACTIONS')
-  const staticApiUrl = getEnv(import.meta.env, Astro, 'STATIC_API_URL')
-
-  // === STATIC API MODE ===
-  if (staticApiUrl) {
-    const processStaticUrls = (obj) => {
-      let str = JSON.stringify(obj)
-      // replace all occurences of "/static/" or "/static/" in the JSON response
-      str = str.replace(/(["'])\/static\//g, `$1${staticApiUrl}/static/`)
-      return JSON.parse(str)
-    }
-
-    if (id) {
-      try {
-        const res = await fetch(`${staticApiUrl}/posts/${id}.json`)
-        if (!res.ok)
-          return { posts: [] }
-
-        let post = await res.json()
-        post = processStaticUrls(post)
-
-        const metaRes = await fetch(`${staticApiUrl}/meta.json`)
-        let meta = await metaRes.json()
-        meta = processStaticUrls(meta)
-
-        return {
-          ...post,
-          ...meta,
-        }
-      }
-      catch (error) {
-        console.error('[Static API] Error fetching post:', error)
-        return { posts: [] }
-      }
-    }
-
-    // Static URL Search Logic
-    if (q) {
-      try {
-        const res = await fetch(`${staticApiUrl}/search.json`)
-        if (!res.ok)
-          return { posts: [] }
-
-        const searchIndex = await res.json()
-
-        const lowerQ = q.toLowerCase()
-        const isTagSearch = lowerQ.startsWith('#')
-        const tagQ = isTagSearch ? lowerQ.slice(1) : lowerQ
-
-        let matchedItems = searchIndex.filter((item) => {
-          if (isTagSearch) {
-            return item.tags?.some(tag => tag.toLowerCase() === tagQ)
-          }
-          return (
-            (item.text && item.text.toLowerCase().includes(lowerQ))
-            || (item.title && item.title.toLowerCase().includes(lowerQ))
-            || (item.tags && item.tags.some(tag => tag.toLowerCase() === lowerQ))
-          )
-        })
-
-        // Max 50 items for search results so we don't spam requests
-        matchedItems = matchedItems.slice(0, 50)
-
-        // Fetch full data for the matched IDs concurrently
-        const fetchPromises = matchedItems.map(item =>
-          fetch(`${staticApiUrl}/posts/${item.id}.json`)
-            .then(r => r.ok ? r.json() : null)
-            .catch(() => null),
-        )
-
-        let fullPosts = (await Promise.all(fetchPromises)).filter(Boolean)
-        fullPosts = processStaticUrls(fullPosts)
-
-        const metaRes = await fetch(`${staticApiUrl}/meta.json`)
-        let meta = await metaRes.json()
-        meta = processStaticUrls(meta)
-
-        return {
-          ...meta,
-          posts: fullPosts,
-        }
-      }
-      catch (error) {
-        console.error('[Static API] Error fetching search:', error)
-        return { posts: [] }
-      }
-    }
-
-    // Standard Static Page Fetching
-    try {
-      const pageFile = (before && typeof before === 'string' && before.endsWith('.json')) ? before : 'latest.json'
-      const res = await fetch(`${staticApiUrl}/${pageFile}`)
-      if (!res.ok)
-        return { posts: [] }
-      const payload = await res.json()
-
-      const payloadProcessed = processStaticUrls(payload)
-
-      return {
-        posts: payloadProcessed?.data || [],
-        pagination: payloadProcessed?.meta || {},
-        title: payloadProcessed?.meta?.title || '',
-        description: payloadProcessed?.meta?.description || '',
-        avatar: payloadProcessed?.meta?.avatar || '',
-      }
-    }
-    catch (error) {
-      console.error('[Static API] Error fetching page:', error)
-      return { posts: [] }
-    }
-  }
-  // === DYNAMIC SCRAPING MODE (Fallback) ===
-
-  const url = id ? `https://${host}/${channel}/${id}?embed=1&mode=tme` : `https://${host}/s/${channel}`
-  const headers = Object.fromEntries(Astro.request.headers)
-
-  Object.keys(headers).forEach((key) => {
-    if (unnessaryHeaders.includes(key)) {
-      delete headers[key]
-    }
-  })
-
-  console.info('Fetching', url, { before, after, q, type, id })
   const html = await $fetch(url, {
-    headers,
     query: {
       before: before || undefined,
-      after: after || undefined,
-      q: q || undefined,
     },
     retry: 3,
-    retryDelay: 100,
+    retryDelay: 500,
   })
 
   const $ = cheerio.load(html, {}, false)
-  if (id) {
-    const post = await getPost($, null, { channel, staticProxy, reactionsEnabled })
-    cache.set(cacheKey, post)
-    return post
-  }
   const posts = (await Promise.all(
     $('.tgme_channel_history  .tgme_widget_message_wrap')?.map((index, item) => {
-      return getPost($, item, { channel, staticProxy, index, reactionsEnabled })
+      // index is passed to get Images/Video lazyloading offsets, we can just use 0
+      return getPost($, item, { channel, staticProxy, index: 0, reactionsEnabled })
     })?.get() ?? [],
-  ))?.reverse().filter(post => ['text'].includes(post.type) && post.id && post.content)
+  ))?.filter(post => ['text'].includes(post.type) && post.id && post.content)
 
-  const channelInfo = {
-    posts,
-    title: $('.tgme_channel_info_header_title')?.text(),
-    description: $('.tgme_channel_info_description')?.text(),
-    descriptionHTML: (await modifyHTMLContent($, $('.tgme_channel_info_description'), { staticProxy }))?.html(),
-    avatar: $('.tgme_page_photo_image img')?.attr('src'),
+  // Telegram returns posts in chronological order (oldest at top of HTML to newest at bottom)
+  // We reverse it to process Newest -> Oldest
+  return posts.reverse()
+}
+
+export async function fetchChannelMeta({ host = 't.me', channel, staticProxy = '' } = {}) {
+  const url = `https://${host}/s/${channel}`
+  const html = await $fetch(url, { retry: 3 })
+  const $ = cheerio.load(html, {}, false)
+
+  return {
+    title: $('.tgme_channel_info_header_title')?.text() || channel,
+    description: $('.tgme_channel_info_description')?.text() || '',
+    avatar: $('.tgme_page_photo_image img')?.attr('src') ? staticProxy + $('.tgme_page_photo_image img')?.attr('src') : '',
   }
-
-  cache.set(cacheKey, channelInfo)
-  return channelInfo
 }

@@ -8,8 +8,8 @@ English | [简体中文](./README.zh-cn.md)
 
 ## ✨ Features
 
-- **Turn your Telegram Channel into a MicroBlog**
-- **SEO friendly** `/sitemap.xml`
+- **SEO friendly** scalable `/sitemap-index.xml`
+- **Media Localization** automatically downloads CDN images/audio/video to prevent link expiration
 - **0 JS on the browser side**
 - **RSS and RSS JSON** `/rss.xml` `/rss.json`
 
@@ -81,6 +81,38 @@ For detailed tutorials, see [Deploy your Astro site](https://docs.astro.build/en
 6. Bind a domain (optional).
 7. Update code, refer to the official GitHub documentation [Syncing a fork branch from the web UI](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui).
 
+#### Advanced Deployment: Multi-Worker API Architecture (Zero Timeouts)
+
+If you experience crawl timeouts or poor SEO indexing for your Sitemap/RSS, you can enable the disconnected static API pipeline powered by Cloudflare Workers Assets:
+
+1. Configure GitHub Secrets
+   In your GitHub repository's `Settings -> Secrets and variables -> Actions`, add the following:
+   * **Variables**:
+     * `CHANNELS_CONFIG`: Configure channel names, associated URLs, and optional API routes.
+       Example: `[{"name": "durov", "url": "https://memo.durov.com", "api_route": "durovapi.example.com"}]`
+   * **Secrets**:
+     * `CLOUDFLARE_ACCOUNT_ID`: Your Cloudflare account ID.
+     * `CLOUDFLARE_API_TOKEN`: Token with **Worker Edit** permissions.
+
+2. Trigger the Initial Sync
+   Go to the **Actions** panel and manually trigger the **Static Data Sync** workflow. This will:
+   * Fetch Telegram data and store the raw history in separate `data-{channel}` branches.
+   * Deploy a dedicated Cloudflare Worker for each channel (e.g., `api-durov`).
+   * Bind the Worker to your custom domain (e.g., `durovapi.example.com`).
+
+3. Configure your Deployment (Two Options)
+   * **Option A: Cloudflare Workers (Recommended)**
+     - The workflow automatically deploys to Workers.
+     - Your API will be at `https://durovapi.example.com/latest.json`.
+     - Static assets are bundled and served from the Worker.
+   * **Option B: Static Hosting (Traditional)**
+     - The `data-durov` branch still contains all static files (including `index.html`).
+     - You can link this branch to GitHub Pages, Vercel, or Netlify as a pure static site.
+     - Your API will be at `https://your-static-host.com/api/latest.json`.
+
+4. Configure your Astro Site
+   In your main Astro site's environment variables (`.env` or platform config), set the `STATIC_API_URL` to your chosen endpoint (e.g., `https://durovapi.example.com`).
+
 ## ⚒️ Configuration
 
 ```env
@@ -93,7 +125,7 @@ TIMEZONE=America/New_York
 
 ## Social media usernames
 TELEGRAM=miantiao-me
-TWITTER=miantiao-me
+X=miantiao-me
 GITHUB=miantiao-me
 MASTODON=mastodon.social/@Mastodon
 BLUESKY=bsky.app
@@ -120,7 +152,6 @@ SENTRY_PROJECT=SENTRY_PROJECT
 
 ## Telegram host name and static resource proxy, not recommended to modify
 HOST=telegram.dog
-STATIC_PROXY=
 
 ## Enable Google Site Search
 GOOGLE_SEARCH_SITE=memo.miantiao.me
@@ -142,6 +173,9 @@ NAVS=Title1,URL1;Title2,URL3;Title3,URL3;
 
 ## Enable RSS beautify
 RSS_BEAUTIFY=true
+
+## Advanced: Static API Engine Node (See Advanced Deployment). Used for cross-domain static data and media assets.
+STATIC_API_URL=https://api.example.com/miantiao_me
 ```
 
 ## 🙋🏻 FAQs

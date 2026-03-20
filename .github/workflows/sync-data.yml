@@ -1,0 +1,142 @@
+name: Static Data Sync
+
+on:
+  schedule:
+    - cron: '0 2,3,4,7,13,14,16 * * *'
+  workflow_dispatch:
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Generate Matrix from JSON Secret
+        id: set-matrix
+        env:
+          CONFIG_SECRET: ${{ vars.CHANNELS_CONFIG }}
+        run: |
+          CONFIG="${CONFIG_SECRET:-'[{\"name\":\"miantiao_me\",\"url\":\"https://example.com\"}]'}"
+          JSON_ARRAY=$(echo "$CONFIG" | jq -c '.')
+          echo "Parsed JSON: $JSON_ARRAY"
+          echo "matrix=$JSON_ARRAY" >> $GITHUB_OUTPUT
+
+  sync:
+    needs: setup
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        channel: ${{ fromJson(needs.setup.outputs.matrix) }}
+
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v6
+        with:
+          path: src-repo
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: src-repo/pnpm-lock.yaml
+
+      - name: Install Dependencies
+        working-directory: src-repo
+        run: pnpm install --prefer-offline --no-frozen-lockfile
+
+      - name: Setup Data Branch Worktree
+        working-directory: src-repo
+        run: |
+          BRANCH_NAME="data-${{ matrix.channel.name }}"
+          
+          git fetch --depth=1 origin $BRANCH_NAME:$BRANCH_NAME || echo "Branch '$BRANCH_NAME' not found on remote."
+
+          if git rev-parse --verify $BRANCH_NAME >/dev/null 2>&1; then
+            echo "$BRANCH_NAME branch exists. Creating worktree..."
+            git worktree add data $BRANCH_NAME
+          else
+            echo "$BRANCH_NAME branch does not exist. Creating it as an orphan branch..."
+            git worktree add --detach data
+            cd data
+            git checkout --orphan $BRANCH_NAME
+            git rm -rf .
+            cd ..
+          fi
+
+      - name: Execute Sync Scripts
+        id: sync
+        working-directory: src-repo
+        env:
+          CHANNEL: ${{ matrix.channel.name }}
+          SITE_URL: ${{ matrix.channel.url }}
+          STATIC_PROXY: ''
+          REACTIONS: 'true'
+        run: |
+          node scripts/fetch-raw.js
+          node scripts/build-api.js
+          
+          # Detect changes in the data directory
+          cd data
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Data changes detected."
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No data changes detected."
+          fi
+
+      - name: Generate Wrangler Configuration
+        if: steps.sync.outputs.has_changes == 'true'
+        working-directory: src-repo
+        run: |
+          API_ROUTE=$(echo '${{ toJson(matrix.channel) }}' | jq -r '.api_route // empty')
+          
+          cat > wrangler.toml <<EOF
+          name = "api-${{ matrix.channel.name }}"
+          compatibility_date = "2024-03-19"
+          
+          [assets]
+          directory = "data/api"
+          not_found_handling = "single-page-application"
+          EOF
+          
+          if [ -n "$API_ROUTE" ]; then
+            cat >> wrangler.toml <<EOF
+          
+          [[routes]]
+          pattern = "$API_ROUTE"
+          custom_domain = true
+          EOF
+          fi
+          
+          echo "Generated wrangler.toml:"
+          cat wrangler.toml
+
+      - name: Deploy to Cloudflare Workers
+        if: steps.sync.outputs.has_changes == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: src-repo
+          command: deploy
+
+      - name: Commit and Push to Data Branch
+        if: steps.sync.outputs.has_changes == 'true'
+        working-directory: src-repo/data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH_NAME="data-${{ matrix.channel.name }}"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit --no-verify -m "Auto-sync Telegram Data - $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S') UTC+8" || echo "No changes to commit"
+          git push -u origin $BRANCH_NAME

@@ -3,7 +3,7 @@ import List from '../../components/list.astro'
 import { getChannelInfo } from '../../lib/telegram'
 
 const channel = await getChannelInfo(Astro, {
-  before: Astro.params.cursor,
+  before: Astro.params.page, // In static mode, this is the filename `latest-XX.json`
 })
 
 channel.seo = {

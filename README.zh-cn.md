@@ -9,7 +9,8 @@
 ## ✨ 特性
 
 - **将 Telegram Channel 转为微博客**
-- **SEO 友好** `/sitemap.xml`
+- **SEO 友好** 支持海量数据的 `/sitemap-index.xml`
+- **媒体本地化** 自动抓取 Telegram CDN 图片/音视频至本地，防止链接过期失效
 - **浏览器端 0 JS**
 - **提供 RSS 和 RSS JSON** `/rss.xml` `/rss.json`
 
@@ -81,6 +82,38 @@
 6. 绑定域名（可选）。
 7. 更新代码，参考 GitHub 官方文档 [从 Web UI 同步分叉分支](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui)。
 
+#### 进阶高级部署：多 Worker API 架构 (零超时)
+
+如果你的频道存在访问超时或 SEO 抓取失败的问题，你可以开启基于 Cloudflare Workers Assets 的极速分离架构：
+
+1. 配置 GitHub Secrets
+   在你的 GitHub 仓库 `Settings -> Secrets and variables -> Actions` 中，添加以下：
+   * **Variables (变量)**:
+     * `CHANNELS_CONFIG`: 配置频道名称、关联 URL 以及可选的 API 路由。
+       示例：`[{"name": "durov", "url": "https://memo.durov.com", "api_route": "durovapi.example.com"}]`
+   * **Secrets (机密)**:
+     * `CLOUDFLARE_ACCOUNT_ID`: 你的 Cloudflare 账户 ID。
+     * `CLOUDFLARE_API_TOKEN`: 具有 **Worker 修改** 权限的令牌。
+
+2. 触发首次同步
+   转到 **Actions** 面板，手动触发 **Static Data Sync** 工作流。该 Action 会：
+   * 抓取 Telegram 数据并将原始历史记录保存在独立的 `data-{channel}` 分支中。
+   * 为每个频道部署一个专属的 Cloudflare Worker（如 `api-durov`）。
+   * 将该 Worker 绑定到你的自定义域名路由（如 `durovapi.example.com    `）。
+
+3. 配置你的部署方式 (双重选择)
+   * **选项 A：Cloudflare Workers (推荐)**
+     - 工作流会自动部署到 Workers。
+     - 你的 API 路径将是 `https://durovapi.example.com/latest.json`。
+     - 静态资源将被打包并由 Worker 提供服务。
+   * **选项 B：静态托管 (传统方式)**
+     - `data-durov` 分支依然完整保留所有静态文件（包括 `index.html`）。
+     - 你可以将该分支绑定到 GitHub Pages、Vercel 或 Netlify 作为纯静态站使用。
+     - 你的 API 路径将是 `https://your-static-host.com/api/latest.json`。
+
+4. 配置你的 Astro 站点
+   在你的 Astro 主站点的环境变量（`.env` 或平台配置）中，将 `STATIC_API_URL` 设置为你选择的端点（例如 `https://durovapi.example.com`）。
+
 ## ⚒️ 配置
 
 ```env
@@ -93,7 +126,7 @@ TIMEZONE=Asia/Shanghai
 
 ## 社交媒体用户名
 TELEGRAM=miantiao-me
-TWITTER=miantiao-me
+X=miantiao-me
 GITHUB=miantiao-me
 
 ## 下面两个社交媒体需要为 URL
@@ -118,7 +151,6 @@ SENTRY_PROJECT=SENTRY_PROJECT
 
 ## Telegram 主机名称和静态资源代理，不建议修改
 HOST=telegram.dog
-STATIC_PROXY=
 
 ## 启用谷歌站内搜索
 GOOGLE_SEARCH_SITE=memo.miantiao.me
@@ -140,6 +172,9 @@ NAVS=Title1,URL1;Title2,URL3;Title3,URL3;
 
 ## 启用 RSS 美化
 RSS_BEAUTIFY=true
+
+## 高级配置：静态数据 API 节点（详见进阶高级部署）。用于解析数据源及本地化的媒体资源。
+STATIC_API_URL=https://api.example.com/miantiao_me
 ```
 
 ## 🙋🏻 常问问题

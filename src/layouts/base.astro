@@ -2,6 +2,7 @@
 import '../assets/normalize.css'
 import '../assets/style.css'
 import '../assets/global.css'
+import 'remixicon/fonts/remixicon.css'
 import { SEO } from 'astro-seo'
 import { getEnv } from '../lib/env'
 import backToTopIcon from '../assets/back-to-top.svg'
@@ -16,7 +17,7 @@ const reqPathname = Astro.url.pathname.replace(/\/$/, '')
 const canonical = SITE_URL.startsWith('http') ? new URL(SITE_URL).origin + reqPathname : Astro.url.origin + reqPathname
 
 const { origin, pathname } = new URL(canonical)
-const twitter = getEnv(import.meta.env, Astro, 'TWITTER')
+const x = getEnv(import.meta.env, Astro, 'x')
 
 const seoParams = {
   title: seo?.title,
@@ -49,7 +50,8 @@ const seoParams = {
 }
 
 const GOOGLE_SEARCH_SITE = getEnv(import.meta.env, Astro, 'GOOGLE_SEARCH_SITE')
-const searchAction = GOOGLE_SEARCH_SITE ? 'https://www.google.com/search' : '/search/result'
+const STATIC_API_URL = getEnv(import.meta.env, Astro, 'STATIC_API_URL')
+const searchAction = GOOGLE_SEARCH_SITE && !STATIC_API_URL ? 'https://www.google.com/search' : '/search/result'
 
 const HEADER_INJECT = getEnv(import.meta.env, Astro, 'HEADER_INJECT')
 const FOOTER_INJECT = getEnv(import.meta.env, Astro, 'FOOTER_INJECT')
@@ -84,7 +86,7 @@ const navs = (getEnv(import.meta.env, Astro, 'NAVS') || '')
       titleDefault={[channel?.title, seoParams.description].filter(Boolean).join(' - ')}
       twitter={{
         card: 'summary_large_image',
-        creator: twitter ? `@${twitter}` : undefined,
+        creator: x ? `@${x}` : undefined,
       }}
       {...seoParams}
     />

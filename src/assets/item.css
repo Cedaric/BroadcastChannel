@@ -82,7 +82,7 @@
       padding-right: 4px;
       background-color: rgba(0, 0, 0, 0.66);
       font-size: 14px;
-      color: #fff;
+      color: #ffffff;
       line-height: 1.5;
       border-radius: var(--box-border-radius);
       text-overflow: ellipsis;
@@ -99,23 +99,20 @@
 
   blockquote {
     margin: 16px 0;
-    font-size: 0.8em;
-    background: var(--cell-background-color);
-    border-left: 3px solid var(--highlight-color);
-    padding: 6px;
-    padding-left: 10px;
-    border-radius: var(--box-border-radius);
+    font-size: 0.9em;
+    background: var(--code-background-color);
+    border-left: 4px solid var(--highlight-color);
+    padding: 12px 16px;
+    border-radius: 0 var(--box-border-radius) var(--box-border-radius) 0;
   }
 
   .tg-expandable {
     margin: 16px 0;
-    font-size: 0.8em;
-    background: var(--cell-background-color);
-    border-left: 3px solid var(--highlight-color);
-    padding: 6px;
-    padding-left: 10px;
-    padding-right: 30px;
-    border-radius: var(--box-border-radius);
+    font-size: 0.9em;
+    background: var(--code-background-color);
+    border-left: 4px solid var(--highlight-color);
+    padding: 12px 30px 12px 16px;
+    border-radius: 0 var(--box-border-radius) var(--box-border-radius) 0;
     position: relative;
     min-height: 3.6em;
   }
@@ -256,8 +253,8 @@
       color: transparent;
       margin: auto 2px;
       border-radius: var(--box-border-radius);
-      background: #ccc 60% 60% / 3000px 3000px;
-      background-image: repeating-conic-gradient(#999 0 0.0001%, #0000 0 0.0002%);
+      background: var(--code-background-color) 60% 60% / 3000px 3000px;
+      background-image: repeating-conic-gradient(var(--secondary-color) 0 0.0001%, #0000 0 0.0002%);
     }
 
     input:checked + tg-spoiler {
@@ -278,12 +275,18 @@
   display: inline-flex;
   align-items: center;
   gap: 4px;
-  padding: 3px 8px 3px 6px;
-  font-size: 12px;
+  padding: 4px 10px;
+  font-size: 13px;
   color: var(--secondary-color);
   background: var(--code-background-color);
   border: 1px solid var(--border-color);
   border-radius: 999px;
+  transition: all 0.2s ease;
+}
+
+.reaction-pill:hover {
+  background: var(--border-color);
+  border-color: var(--secondary-color);
 }
 
 .reaction-pill-paid {

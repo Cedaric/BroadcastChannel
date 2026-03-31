@@ -5,6 +5,14 @@
   "home_page_url": "https://fiona.ceda.is/",
   "items": [
     {
+      "url": "https://fiona.ceda.is/posts/594",
+      "title": "每次我觉得最痛苦的时刻，一般就是底部了",
+      "description": "",
+      "date_published": "2026-03-31T14:44:06.000Z",
+      "tags": [],
+      "content_html": "每次我觉得最痛苦的时刻，一般就是底部了。做自己的判断，知行合一，坚持<i class=\"emoji\"><b>✊</b></i>"
+    },
+    {
       "url": "https://fiona.ceda.is/posts/593",
       "title": "Post #593",
       "description": "",
@@ -395,14 +403,6 @@
       "date_published": "2026-02-08T12:39:36.000Z",
       "tags": [],
       "content_html": "明天又是周一了～最近的市场时刻都在变化中，从去年底开始大火的金银有色上周的极限反转行情，从曾经的当红辣子鸡SaaS已经成为AI替代的第一批直接受害者，被压榨到最后一滴的流动性给了市场严重一击，而在这场变故中，以BTC和ETH为代表的加密货币仍让是弱于大盘。<br><br>上周有几个朋友都问我，会回来看币么？我都给予了否定的答复。BTC划算会买点，其他的，我很高兴我转移到了更有趣的市场。<br><br>对于后市，我仍旧看多，关键需要看市场的流动性何时回归，而资本又会在流动性回归时选择谁。<br><br>可以感受到机构/资本的选择在不断变化，随着大厂们的财报发布，资本支出（Capex）远高于预期。投资是否可以产生积极的收入，是所有人最关心的问题。<br><br>目前我的观察来说，更中小型且前期涨的少的公司，似乎在周四周五更加收到市场的青睐。以$LITE $COHR 为首的光通讯模块表现明显强于大盘。 美光 $MU 似乎热度也有所减退，不少交易员获利了结。我仍持有美光的仓位，甚至在下跌时做了加仓。但是会根据下周大家的表现进行调仓。"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/541",
-      "title": "第二个消息事实上是一个非常典型的“短多长空”且带有结构性风险的消息",
-      "description": "",
-      "date_published": "2026-02-07T13:50:02.000Z",
-      "tags": [],
-      "content_html": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/540\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">本周 Intel $INTC 的股价很硬，尤其是在指数回调很多“明星股”都经历巨大回调， $INTC 的股价却在高位小幅震荡，周五很快拉升，股价突破50。  最近Intel有哪些进展/消息呢？  <i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>GPU方向 Intel CEO Lip-Bu Tan 在 Cisco AI Summit 表示： “Intel 正在组建 新的 GPU 计划，由新聘请的首席 GPU 架构师 Eric Demers 领导，数据中心老将 Kevork Kechichian 参与。” 这表明：Intel 希望重新进入由 Nvidia…</div>\n</small></blockquote></a><b>第二个消息事实上是一个非常典型的“短多长空”且带有结构性风险的消息。</b><br><br><i class=\"emoji\"><b>1️⃣</b></i>为什么说是“短期利好”？（财务层面）<br>定价权回归： 价格上涨 10% 以上，意味着在当前的“钱荒”和“物价涨”背景下，Intel 拥有极强的定价权（Pricing Power）。这会直接拉升其第一季度的毛利率（Gross Margin）。<br><br>存货价值重估： 如果交期拉长到 6 个月，现有的库存就变成了“硬通货”。在流动性紧缺的市场，谁手里有现货，谁就是爷。<br><br>财务报表好看： 20% 以上的营收占比加上 10% 的涨价，对 Intel 这种正处于“化债”关键期的公司来说，是极好的现金流入。<br><br><i class=\"emoji\"><b>2️⃣</b></i>为什么说是“长期利空”？<br><br>制度可信度崩塌： 6 个月的交期意味着 Intel 在中国这个核心市场的“功能性丧失”。当一个市场发现你无法稳定供货时，私人部门（如阿里、腾讯等）将不再愿意为你承担“久期风险”，他们会加速转向国产替代。<br><br>不可能三角的挤压：Intel 依赖中国市场的现金流来支撑代工（Foundry）的巨额投入。<br><br>政治约束： 出口许可限制导致有货卖不出，或由于供应链断裂导致交期过长。<br><br>这迫使 Intel 进入一种“自杀式经营”：虽然单价涨了，但出货量（Volume）受限，且在永久性地丢掉市场份额。<br><br>竞争对手的喘息机会： 6 个月的真空期，足够让竞争对手完成从软件生态到硬件部署的迁移。一旦客户完成了架构迁移，Intel 再想拿回这 20% 的营收占比将极度困难。"
     }
   ]
 }

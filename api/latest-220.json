@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/ce281d1ddde5c924eda9d059898934b2.jpg",
-    "totalPosts": 561,
+    "avatar": "/static/7560718ffc8beede5dca5a536a6b44fb.jpg",
+    "totalPosts": 562,
     "totalPages": 29,
     "currentPage": 12,
     "pageSize": 20,
@@ -13,6 +13,27 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "364",
+      "title": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近",
+      "type": "text",
+      "datetime": "2025-08-22T05:17:37+00:00",
+      "tags": [],
+      "text": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近。BMNR 1.16， SBET 1.05",
+      "content": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近。BMNR 1.16， SBET 1.05",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "363",
       "title": "买了一点 $BMNR 虽然觉得这个价格大概率跌破",
@@ -415,32 +436,6 @@
         {
           "emoji": "👏",
           "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "344",
-      "title": "止损了Pengu",
-      "type": "text",
-      "datetime": "2025-07-29T14:59:41+00:00",
-      "tags": [],
-      "text": "止损了Pengu",
-      "content": "止损了Pengu",
-      "reactions": [
-        {
-          "emoji": "🥰",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
           "isPaid": false
         },
         {

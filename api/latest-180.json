@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "title": "投机之路",
+    "description": "",
+    "avatar": "/static/0fe263ec1663a9b207a4ca297052c0ee.jpg",
+    "totalPosts": 192,
+    "totalPages": 10,
+    "currentPage": 10,
+    "pageSize": 20,
+    "hasNextPage": false,
+    "hasPrevPage": true,
+    "nextPageUrl": null,
+    "prevPageUrl": "latest-160.json"
+  },
+  "data": [
+    {
+      "id": "20",
+      "title": "BR是真感觉要启动了，所以我给它扇扇风 ",
+      "type": "text",
+      "datetime": "2025-05-03T14:46:34+00:00",
+      "tags": [],
+      "text": "BR是真感觉要启动了，所以我给它扇扇风 https://x.com/Vida_BWE/status/1918674771975545333",
+      "content": "BR是真感觉要启动了，所以我给它扇扇风 <a href=\"https://x.com/Vida_BWE/status/1918674771975545333\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/Vida_BWE/status/1918674771975545333\">https://x.com/Vida_BWE/status/1918674771975545333</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "54",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨",
+      "type": "text",
+      "datetime": "2025-05-03T14:27:05+00:00",
+      "tags": [],
+      "text": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨。这也就是为什么很多鲸鱼交易员感觉自己在一个币上开仓明明没买多少，价格就上涨很多的原因。都是做市商把这钱吃了",
+      "content": "在有高Open Interest的小市值山寨币上使用高滑点买入也容易触发一些做市商的“跟单知情交易者/跟庄策略”，从而驱动价格快速上涨。<br>这也就是为什么很多鲸鱼交易员感觉自己在一个币上开仓明明没买多少，价格就上涨很多的原因。都是做市商把这钱吃了",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "81",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "",
+      "type": "text",
+      "datetime": "2025-05-03T14:25:18+00:00",
+      "tags": [],
+      "text": "",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/17\" \"=\"\"><blockquote><small><i class=\"tgme_widget_message_reply_thumb\" style=\"background-image:url('/static/d09006c3e66be8350d6ceaab9d0bbb5a.jpg')\"></i>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-18-0\" popovertargetaction=\"show\">\n        <img src=\"/static/0e36e62bb668cc929bf426240fedffbb.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-18-0\" popovertarget=\"modal-18-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/0e36e62bb668cc929bf426240fedffbb.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%",
+      "type": "text",
+      "datetime": "2025-05-03T14:24:24+00:00",
+      "tags": [],
+      "text": "有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/14\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">这篇隐学文章只有搞quant做量化尤其是做低延迟套利、做市的人能看懂  发现一个好玩的策略，现在市场里做市商们都很鸡贼，为了防御或者说是跟单“信息知情交易者”，当他们监测到币安现货/币安合约市场出现一个大单直接把价格拉升超过大概3%的水平且bid1还挂着几十-几百万刀买单后，他们会 1. 跟着买入部分金额 2. 把订单簿大幅调薄 你下大概3%滑点的订单最终能驱动价格上涨个6%+  知道他们这个特性就可以故意找一个市值比较小且在多个交易所有合约的币这么操作，先提前大概5毫秒在其他交易所下单，5毫秒之后在币安现货和合约同一时间下单建仓。…</div>\n</small></blockquote></a><div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-17-0\" popovertargetaction=\"show\">\n        <img src=\"/static/693ca4f0c0aacc3372f4fa99c6b3fafd.jpg\" alt=\"有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-17-0\" popovertarget=\"modal-17-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/693ca4f0c0aacc3372f4fa99c6b3fafd.jpg\" alt=\"有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%\" loading=\"lazy\" />\n      </button>\n    </div>有一些交易所的internal trading desk会偷偷的跟单我这种超高胜率账户（同时也有做市商在运行“尝试跟单知情者”的探测orderbook和order flow的策略），刚刚在BR上测试了一下，用2%滑点买入，我把价格驱动上涨了11%",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "114",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "这是我认为对于【企业家】来说最好的人生Alpha & 最值得订阅的Youtube频道",
+      "type": "text",
+      "datetime": "2025-05-01T19:35:33+00:00",
+      "tags": [],
+      "text": "这是我认为对于【企业家】来说最好的人生Alpha & 最值得订阅的Youtube频道https://www.youtube.com/@theschoolofhardknocks",
+      "content": "这是我认为对于【企业家】来说最好的人生Alpha &amp; 最值得订阅的Youtube频道<br><a href=\"https://www.youtube.com/@theschoolofhardknocks\" target=\"_blank\" rel=\"noopener\" title=\"https://www.youtube.com/@theschoolofhardknocks\">https://www.youtube.com/@theschoolofhardknocks</a>",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "89",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "44",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "美股方向最近的操作：- 减持2/3的$TLT，我的成本是87左右，现在89.9退出了",
+      "type": "text",
+      "datetime": "2025-04-29T16:24:14+00:00",
+      "tags": [],
+      "text": "美股方向最近的操作：- 减持2/3的$TLT，我的成本是87左右，现在89.9退出了。调仓换成的$BIL（1-3月短债）。原因是我认为Trump的关税的威力会在未来半年的样子显现出来，给美国带来更高的长期通胀【预期】而导致长期利率又又又又又一次上升- 增持少量$NET，作为长期投资，目前总仓位340万刀。我猜测它的下次季报依然会超市场预期。过去2个月新增的巨型客户是Twitter。- 增持少量$AMD，目前总仓位150万刀，作为长期投资。- 增持少量$ARM，作为长期投资。我依然持有大量的短债吃利息，等待那个最佳挥棒时间（SPX4400）。等不到也无所谓，那就继续等。我会用我的一生做一个实验：如果每次都只等到一个或多个市场/资产非常便宜的时刻再出手，而不是一直不停的dca买买买hold hold hold，最终会怎么样？",
+      "content": "美股方向最近的操作：<br>- 减持2/3的$TLT，我的成本是87左右，现在89.9退出了。调仓换成的$BIL（1-3月短债）。原因是我认为Trump的关税的威力会在未来半年的样子显现出来，给美国带来更高的长期通胀【预期】而导致长期利率又又又又又一次上升<br>- 增持少量$NET，作为长期投资，目前总仓位340万刀。我猜测它的下次季报依然会超市场预期。过去2个月新增的巨型客户是Twitter。<br>- 增持少量$AMD，目前总仓位150万刀，作为长期投资。<br>- 增持少量$ARM，作为长期投资。<br><br>我依然持有大量的短债吃利息，等待那个最佳挥棒时间（SPX4400）。等不到也无所谓，那就继续等。<br>我会用我的一生做一个实验：如果每次都只等到一个或多个市场/资产非常便宜的时刻再出手，而不是一直不停的dca买买买hold hold hold，最终会怎么样？",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "281",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "20",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "这篇隐学文章只有搞quant做量化尤其是做低延迟套利、做市的人能看懂发现一个好玩的策略，现在市场里做市商们都很鸡贼，为了防御或者说是跟单“信息知情交易者”，当他们监测到币安现货/币安合约市场出现一个大单直接把价格拉升超过大概3%的水平且bid1还挂着几十-几百万刀买单后，他们会1. 跟着买入部分金额2. 把订单簿大幅调薄你下大概3%滑点的订单最终能驱动价格上涨个6%+知道他们这个特性就可以故意找一个市值比较小且在多个交易所有合约的币这么操作，先提前大概5毫秒在其他交易所下单，5毫秒之后在币安现货和合约同一时间下单建仓",
+      "type": "text",
+      "datetime": "2025-04-28T15:10:59+00:00",
+      "tags": [],
+      "text": "这篇隐学文章只有搞quant做量化尤其是做低延迟套利、做市的人能看懂发现一个好玩的策略，现在市场里做市商们都很鸡贼，为了防御或者说是跟单“信息知情交易者”，当他们监测到币安现货/币安合约市场出现一个大单直接把价格拉升超过大概3%的水平且bid1还挂着几十-几百万刀买单后，他们会1. 跟着买入部分金额2. 把订单簿大幅调薄你下大概3%滑点的订单最终能驱动价格上涨个6%+知道他们这个特性就可以故意找一个市值比较小且在多个交易所有合约的币这么操作，先提前大概5毫秒在其他交易所下单，5毫秒之后在币安现货和合约同一时间下单建仓。然后大概1-2毫秒后有币安特殊低延迟做市api的mm就能探测到你下的大单与订单簿的变动了，他们就会进行上述的“跟随潜在的知情交易者”的操作。再等待5-10秒等待订单簿变的正常一些，然后这时候再重复类似之前的步骤（先在其他交易所同一毫秒下单退出，延迟5毫秒后在币安退出），你会发现反而还能赚点钱🤣（利润来自尝试跟单你的做市商）之所以币安每次进和出都要延迟5毫秒是因为币安的api是东京区域延迟最低的，只要1-2毫秒做市商就能探测到订单簿和大单。而做市商可能在其他交易所也有特殊低延迟下单通道以及微波跨洋低延迟线路，导致他把你在其他交易所的订单给frontrun。",
+      "content": "这篇隐学文章只有搞quant做量化尤其是做低延迟套利、做市的人能看懂<br><br>发现一个好玩的策略，现在市场里做市商们都很鸡贼，为了防御或者说是跟单“信息知情交易者”，当他们监测到币安现货/币安合约市场出现一个大单直接把价格拉升超过大概3%的水平且bid1还挂着几十-几百万刀买单后，他们会<br>1. 跟着买入部分金额<br>2. 把订单簿大幅调薄<br>你下大概3%滑点的订单最终能驱动价格上涨个6%+<br><br>知道他们这个特性就可以故意找一个市值比较小且在多个交易所有合约的币这么操作，先提前大概5毫秒在其他交易所下单，5毫秒之后在币安现货和合约同一时间下单建仓。<br><br>然后大概1-2毫秒后有币安特殊低延迟做市api的mm就能探测到你下的大单与订单簿的变动了，他们就会进行上述的“跟随潜在的知情交易者”的操作。<br><br>再等待5-10秒等待订单簿变的正常一些，然后这时候再重复类似之前的步骤（先在其他交易所同一毫秒下单退出，延迟5毫秒后在币安退出），你会发现反而还能赚点钱<i class=\"emoji\"><b>🤣</b></i>（利润来自尝试跟单你的做市商）<br><br>之所以币安每次进和出都要延迟5毫秒是因为币安的api是东京区域延迟最低的，只要1-2毫秒做市商就能探测到订单簿和大单。而做市商可能在其他交易所也有特殊低延迟下单通道以及微波跨洋低延迟线路，导致他把你在其他交易所的订单给frontrun。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "195",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "78",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "14",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "我现在没那么爱炫耀因为我认为现在中文圈的舆论对于“套利者”、“科学家”、\"抽水者\"有不友好的倾向，归根结底是因为韭菜群体被薅的太多了所以会怪罪任何从他们身上赚钱的人",
+      "type": "text",
+      "datetime": "2025-04-28T11:58:40+00:00",
+      "tags": [],
+      "text": "我现在没那么爱炫耀因为我认为现在中文圈的舆论对于“套利者”、“科学家”、\"抽水者\"有不友好的倾向，归根结底是因为韭菜群体被薅的太多了所以会怪罪任何从他们身上赚钱的人。所以你会发现我现在再也不炫耀单笔交易赚了xxx，要发也是用英文发。炫耀也是一门学问，最好是在一个《无法对你的利益构成威胁且与你有距离感》的群体里炫耀。国内官场的腐败分子，没有在国内炫富的，都是子女在海外花钱炫耀。同理，我认为加密市场的【做的很成功】但【承担的风险很小】的抽水者们也不应该过多炫耀。",
+      "content": "我现在没那么爱炫耀<br>因为我认为现在中文圈的舆论对于“套利者”、“科学家”、\"抽水者\"有不友好的倾向，归根结底是因为韭菜群体被薅的太多了所以会怪罪任何从他们身上赚钱的人。<br><br>所以你会发现我现在再也不炫耀单笔交易赚了xxx，要发也是用英文发。<br><br>炫耀也是一门学问，最好是在一个《无法对你的利益构成威胁且与你有距离感》的群体里炫耀。国内官场的腐败分子，没有在国内炫富的，都是子女在海外花钱炫耀。<br><br>同理，我认为加密市场的【做的很成功】但【承担的风险很小】的抽水者们也不应该过多炫耀。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "254",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙏",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "是的，我要宣扬书籍无用论或者说这个时代不需要你自己去大费周章的看完一本书你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息这效率比你自己翻一本书高太多了",
+      "type": "text",
+      "datetime": "2025-04-27T15:46:44+00:00",
+      "tags": [],
+      "text": "是的，我要宣扬书籍无用论或者说这个时代不需要你自己去大费周章的看完一本书你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息这效率比你自己翻一本书高太多了",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-10-0\" popovertargetaction=\"show\">\n        <img src=\"/static/39f6c7c4cf48f6009e22ba8a1fc84a55.jpg\" alt=\"是的，我要宣扬书籍无用论或者说这个时代不需要你自己去大费周章的看完一本书你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息这效率比你自己翻一本书高太多了\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-10-0\" popovertarget=\"modal-10-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/39f6c7c4cf48f6009e22ba8a1fc84a55.jpg\" alt=\"是的，我要宣扬书籍无用论或者说这个时代不需要你自己去大费周章的看完一本书你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息这效率比你自己翻一本书高太多了\" loading=\"lazy\" />\n      </button>\n    </div>是的，我要宣扬书籍无用论<br>或者说这个时代不需要你自己去大费周章的看完一本书<br><br>你应该尽可能的考虑怎么样用ai辅助你的学习，就算要看一本书也是想办法让ai帮你看了之后提炼信息<br><br>这效率比你自己翻一本书高太多了",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "315",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "46",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤯",
+          "count": "21",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "20",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙏",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "正如你所看到，这个频道不光会发市场，或者说市场只是它的一部分内容我会在这个频道不断的更新我的各种life hack，各种奇思妙想，各种我想发的alphaalpha不光在市场里有",
+      "type": "text",
+      "datetime": "2025-04-27T15:43:57+00:00",
+      "tags": [],
+      "text": "正如你所看到，这个频道不光会发市场，或者说市场只是它的一部分内容我会在这个频道不断的更新我的各种life hack，各种奇思妙想，各种我想发的alphaalpha不光在市场里有",
+      "content": "正如你所看到，这个频道不光会发市场，或者说市场只是它的一部分内容<br>我会在这个频道不断的更新我的各种life hack，各种奇思妙想，各种我想发的alpha<br><br>alpha不光在市场里有",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "231",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "26",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍",
+      "type": "text",
+      "datetime": "2025-04-27T15:42:46+00:00",
+      "tags": [],
+      "text": "我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍https://immersivetranslate.com/zh-Hans/但是加密市场的人一定要注意，使用这种会读取修改你浏览器信息的插件，要：1. 限制它能在哪些网页上读取修改信息，只有点击时才给予权限2. 尽量别在自己有加密钱包/登录交易所账户的浏览器上使用这种插件这个插件对于海外投机套利客来说是辅助工作的利器，但对于黑客来说这也是超高价值目标",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-8-0\" popovertargetaction=\"show\">\n        <img src=\"/static/1e43c3649fdad3eba1497dba451f656d.jpg\" alt=\"我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-8-0\" popovertarget=\"modal-8-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/1e43c3649fdad3eba1497dba451f656d.jpg\" alt=\"我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍\" loading=\"lazy\" />\n      </button>\n    </div>我自己喜欢用的另一个大幅提升生产力的工具是沉浸式翻译这个浏览器插件，能够以原文中文对照的形式翻译，比Chrome自带的翻译好一百倍<br><pre><code class=\"language-yaml\">https<span class=\"token punctuation\">:</span>//immersivetranslate.com/zh<span class=\"token punctuation\">-</span>Hans/</code></pre><br><br>但是加密市场的人一定要注意，使用这种会读取修改你浏览器信息的插件，要：<br>1. 限制它能在哪些网页上读取修改信息，只有点击时才给予权限<br>2. 尽量别在自己有加密钱包/登录交易所账户的浏览器上使用这种插件<br><br>这个插件对于海外投机套利客来说是辅助工作的利器，但对于黑客来说这也是超高价值目标",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "195",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "39",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "为什么要建立此频道：因为- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结",
+      "type": "text",
+      "datetime": "2025-04-25T22:33:28+00:00",
+      "tags": [],
+      "text": "为什么要建立此频道：因为- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结。- 我不想我的推特timeline上发一大堆个人主观感受或者与市场没什么关联的内容而降低我的内容质量- 我的推特现在有太多能影响我的未来的重要的人关注了，导致我发什么东西都要组织语言，不能乱发，没有那种轻松的感觉- 0xenas和Joshua都建立了自己的tg频道所以我也想搞一个我希望这个频道能多发点我日常的小技巧，交易点子，商业想法，对市场的看法，就像我以前知乎经常发的想法一样随意",
+      "content": "为什么要建立此频道：<br>因为<br>- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结。<br>- 我不想我的推特timeline上发一大堆个人主观感受或者与市场没什么关联的内容而降低我的内容质量<br>- 我的推特现在有太多能影响我的未来的重要的人关注了，导致我发什么东西都要组织语言，不能乱发，没有那种轻松的感觉<br>- 0xenas和Joshua都建立了自己的tg频道所以我也想搞一个<br><br>我希望这个频道能多发点我日常的小技巧，交易点子，商业想法，对市场的看法，就像我以前知乎经常发的想法一样随意",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "812",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "122",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "78",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "27",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🙏",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,22 @@
   "home_page_url": "https://fiona.ceda.is/",
   "items": [
     {
+      "url": "https://fiona.ceda.is/posts/602",
+      "title": "【Fiona的日报频道】2026-04-07━━ 宏观要闻 ━━1️⃣🌟 IMF 警告全球进入“高通胀、低增长”通道，滞胀风险再起",
+      "description": "",
+      "date_published": "2026-04-07T02:16:46.000Z",
+      "tags": [],
+      "content_html": "<b>【Fiona的日报频道】2026-04-07</b><br><b>━━ 宏观要闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i> IMF 警告全球进入“高通胀、低增长”通道，滞胀风险再起。<br><i class=\"emoji\"><b>2️⃣</b></i><i class=\"emoji\"><b>🌟</b></i> 联合国警告，攻击伊朗电力和桥梁等民用基础设施可能违反国际法。 <br><i class=\"emoji\"><b>3️⃣</b></i>两位美联储官员警告，通胀问题比就业问题更严重，支持收紧政策。 同一时间，中国央行 4 月 7 日开展了 8000 亿元、期限 3 个月（89 天） 的买断式逆回购操作，说明中美政策重心继续分化：美国更担心通胀，中国更强调流动性与稳增长。<br><i class=\"emoji\"><b>4️⃣</b></i>菲律宾 3 月通胀升至近 20 个月高位，油价冲击已开始落地到亚洲通胀。 <br><br><b>━━ AI新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i> <b>Samsung 季度利润大增 8 倍，AI memory 需求顶住了战争扰动</b>。 Bloomberg 报道称，Samsung 的季度利润出现八倍增长，核心支撑来自云厂客户继续拉货 HBM 和数据中心相关芯片。对 AI 硬件链来说，这是非常强的基本面确认。<br><i class=\"emoji\"><b>2️⃣</b></i><b> 阿里发布 Qwen 3.6-Plus，强化 agentic coding 与多模态代码生成。</b> Qwen 3.6-Plus 支持 100 万 token 上下文，Bailian 平台定价为 2 元/百万输入 token、12 元/百万输出 token，主打编程与代理能力。这意味着中国 AI 竞争正从“参数/榜单”转向“开发者工作流”。<br><i class=\"emoji\"><b>3️⃣</b></i> AI 基建继续外溢到电力链。 泰国能源公司 Banpu 计划在美国投资至少 15 亿美元，直接押注数据中心带来的电力需求扩张。<br><br><b>━━ 能源新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i><b> 伊朗叫停两艘原本已获准通过霍尔木兹的卡塔尔 LNG 船。</b> 这两艘船原本若顺利通过，将是 2 月 28 日冲突以来首批载货穿越霍尔木兹的 LNG 船；但 4 月 6 日被要求原地待命后，一艘改回卡塔尔，一艘改为“for orders”。Reuters 同时指出，霍尔木兹承载着全球约 20% 的石油与 LNG 流量，而伊朗此前打击已使卡塔尔 17% 的 LNG 出口能力受损，约 1280 万吨/年 的产能可能停摆 3–5 年。<br><b><i class=\"emoji\"><b>2️⃣</b></i>霍尔木兹关闭正在重塑中东产油国命运。 Reuters 估算，霍尔木兹关闭后，伊朗油收增 37%、阿曼增 26%、沙特增 4.3%，但缺乏替代外输通道的 伊拉克油收跌 76%、科威特跌 73%。</b><br><i class=\"emoji\"><b>3️⃣</b></i> 财新：霍尔木兹危机反而可能给中国制造出口带来隐性优势。 财新评论认为，能源与物流冲击更重地打击了亚洲其他经济体与欧洲部分供应链，中国在制造与出口上的相对优势可能被动增强。"
+    },
+    {
+      "url": "https://fiona.ceda.is/posts/601",
+      "title": "三星Q1的财报有多好呢？一句话就是一个季度赚了超过之前一整年的钱",
+      "description": "",
+      "date_published": "2026-04-07T02:14:41.000Z",
+      "tags": [],
+      "content_html": "三星Q1的财报有多好呢？一句话就是<b>一个季度赚了超过之前一整年的钱。</b><br><br>营业利润约 57.2 兆韩元，<b>同比暴增约 +755%，是去年同期 6.69 兆的 7.5 倍左右。</b>Q4 刚创下 20.1 兆的历史新高，这季直接再冲到 57.2 兆，大概是上一季的接近 3 倍，斜率极陡。券商一致预期约 40 兆韩元，这次实际 57.2 兆，<b>超出共识约 42%。</b><br><br><b>主要贡献者还是我们很熟悉的记忆体。DRAM 与 NAND 量价齐升是利润主因，内存价格 Q1 内部就“接近翻倍”，毛利率被指逼近 80–90% 区间。</b><br><br>HBM 进展：虽然过去在 HBM 上落后 SK，但报道提到 HBM4 量产/出货加速，叠加 AI 推理带来的传统 DRAM 需求，三星彻底变成 AI 数据中心 Capex 周期里的最大受益者之一。"
+    },
+    {
       "url": "https://fiona.ceda.is/posts/600",
       "title": "【特朗普焦头烂额，歇斯底里的48小时】过去两天，美国与伊朗间的局势，从狂轰滥炸到外交断线，正急速滑向关键的临界点",
       "description": "",
@@ -387,22 +403,6 @@
       "date_published": "2026-03-02T02:51:03.000Z",
       "tags": [],
       "content_html": "<b>【Fiona的日报频道】 2026-03-02（周一）</b><br><b>——宏观新闻——</b><br><b><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>伊朗局势升级——“特朗普对伊朗的军事行动或持续4周；美军称摧毁伊朗伊斯兰革命卫队总部。</b><br><i class=\"emoji\"><b>2️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>两会周将设定政策议程；中国央行外汇对冲成本信号：PBOC宣布自3月2日起将远期售汇业务外汇风险准备金率从20%降至0（降低企业套保成本、影响美元购汇边际）。<br><br><b>━━ AI新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>数据中心电力议题继续升温（Bloomberg/白宫议题）：特朗普推动科技公司承诺承担数据中心用电扩张带来的成本压力。<br><i class=\"emoji\"><b>2️⃣</b></i>“大科技自建电厂”叙事延续：特朗普称已要求大科技公司为数据中心自建电厂。<br><i class=\"emoji\"><b>3️⃣</b></i>本周市场关注点（AI扰动 + 非农）：华尔街“周度前瞻”强调AI对行业重估的扰动与2月就业数据。<br><br><b>━━ 机器人新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>国内标准体系：我国首个国家级“人形机器人与具身智能标准体系”发布。<br><br><b>━━ 产业新闻（能源/半导体/原材料等）━━</b><br><i class=\"emoji\"><b>📌</b></i>评语：能源是“事件驱动 + OPEC供给”双线；半导体更看“价格传导/库存周期”。<br><b><i class=\"emoji\"><b>1️⃣</b></i><i class=\"emoji\"><b>🌟</b></i>OPEC+供给信号：OPEC+确认4月增产（与地缘冲突对油价的推拉形成对冲）。</b><br><i class=\"emoji\"><b>2️⃣</b></i>存储芯片价格继续上行并向下游传导。<br><i class=\"emoji\"><b>3️⃣</b></i>交易层面监管关注：上交所对中韩半导体ETF等溢价较高基金“重点监控”。"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/550",
-      "title": "本周的关注点还是集中在伊朗之战的发展、对地缘政治、能源、风险资产产生的持续影响",
-      "description": "",
-      "date_published": "2026-03-02T02:46:54.000Z",
-      "tags": [],
-      "content_html": "本周的关注点还是集中在伊朗之战的发展、对地缘政治、能源、风险资产产生的持续影响。刚好也可以在这样的行情中寻找真正的炼金石/具有反脆弱性的标的。<br><br>目前关注点：<br><i class=\"emoji\"><b>1️⃣</b></i>如果冲突升级（如霍尔木兹海峡关闭），石油价格会如何飙升？市场是否已定价风险？<br>关于油价看到的价值推文<br><a href=\"https://x.com/Corsica267/status/2028275746364690899?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/Corsica267/status/2028275746364690899?s=20\">https://x.com/Corsica267/status/2028275746364690899?s=20</a><br>预测：石油预计短期内上涨20%以上，类似于乌克兰-俄罗斯战争初期的反应。能源股 $XLE 和液化天然气出口将受影响。如果冲突快速结束，恐慌性上涨可能逆转；否则，长期不确定性将推高通胀和汽油价格。 <br><br><i class=\"emoji\"><b>2️⃣</b></i>国防股和军工市场的机遇<br>$LMT $RTX $PLTR $NOC $AVAV( 无人机）$KTOS $ITA(ETF)<br><br><i class=\"emoji\"><b>3️⃣</b></i>黄金和避险资产的角色<br><br><i class=\"emoji\"><b>4️⃣</b></i>整体股市和经济结构的冲击<br>预测：短期内股市可能膝跳式下跌，但如果打击成功并带来区域稳定，市场将转向看涨。<br>但历史上冲突导致的回撤通常：5%~8% 为常态。<a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/Corsica267/status/2028275746364690899?s=20\" target=\"_blank\" rel=\"noopener\" title=\"买点问题。政府宣战对大盘的影响先是资金去杠杆后避险撤出风险市场；然后计价可能的通胀和供应、融资环境是否收紧。和公司本身盈利能力无关，和公司资产结构有关。黄金原油这种宏观标的一样是先经历去杠杆，总是上去以后要先跌一下。这种短线没什么好做的，宏观靠边际资金调仓，总归要等个一两天。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/562d7381592379b47eee0907b5716cf7.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">本杰明乌萨奇 (@Corsica267) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">买点问题。<br>政府宣战对大盘的影响先是资金去杠杆后避险撤出风险市场；然后计价可能的通胀和供应、融资环境是否收紧。和公司本身盈利能力无关，和公司资产结构有关。<br><br>黄金原油这种宏观标的一样是先经历去杠杆，总是上去以后要先跌一下。这种短线没什么好做的，宏观靠边际资金调仓，总归要等个一两天。</div>\n</a>"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/548",
-      "title": "有新型X骗局兴起，甚至我的账号也被模仿，成为骗局的一部分",
-      "description": "",
-      "date_published": "2026-02-27T13:35:23.000Z",
-      "tags": [],
-      "content_html": "有新型X骗局兴起，甚至我的账号也被模仿，成为骗局的一部分。故事始末：<a href=\"https://x.com/nft_hu/status/2027376783159697867?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2027376783159697867?s=20\">https://x.com/nft_hu/status/2027376783159697867?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2027376783159697867?s=20\" target=\"_blank\" rel=\"noopener\" title=\"“我”是如何一夜“骗”到了百万美金\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/f2e07a2b58611dabdeb2e465b44083ec.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">“我”是如何一夜“骗”到了百万美金</div>\n</a>"
     }
   ]
 }

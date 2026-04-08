@@ -88,31 +88,31 @@
 
 1. 配置 GitHub Secrets
    在你的 GitHub 仓库 `Settings -> Secrets and variables -> Actions` 中，添加以下：
-   * **Variables (变量)**:
-     * `CHANNELS_CONFIG`: 配置频道名称、关联 URL 以及可选的 API 路由。
+   - **Variables (变量)**:
+     - `CHANNELS_CONFIG`: 配置频道名称、关联 URL 以及可选的 API 路由。
        示例：`[{"name": "durov", "url": "https://memo.durov.com", "api_route": "durovapi.example.com"}]`
-   * **Secrets (机密)**:
-     * `CLOUDFLARE_ACCOUNT_ID`: 你的 Cloudflare 账户 ID。
-     * `CLOUDFLARE_API_TOKEN`: 具有 **Worker 修改** 权限的令牌。
+   - **Secrets (机密)**:
+     - `CLOUDFLARE_ACCOUNT_ID`: 你的 Cloudflare 账户 ID。
+     - `CLOUDFLARE_API_TOKEN`: 具有 **Worker 修改** 权限的令牌。
 
 2. 触发首次同步
    转到 **Actions** 面板，手动触发 **Static Data Sync** 工作流。该 Action 会：
-   * 抓取 Telegram 数据并将原始历史记录保存在独立的 `data-{channel}` 分支中。
-   * 为每个频道部署一个专属的 Cloudflare Worker（如 `api-durov`）。
-   * 将该 Worker 绑定到你的自定义域名路由（如 `durovapi.example.com    `）。
+   - 抓取 Telegram 数据并将原始历史记录保存在独立的 `data-{channel}` 分支中。
+   - 为每个频道部署一个专属的 Cloudflare Worker（如 `api-durov`）。
+   - 将该 Worker 绑定到你的自定义域名路由（如 `durovapi.example.com    `）。
 
 3. 配置你的部署方式 (双重选择)
-   * **选项 A：Cloudflare Workers (推荐)**
+   - **选项 A：Cloudflare Workers (推荐)**
      - 工作流会自动部署到 Workers。
      - 你的 API 路径将是 `https://durovapi.example.com/latest.json`。
      - 静态资源将被打包并由 Worker 提供服务。
-   * **选项 B：静态托管 (传统方式)**
+   - **选项 B：静态托管 (传统方式)**
      - `data-durov` 分支依然完整保留所有静态文件（包括 `index.html`）。
      - 你可以将该分支绑定到 GitHub Pages、Vercel 或 Netlify 作为纯静态站使用。
      - 你的 API 路径将是 `https://your-static-host.com/api/latest.json`。
 
 4. 配置你的 Astro 站点
-   在你的 Astro 主站点的环境变量（`.env` 或平台配置）中，将 `STATIC_API_URL` 设置为你选择的端点（例如 `https://durovapi.example.com`）。
+   在你的 Astro 主站点的环境变量（`.env` 或平台配置）中，将 `STATIC_API_URL` 设置为你选择的端点（例如 `https://durovapi.example.com`）。或者，如果两个项目均部署在 Cloudflare，你可以配置 `WORKER_BINDING` 为你的 Service Binding 名称以实现无域名内部高速访问。
 
 ## ⚒️ 配置
 
@@ -175,6 +175,9 @@ RSS_BEAUTIFY=true
 
 ## 高级配置：静态数据 API 节点（详见进阶高级部署）。用于解析数据源及本地化的媒体资源。
 STATIC_API_URL=https://api.example.com/miantiao_me
+
+## 【兼容可选配置】Cloudflare Service Binding：无需占用外部域名，内部高速通信。与 STATIC_API_URL 二选一或配合使用（STATIC_API_URL用于静态资源回退）
+# WORKER_BINDING=DATA_WORKER
 ```
 
 ## 🙋🏻 常问问题

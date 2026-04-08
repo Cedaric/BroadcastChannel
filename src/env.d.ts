@@ -5,5 +5,8 @@ declare namespace App {
     SITE_URL: string
     RSS_URL: string
     RSS_PREFIX: string
+    runtime?: {
+      env?: Record<string, any>
+    }
   }
 }

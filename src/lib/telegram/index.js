@@ -285,10 +285,16 @@ export async function getChannelInfo(Astro, { before = '', after = '', q = '', t
   const staticProxy = getEnv(import.meta.env, Astro, 'STATIC_PROXY') ?? '/static/'
   const reactionsEnabled = getEnv(import.meta.env, Astro, 'REACTIONS')
   const staticApiUrl = getEnv(import.meta.env, Astro, 'STATIC_API_URL')
+  const workerBinding = Astro.locals?.runtime?.env?.WORKER_BINDING
 
   // === STATIC API MODE ===
-  if (staticApiUrl) {
+  if (staticApiUrl || workerBinding) {
+    const staticFetch = workerBinding && typeof workerBinding.fetch === 'function' ? workerBinding.fetch.bind(workerBinding) : fetch
+    const staticBaseUrl = workerBinding ? 'http://worker' : staticApiUrl
+
     const processStaticUrls = (obj) => {
+      if (!staticApiUrl)
+        return obj
       let str = JSON.stringify(obj)
       // replace all occurences of "/static/" or "/static/" in the JSON response
       str = str.replace(/(["'])\/static\//g, `$1${staticApiUrl}/static/`)
@@ -297,14 +303,14 @@ export async function getChannelInfo(Astro, { before = '', after = '', q = '', t
 
     if (id) {
       try {
-        const res = await fetch(`${staticApiUrl}/posts/${id}.json`)
+        const res = await staticFetch(`${staticBaseUrl}/posts/${id}.json`)
         if (!res.ok)
           return { posts: [] }
 
         let post = await res.json()
         post = processStaticUrls(post)
 
-        const metaRes = await fetch(`${staticApiUrl}/meta.json`)
+        const metaRes = await staticFetch(`${staticBaseUrl}/meta.json`)
         let meta = await metaRes.json()
         meta = processStaticUrls(meta)
 
@@ -322,7 +328,7 @@ export async function getChannelInfo(Astro, { before = '', after = '', q = '', t
     // Static URL Search Logic
     if (q) {
       try {
-        const res = await fetch(`${staticApiUrl}/search.json`)
+        const res = await staticFetch(`${staticBaseUrl}/search.json`)
         if (!res.ok)
           return { posts: [] }
 
@@ -348,7 +354,7 @@ export async function getChannelInfo(Astro, { before = '', after = '', q = '', t
 
         // Fetch full data for the matched IDs concurrently
         const fetchPromises = matchedItems.map(item =>
-          fetch(`${staticApiUrl}/posts/${item.id}.json`)
+          staticFetch(`${staticBaseUrl}/posts/${item.id}.json`)
             .then(r => r.ok ? r.json() : null)
             .catch(() => null),
         )
@@ -356,7 +362,7 @@ export async function getChannelInfo(Astro, { before = '', after = '', q = '', t
         let fullPosts = (await Promise.all(fetchPromises)).filter(Boolean)
         fullPosts = processStaticUrls(fullPosts)
 
-        const metaRes = await fetch(`${staticApiUrl}/meta.json`)
+        const metaRes = await staticFetch(`${staticBaseUrl}/meta.json`)
         let meta = await metaRes.json()
         meta = processStaticUrls(meta)
 
@@ -374,7 +380,7 @@ export async function getChannelInfo(Astro, { before = '', after = '', q = '', t
     // Standard Static Page Fetching
     try {
       const pageFile = (before && typeof before === 'string' && before.endsWith('.json')) ? before : 'latest.json'
-      const res = await fetch(`${staticApiUrl}/${pageFile}`)
+      const res = await staticFetch(`${staticBaseUrl}/${pageFile}`)
       if (!res.ok)
         return { posts: [] }
       const payload = await res.json()

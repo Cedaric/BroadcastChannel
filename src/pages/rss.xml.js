@@ -5,8 +5,12 @@ import { getChannelInfo } from '../lib/telegram'
 
 export async function GET(Astro) {
   const staticApiUrl = getEnv(import.meta.env, Astro, 'STATIC_API_URL')
-  if (staticApiUrl && !Astro.url.searchParams.get('tag')) { // We don't have static tagged RSS
-    const res = await fetch(`${staticApiUrl}/rss.xml`)
+  const workerBinding = Astro.locals?.runtime?.env?.WORKER_BINDING
+
+  if ((staticApiUrl || workerBinding) && !Astro.url.searchParams.get('tag')) { // We don't have static tagged RSS
+    const staticFetch = workerBinding && typeof workerBinding.fetch === 'function' ? workerBinding.fetch.bind(workerBinding) : fetch
+    const staticBaseUrl = workerBinding ? 'http://worker' : staticApiUrl
+    const res = await staticFetch(`${staticBaseUrl}/rss.xml`)
     if (res.ok) {
       return new Response(await res.text(), {
         headers: { 'Content-Type': 'application/xml', 'Cache-Control': 'public, max-age=3600' },

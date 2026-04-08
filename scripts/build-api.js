@@ -410,7 +410,8 @@ async function main() {
       console.info('[Stage 2] No new posts detected since last build. Skipping API and static assets generation.')
       return
     }
-  } catch (e) {
+  }
+  catch (e) {
     // meta.json likely doesn't exist yet, proceed with full build
   }
 

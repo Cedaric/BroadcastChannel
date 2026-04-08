@@ -87,31 +87,31 @@ If you experience crawl timeouts or poor SEO indexing for your Sitemap/RSS, you 
 
 1. Configure GitHub Secrets
    In your GitHub repository's `Settings -> Secrets and variables -> Actions`, add the following:
-   * **Variables**:
-     * `CHANNELS_CONFIG`: Configure channel names, associated URLs, and optional API routes.
+   - **Variables**:
+     - `CHANNELS_CONFIG`: Configure channel names, associated URLs, and optional API routes.
        Example: `[{"name": "durov", "url": "https://memo.durov.com", "api_route": "durovapi.example.com"}]`
-   * **Secrets**:
-     * `CLOUDFLARE_ACCOUNT_ID`: Your Cloudflare account ID.
-     * `CLOUDFLARE_API_TOKEN`: Token with **Worker Edit** permissions.
+   - **Secrets**:
+     - `CLOUDFLARE_ACCOUNT_ID`: Your Cloudflare account ID.
+     - `CLOUDFLARE_API_TOKEN`: Token with **Worker Edit** permissions.
 
 2. Trigger the Initial Sync
    Go to the **Actions** panel and manually trigger the **Static Data Sync** workflow. This will:
-   * Fetch Telegram data and store the raw history in separate `data-{channel}` branches.
-   * Deploy a dedicated Cloudflare Worker for each channel (e.g., `api-durov`).
-   * Bind the Worker to your custom domain (e.g., `durovapi.example.com`).
+   - Fetch Telegram data and store the raw history in separate `data-{channel}` branches.
+   - Deploy a dedicated Cloudflare Worker for each channel (e.g., `api-durov`).
+   - Bind the Worker to your custom domain (e.g., `durovapi.example.com`).
 
 3. Configure your Deployment (Two Options)
-   * **Option A: Cloudflare Workers (Recommended)**
+   - **Option A: Cloudflare Workers (Recommended)**
      - The workflow automatically deploys to Workers.
      - Your API will be at `https://durovapi.example.com/latest.json`.
      - Static assets are bundled and served from the Worker.
-   * **Option B: Static Hosting (Traditional)**
+   - **Option B: Static Hosting (Traditional)**
      - The `data-durov` branch still contains all static files (including `index.html`).
      - You can link this branch to GitHub Pages, Vercel, or Netlify as a pure static site.
      - Your API will be at `https://your-static-host.com/api/latest.json`.
 
 4. Configure your Astro Site
-   In your main Astro site's environment variables (`.env` or platform config), set the `STATIC_API_URL` to your chosen endpoint (e.g., `https://durovapi.example.com`).
+   In your main Astro site's environment variables (`.env` or platform config), set the `STATIC_API_URL` to your chosen endpoint (e.g., `https://durovapi.example.com`). Alternatively, if both projects are deployed on Cloudflare, you can configure `WORKER_BINDING` to your Service Binding name for domainless internal high-speed access.
 
 ## ⚒️ Configuration
 
@@ -176,6 +176,9 @@ RSS_BEAUTIFY=true
 
 ## Advanced: Static API Engine Node (See Advanced Deployment). Used for cross-domain static data and media assets.
 STATIC_API_URL=https://api.example.com/miantiao_me
+
+## [Compatible Configuration] Cloudflare Service Binding: No external domain required, internal high-speed communication. Use interchangeably or in combination with STATIC_API_URL (STATIC_API_URL acts as a fallback for static resources).
+# WORKER_BINDING=DATA_WORKER
 ```
 
 ## 🙋🏻 FAQs

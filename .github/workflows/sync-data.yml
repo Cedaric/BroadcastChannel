@@ -55,7 +55,7 @@ jobs:
         working-directory: src-repo
         run: |
           BRANCH_NAME="data-${{ matrix.channel.name }}"
-          
+
           git fetch --depth=1 origin $BRANCH_NAME:$BRANCH_NAME || echo "Branch '$BRANCH_NAME' not found on remote."
 
           if git rev-parse --verify $BRANCH_NAME >/dev/null 2>&1; then
@@ -81,7 +81,7 @@ jobs:
         run: |
           node scripts/fetch-raw.js
           node scripts/build-api.js
-          
+
           # Detect changes in the data directory
           cd data
           if [ -n "$(git status --porcelain)" ]; then
@@ -97,25 +97,25 @@ jobs:
         working-directory: src-repo
         run: |
           API_ROUTE=$(echo '${{ toJson(matrix.channel) }}' | jq -r '.api_route // empty')
-          
+
           cat > wrangler.toml <<EOF
           name = "api-${{ matrix.channel.name }}"
           compatibility_date = "2024-03-19"
-          
+
           [assets]
           directory = "data/api"
           not_found_handling = "single-page-application"
           EOF
-          
+
           if [ -n "$API_ROUTE" ]; then
             cat >> wrangler.toml <<EOF
-          
+
           [[routes]]
           pattern = "$API_ROUTE"
           custom_domain = true
           EOF
           fi
-          
+
           echo "Generated wrangler.toml:"
           cat wrangler.toml
 

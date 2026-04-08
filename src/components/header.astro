@@ -28,7 +28,11 @@ const hideDescription = getEnv(import.meta.env, Astro, 'HIDE_DESCRIPTION')
 <div id="header">
   <a href={SITE_URL} title={channel?.title}>
     <img
-      src={channel?.avatar?.startsWith('http') ? staticProxy + channel?.avatar : voidFile.src}
+      src={channel?.avatar
+        ? channel.avatar.startsWith('/')
+          ? channel.avatar
+          : staticProxy + channel.avatar
+        : voidFile.src}
       alt={channel?.title}
       loading="eager"
       class="header-avatar"

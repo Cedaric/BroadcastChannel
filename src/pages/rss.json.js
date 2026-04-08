@@ -3,8 +3,12 @@ import { getChannelInfo } from '../lib/telegram'
 
 export async function GET(Astro) {
   const staticApiUrl = getEnv(import.meta.env, Astro, 'STATIC_API_URL')
-  if (staticApiUrl && !Astro.url.searchParams.get('tag')) {
-    const res = await fetch(`${staticApiUrl}/rss.json`)
+  const workerBinding = Astro.locals?.runtime?.env?.WORKER_BINDING
+
+  if ((staticApiUrl || workerBinding) && !Astro.url.searchParams.get('tag')) {
+    const staticFetch = workerBinding && typeof workerBinding.fetch === 'function' ? workerBinding.fetch.bind(workerBinding) : fetch
+    const staticBaseUrl = workerBinding ? 'http://worker' : staticApiUrl
+    const res = await staticFetch(`${staticBaseUrl}/rss.json`)
     if (res.ok) {
       return new Response(await res.text(), {
         headers: { 'Content-Type': 'application/json', 'Cache-Control': 'public, max-age=3600' },

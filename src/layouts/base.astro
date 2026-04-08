@@ -30,7 +30,11 @@ const seoParams = {
       type: 'website',
       title: channel?.title ?? '',
       url: canonical,
-      image: channel?.avatar ? channel.avatar : origin + '/favicon.ico',
+      image: channel?.avatar
+        ? channel.avatar.startsWith('/')
+          ? origin + channel.avatar
+          : channel.avatar
+        : origin + '/favicon.ico',
     },
     optional: {
       description: seo?.text ?? channel?.description,
@@ -42,7 +46,9 @@ const seoParams = {
       {
         rel: 'icon',
         href: channel?.avatar
-          ? `https://wsrv.nl/?w=64&h=64&fit=cover&mask=circle&url=ssl:${channel?.avatar?.replace(/^https?:\/\//, '')}`
+          ? channel.avatar.startsWith('/')
+            ? channel.avatar
+            : `https://wsrv.nl/?w=64&h=64&fit=cover&mask=circle&url=ssl:${channel.avatar.replace(/^https?:\/\//, '')}`
           : '/favicon.svg',
       },
     ],
@@ -51,7 +57,9 @@ const seoParams = {
 
 const GOOGLE_SEARCH_SITE = getEnv(import.meta.env, Astro, 'GOOGLE_SEARCH_SITE')
 const STATIC_API_URL = getEnv(import.meta.env, Astro, 'STATIC_API_URL')
-const searchAction = GOOGLE_SEARCH_SITE && !STATIC_API_URL ? 'https://www.google.com/search' : '/search/result'
+const WORKER_BINDING = Astro.locals?.runtime?.env?.WORKER_BINDING
+const hasInternalApi = STATIC_API_URL || WORKER_BINDING
+const searchAction = GOOGLE_SEARCH_SITE && !hasInternalApi ? 'https://www.google.com/search' : '/search/result'
 
 const HEADER_INJECT = getEnv(import.meta.env, Astro, 'HEADER_INJECT')
 const FOOTER_INJECT = getEnv(import.meta.env, Astro, 'FOOTER_INJECT')

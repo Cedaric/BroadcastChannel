@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/7f8c1d8eccac7c51a675812414485ecd.jpg",
-    "totalPosts": 571,
+    "avatar": "/static/9cbfa144a85654b419eceaf5c9f09897.jpg",
+    "totalPosts": 573,
     "totalPages": 29,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "605",
+      "title": "事实证明，市场经常是非理性的",
+      "type": "text",
+      "datetime": "2026-04-08T13:23:04+00:00",
+      "tags": [],
+      "text": "事实证明，市场经常是非理性的。非理性的上涨，上涨的时候你的一切都是对的都是好的，好消息接踵而来。非理性的下跌，下跌就是原罪，所有的利空突然出现。但是有一些东西是真实的，财报是真实的，数据是真实的，产品是真实的。感受情绪的同时保持理性和真实。",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/595\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">市场总是在最好到最差之间横跳。最近无论是股市的表现，亦或是对内存股的态度似乎都证明了这一点。让我想起很久之前看过的一张图，股票的基本面是不变的，但是价格却随着市场情绪的变化反复横跳。  最近内存股跌的很惨，很多贴文开始说内存是一场骗局，和很多盘子/meme一样。我觉得这种说法很可笑。以美光为例，最新一季的财报收入是238亿美金。SK和三星的单季收入也达到了200-300+亿美金。这是真金白银，世界上能在一个季度赚这么多钱的公司屈指可数。这也是骗局？也是meme？ 跌下来或许就是原罪。  内存的需求是真的，…</div>\n</small></blockquote></a>事实证明，市场经常是非理性的。<br><br>非理性的上涨，上涨的时候你的一切都是对的都是好的，好消息接踵而来。<br><br>非理性的下跌，下跌就是原罪，所有的利空突然出现。<br><br>但是有一些东西是真实的，财报是真实的，数据是真实的，产品是真实的。<br><br>感受情绪的同时保持理性和真实。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "604",
+      "title": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
+      "type": "text",
+      "datetime": "2026-04-08T13:17:36+00:00",
+      "tags": [],
+      "text": "简单复盘这次成功抄底历程，后来发现可以简单概括为：抄底➡️下跌➡️继续抄底➡️跌破位套牢➡️不敢抄了选择祈祷➡️祈祷无效转移注意➡️反弹第一波回本➡️taco反弹第二波大赚很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气🍀但我坚持做到了！",
+      "content": "简单复盘这次成功抄底历程，后来发现可以简单概括为：<br><br>抄底<i class=\"emoji\"><b>➡️</b></i>下跌<i class=\"emoji\"><b>➡️</b></i>继续抄底<i class=\"emoji\"><b>➡️</b></i>跌破位套牢<i class=\"emoji\"><b>➡️</b></i><br>不敢抄了选择祈祷<i class=\"emoji\"><b>➡️</b></i>祈祷无效转移注意<i class=\"emoji\"><b>➡️</b></i>反弹第一波回本<i class=\"emoji\"><b>➡️</b></i>taco反弹第二波大赚<br><br>很难，左侧很难，有信心有逻辑才能拿得住，交易很难，需要好的判断加一点运气<i class=\"emoji\"><b>🍀</b></i><br><br>但我坚持做到了！",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "16",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "603",
       "title": "Taco了，舒服了",
@@ -290,48 +332,6 @@
         {
           "emoji": "❤️",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "585",
-      "title": "最近比较成功的交易 $HYPE 35-42 📈20%$MUU 150-245 📈63%下次还有抄底机会记得多买点",
-      "type": "text",
-      "datetime": "2026-03-18T03:55:13+00:00",
-      "tags": [],
-      "text": "最近比较成功的交易 $HYPE 35-42 📈20%$MUU 150-245 📈63%下次还有抄底机会记得多买点",
-      "content": "最近比较成功的交易 <br>$HYPE 35-42 <i class=\"emoji\"><b>📈</b></i>20%<br>$MUU 150-245 <i class=\"emoji\"><b>📈</b></i>63%<br>下次还有抄底机会记得多买点",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "27",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎄",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "584",
-      "title": "特朗普的国家反恐中心（NCTC）主任辞职，明确表明原因是无法认同目前对伊朗的战争",
-      "type": "text",
-      "datetime": "2026-03-17T16:19:05+00:00",
-      "tags": [],
-      "text": "特朗普的国家反恐中心（NCTC）主任辞职，明确表明原因是无法认同目前对伊朗的战争。内部的裂痕也在扩大。https://x.com/adam65207241/status/2033905924021071894?s=46",
-      "content": "特朗普的国家反恐中心（NCTC）主任辞职，明确表明原因是无法认同目前对伊朗的战争。内部的裂痕也在扩大。<br><br><a href=\"https://x.com/adam65207241/status/2033905924021071894?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/adam65207241/status/2033905924021071894?s=46\">https://x.com/adam65207241/status/2033905924021071894?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/adam65207241/status/2033905924021071894?s=46\" target=\"_blank\" rel=\"noopener\" title=\"Joe Kent 作为特朗普亲自提拔、2026年初好不容易确认上任的“自己人”，而且本身是反干涉主义（anti-interventionist）阵营的代表人物，突然以这么直白、几乎是“指名道姓”的方式辞职，等于公开在特朗普政府内部捅了一刀。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/33524ccc6b25260981bf8c8c2fbe2f2d.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Adam <i class=\"emoji\" style=\"background-image:url('/static/a7182be56a99bfffa27154da5643574a.png')\"><b>🇬🇧</b></i><i class=\"emoji\" style=\"background-image:url('/static/75de82a3d1a8f7fedbbd0c584cdb896e.png')\"><b>🇺🇦</b></i> (@Adam65207241) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Joe Kent 作为特朗普亲自提拔、2026年初好不容易确认上任的“自己人”，而且本身是反干涉主义（anti-interventionist）阵营的代表人物，突然以这么直白、几乎是“指名道姓”的方式辞职，等于公开在特朗普政府内部捅了一刀。</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "2",
           "isPaid": false
         }
       ]

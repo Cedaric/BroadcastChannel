@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/7f8c1d8eccac7c51a675812414485ecd.jpg",
-    "totalPosts": 571,
+    "avatar": "/static/9cbfa144a85654b419eceaf5c9f09897.jpg",
+    "totalPosts": 573,
     "totalPages": 29,
     "currentPage": 27,
     "pageSize": 20,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest-500.json"
   },
   "data": [
+    {
+      "id": "63",
+      "title": "关于我如何挑选和交易meme：",
+      "type": "text",
+      "datetime": "2024-01-16T01:40:10+00:00",
+      "tags": [],
+      "text": "关于我如何挑选和交易meme：https://x.com/nft_hu/status/1747071032480215097?s=20",
+      "content": "关于我如何挑选和交易meme：<a href=\"https://x.com/nft_hu/status/1747071032480215097?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1747071032480215097?s=20\">https://x.com/nft_hu/status/1747071032480215097?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1747071032480215097?s=20\" target=\"_blank\" rel=\"noopener\" title=\"今天稍微总结一下我冲 #meme 的经验之谈和选择 #meme 的一些方法论，也欢迎大家一起评论交流。过去半年我的Meme战绩其实还挺不错：1m买了 $MYRO 20倍离开，现在100m+；3m买了 $Grok 25倍离场，最高也是超过1m；0.1 买了 $Ordi, 5u离场，现在应该稳定50+；15m买了 $Silly , 100m卖出，现在60m；…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今天稍微总结一下我冲 #meme 的经验之谈和选择 #meme 的一些方法论，也欢迎大家一起评论交流。<br><br>过去半年我的Meme战绩其实还挺不错：<br>1m买了 $MYRO 20倍离开，现在100m+；<br>3m买了 $Grok 25倍离场，最高也是超过1m；<br>0.1 买了 $Ordi, 5u离场，现在应该稳定50+；<br>15m买了 $Silly , 100m卖出，现在60m；…</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "title": "如何参与 Berachain Testnet：",
+      "type": "text",
+      "datetime": "2024-01-12T03:11:14+00:00",
+      "tags": [],
+      "text": "如何参与 Berachain Testnet：https://x.com/nft_hu/status/1745643657691295941?s=20",
+      "content": "如何参与 Berachain Testnet：<a href=\"https://x.com/nft_hu/status/1745643657691295941?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1745643657691295941?s=20\">https://x.com/nft_hu/status/1745643657691295941?s=20</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "61",
       "title": "新项目介绍：早期项目风险高，本文只做介绍并非投资建议@LENX_Finance  Backed by @fraxfinance, @Bitcoin, @zetablockchain  @FjordFoundry旨在做流动性协议，并且支持BTC资产的抵押借贷",
@@ -342,38 +379,6 @@
         {
           "emoji": "❤️",
           "count": "13",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "40",
-      "title": "",
-      "type": "text",
-      "datetime": "2023-12-19T05:46:15+00:00",
-      "tags": [],
-      "text": "",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-40-0\" popovertargetaction=\"show\">\n        <img src=\"/static/c2cd54c88c645d190d6ffe71b5c5bbbd.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-40-0\" popovertarget=\"modal-40-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/c2cd54c88c645d190d6ffe71b5c5bbbd.jpg\" alt=\"\" loading=\"lazy\" />\n      </button>\n    </div>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "39",
-      "title": "Fiona 今日观察👀：（12月16日）1⃣ATOM生态（原子协议）蠢蠢欲动，爆发前夕",
-      "type": "text",
-      "datetime": "2023-12-16T13:09:20+00:00",
-      "tags": [],
-      "text": "Fiona 今日观察👀：（12月16日）1⃣ATOM生态（原子协议）蠢蠢欲动，爆发前夕。无论是unisat的接入预期，与OKX钱包合作的传闻，还是其他。今天Atom生态上的项目 从FT到NFT都有明显的价格上升，扫货汹汹2⃣ $Zero @analysoor 的讨论度非常高，但是代币价格没有很高。因为新的资产将发行在 analysoor上，这是否可以惠及Zero？ 熬不动夜打新所以我加仓了一点 $Zero 3⃣Meme狂欢继续。AVAX上的COQ突破一亿市值。SOL创始人推出Silly dragon（群车）4⃣铭文热度持续 AVAV快打完了，PSBTS打了，LSGS打了，满身都是防身徽章....",
-      "content": "Fiona 今日观察<i class=\"emoji\"><b>👀</b></i>：（12月16日）<br><br><i class=\"emoji\"><b>1⃣</b></i>ATOM生态（原子协议）蠢蠢欲动，爆发前夕。无论是unisat的接入预期，与OKX钱包合作的传闻，还是其他。今天Atom生态上的项目 从FT到NFT都有明显的价格上升，扫货汹汹<br><br><i class=\"emoji\"><b>2⃣</b></i> $Zero <br><a href=\"https://t.me/analysoor\" target=\"_blank\" title=\"@analysoor\">@analysoor</a><br> 的讨论度非常高，但是代币价格没有很高。因为新的资产将发行在 analysoor上，这是否可以惠及Zero？ 熬不动夜打新所以我加仓了一点 $Zero <br><br><i class=\"emoji\"><b>3⃣</b></i>Meme狂欢继续。AVAX上的COQ突破一亿市值。SOL创始人推出Silly dragon（群车）<br><br><i class=\"emoji\"><b>4⃣</b></i>铭文热度持续 AVAV快打完了，PSBTS打了，LSGS打了，满身都是防身徽章....",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
           "isPaid": false
         }
       ]

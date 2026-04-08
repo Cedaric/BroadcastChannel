@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/7f8c1d8eccac7c51a675812414485ecd.jpg",
-    "totalPosts": 571,
+    "avatar": "/static/9cbfa144a85654b419eceaf5c9f09897.jpg",
+    "totalPosts": 573,
     "totalPages": 29,
     "currentPage": 5,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-60.json"
   },
   "data": [
+    {
+      "id": "522",
+      "title": "比特币插针到了75000，以太坊插针到了2200",
+      "type": "text",
+      "datetime": "2026-02-01T00:50:48+00:00",
+      "tags": [],
+      "text": "比特币插针到了75000，以太坊插针到了2200。虽然有轻微反弹，但是行情和流动性都极差。 $BTC $ETH这个位置到了很多机构/大户的成本线之下: 1️⃣ $MSTR 平均比特币买入成本760372️⃣ $BMNR 均价3000附近，深深水下了Garret Bullish 在 Hyperliquid 上的仓位爆仓。最近对加密市场关注不多，但是感觉这样的事情又发生在周末，还是找了一个流动性稀薄的时间段。沃什作为鹰派代表接任美联储主席，也是加速了美元走强，对加密货币不利。但是更深层的影响仍然是市场缺乏有效叙事，资金不断流出，去黄金去股市，去AI。近两个月，比特币和以太坊的ETF资金流动情况整体呈现显著净流出趋势，尤其在2026年1月加速。而交易所在撕逼或是上新币，完成没看外面的世界已经变天了。",
+      "content": "比特币插针到了75000，以太坊插针到了2200。虽然有轻微反弹，但是行情和流动性都极差。 $BTC $ETH<br><br>这个位置到了很多机构/大户的成本线之下: <br><i class=\"emoji\"><b>1️⃣</b></i> $MSTR 平均比特币买入成本76037<br><i class=\"emoji\"><b>2️⃣</b></i> $BMNR 均价3000附近，深深水下了<br><br>Garret Bullish 在 Hyperliquid 上的仓位爆仓。<br><br>最近对加密市场关注不多，但是感觉这样的事情又发生在周末，还是找了一个流动性稀薄的时间段。沃什作为鹰派代表接任美联储主席，也是加速了美元走强，对加密货币不利。<br><br>但是更深层的影响仍然是市场缺乏有效叙事，资金不断流出，去黄金去股市，去AI。<br><br>近两个月，比特币和以太坊的ETF资金流动情况整体呈现显著净流出趋势，尤其在2026年1月加速。<br><br>而交易所在撕逼或是上新币，完成没看外面的世界已经变天了。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "521",
+      "title": "$COHR 持仓体验很好，会轮到光通讯么？",
+      "type": "text",
+      "datetime": "2026-01-30T14:35:17+00:00",
+      "tags": [],
+      "text": "$COHR 持仓体验很好，会轮到光通讯么？",
+      "content": "$COHR 持仓体验很好，会轮到光通讯么？",
+      "reactions": [
+        {
+          "emoji": "⚡",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "💊",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "520",
       "title": "Fiona 的日报频道｜2026-01-30━━ 宏观要闻 ━━1️⃣ 🌟 美-伊局势大幅升级 特朗普称正评估对伊朗采取军事行动的多种选项，尚未决定是否发起空袭，但已派出以 “航母战斗群”（以 USS Abraham Lincoln 为首）进入中东海域并强调若核谈判失败将采取更强硬行动，美防长称美军“已做好准备执行总统任何决定”",
@@ -366,48 +408,6 @@
         {
           "emoji": "👍",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "502",
-      "title": "买了点BTC SPOT",
-      "type": "text",
-      "datetime": "2026-01-20T15:24:34+00:00",
-      "tags": [],
-      "text": "买了点BTC SPOT",
-      "content": "买了点BTC SPOT",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "👎",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "501",
-      "title": "Bitgo申购截止19小时倒计时",
-      "type": "text",
-      "datetime": "2026-01-20T15:15:46+00:00",
-      "tags": [],
-      "text": "Bitgo申购截止19小时倒计时。这次 IPO 的主要情况📅 上市时间预计于 2026 年 1 月 22 日 在纽约证券交易所（NYSE）挂牌，股票代码为 BTGO💰 发行规模与募资目标拟发行 11,800,000 股 普通股。 发行价区间设定为 每股 15–17 美元。 募资规模上限约 2.01 亿美元本次 IPO 由 高盛（Goldman Sachs） 和 花旗集团（Citigroup） 作为主承销商",
-      "content": "Bitgo申购截止19小时倒计时。<br><br>这次 IPO 的主要情况<br><br><i class=\"emoji\"><b>📅</b></i> 上市时间<br>预计于 2026 年 1 月 22 日 在纽约证券交易所（NYSE）挂牌，股票代码为 BTGO<br><br><i class=\"emoji\"><b>💰</b></i> 发行规模与募资目标<br>拟发行 11,800,000 股 普通股。 <br>发行价区间设定为 每股 15–17 美元。 <br>募资规模上限约 2.01 亿美元<br><br>本次 IPO 由 高盛（Goldman Sachs） 和 花旗集团（Citigroup） 作为主承销商",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "👎",
-          "count": "2",
           "isPaid": false
         }
       ]

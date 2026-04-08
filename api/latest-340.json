@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/7f8c1d8eccac7c51a675812414485ecd.jpg",
-    "totalPosts": 571,
+    "avatar": "/static/9cbfa144a85654b419eceaf5c9f09897.jpg",
+    "totalPosts": 573,
     "totalPages": 29,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "254",
+      "title": "9月如预期下跌，等待好的机会",
+      "type": "text",
+      "datetime": "2024-09-02T02:31:10+00:00",
+      "tags": [],
+      "text": "9月如预期下跌，等待好的机会",
+      "content": "9月如预期下跌，等待好的机会",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "37",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "253",
+      "title": "项目联合交易所作恶，$SLF 代幣增發",
+      "type": "text",
+      "datetime": "2024-09-01T05:58:46+00:00",
+      "tags": [],
+      "text": "项目联合交易所作恶，$SLF 代幣增發。Binance 1:1 兌換變相稀釋了我們的代幣。https://x.com/nft_hu/status/1830122392812994791?s=46",
+      "content": "项目联合交易所作恶，$SLF 代幣增發。Binance 1:1 兌換變相稀釋了我們的代幣。<a href=\"https://x.com/nft_hu/status/1830122392812994791?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1830122392812994791?s=46\">https://x.com/nft_hu/status/1830122392812994791?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "👎",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "252",
       "title": "欢迎大家来到9月，今年的9月还会是糟糕行情么？",
@@ -412,43 +454,6 @@
         {
           "emoji": "👍",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "231",
-      "title": "BNB to 580 巨大的勝利✌️",
-      "type": "text",
-      "datetime": "2024-08-22T11:53:34+00:00",
-      "tags": [],
-      "text": "BNB to 580 巨大的勝利✌️",
-      "content": "BNB to 580 巨大的勝利<i class=\"emoji\"><b>✌️</b></i>",
-      "reactions": [
-        {
-          "emoji": "🎉",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "230",
-      "title": "不过如果求稳妥的朋友20%到手止盈其实也没有问题，总之，舒服了",
-      "type": "text",
-      "datetime": "2024-08-22T02:45:55+00:00",
-      "tags": [],
-      "text": "不过如果求稳妥的朋友20%到手止盈其实也没有问题，总之，舒服了",
-      "content": "不过如果求稳妥的朋友20%到手止盈其实也没有问题，总之，舒服了",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "11",
           "isPaid": false
         }
       ]

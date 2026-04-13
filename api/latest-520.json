@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/5fd7c599d2bfa94a90ce7797d879dc13.jpg",
-    "totalPosts": 580,
-    "totalPages": 29,
+    "totalPosts": 582,
+    "totalPages": 30,
     "currentPage": 27,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,43 @@
     "prevPageUrl": "latest-500.json"
   },
   "data": [
+    {
+      "id": "75",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-02-10T03:45:46+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1756162379535286565?s=46",
+      "content": "<a href=\"https://x.com/nft_hu/status/1756162379535286565?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1756162379535286565?s=46\">https://x.com/nft_hu/status/1756162379535286565?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "title": "今天想说说 $PIXEL 作为上一轮全程紧密研究和痛苦做空AXS的韭菜，我真的非常了解他们创始团队的智慧、能力、财力和格局",
+      "type": "text",
+      "datetime": "2024-02-09T05:29:46+00:00",
+      "tags": [],
+      "text": "今天想说说 $PIXEL 作为上一轮全程紧密研究和痛苦做空AXS的韭菜，我真的非常了解他们创始团队的智慧、能力、财力和格局。所以 $Pixel和 $Ron一定是这一轮周期，最应该大力参与的项目之一一。大约在去年7月，我开始玩Pixel这款游戏，虽然是个游戏白痴，但是我也可以清楚的感受到这款游戏的用心和精妙。之前认为 $Berry 会简单重复多数in-game token的路径，无限增发无限贬值。而Pixel团队直接取消了这一代币，我相信他们在下一盘更大的棋。我现在用berry兑换了大约20w个Pixel，我觉得应该兑换更多。从兑换的成本计算，一个Pixel的价格是0.23u左右，对应的MC大约是1.77亿美金，这并不低，但是相比较他的潜力和无限可能性而言，也绝对不高。Ronin更像 Pixel的基石，他养大了Pixel，也将孕育下一个惊人的游戏。So，dive in~ 参与这场游戏！",
+      "content": "今天想说说 $PIXEL <br>作为上一轮全程紧密研究和痛苦做空AXS的韭菜，我真的非常了解他们创始团队的智慧、能力、财力和格局。所以 $Pixel和 $Ron一定是这一轮周期，最应该大力参与的项目之一一。<br><br>大约在去年7月，我开始玩Pixel这款游戏，虽然是个游戏白痴，但是我也可以清楚的感受到这款游戏的用心和精妙。之前认为 $Berry 会简单重复多数in-game token的路径，无限增发无限贬值。而Pixel团队直接取消了这一代币，我相信他们在下一盘更大的棋。<br><br>我现在用berry兑换了大约20w个Pixel，我觉得应该兑换更多。从兑换的成本计算，一个Pixel的价格是0.23u左右，对应的MC大约是1.77亿美金，这并不低，但是相比较他的潜力和无限可能性而言，也绝对不高。Ronin更像 Pixel的基石，他养大了Pixel，也将孕育下一个惊人的游戏。So，dive in~ 参与这场游戏！",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "15",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "71",
       "title": "",
@@ -303,48 +340,6 @@
       "text": "https://x.com/nft_hu/status/1740705817274532184?s=46",
       "content": "<a href=\"https://x.com/nft_hu/status/1740705817274532184?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1740705817274532184?s=46\">https://x.com/nft_hu/status/1740705817274532184?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1740705817274532184?s=46\" target=\"_blank\" rel=\"noopener\" title=\"DEGEN群的年底尾牙聊天会，建群半年感谢大家陪我一起成长，群也慢慢长大了。从我一个人叨叨变成了大家一起叨叨，一起Degen冲早期项目，群车赚钱一起亏钱也一起！明晚8:30北京时间，一起来聊聊天。群友可上麦。我列了一些问题，但是包括并不限于这个问题清单🧾问题清单：（包括但不限于）…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">DEGEN群的年底尾牙聊天会，建群半年感谢大家陪我一起成长，群也慢慢长大了。从我一个人叨叨变成了大家一起叨叨，一起Degen冲早期项目，群车赚钱一起亏钱也一起！<br><br>明晚8:30北京时间，一起来聊聊天。群友可上麦。<br><br>我列了一些问题，但是包括并不限于这个问题清单<i class=\"emoji\" style=\"background-image:url('/static/f733b61e09d85a28797d28c4a486838c.png')\"><b>🧾</b></i><br><br>问题清单：（包括但不限于）…</div>\n</a>",
       "reactions": [
-        {
-          "emoji": "👍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "50",
-      "title": "OP新高，坎昆升级在即，热点是否重新回归以太和L2",
-      "type": "text",
-      "datetime": "2023-12-27T15:50:47+00:00",
-      "tags": [],
-      "text": "OP新高，坎昆升级在即，热点是否重新回归以太和L2。先买点OP生态币防身，还是熟悉的配方：$VELO $SONNE这次加了MEME： $ZINU",
-      "content": "OP新高，坎昆升级在即，热点是否重新回归以太和L2。先买点OP生态币防身，还是熟悉的配方：<br>$VELO <br>$SONNE<br>这次加了MEME： $ZINU",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "49",
-      "title": "@MetisDAO生态提出了一个9位数的生态基金支持计划，这个生态基金是由 $Metis 代币构成，所以随着代币价格涨跌，基金规模也会变化",
-      "type": "text",
-      "datetime": "2023-12-26T06:37:33+00:00",
-      "tags": [],
-      "text": "@MetisDAO生态提出了一个9位数的生态基金支持计划，这个生态基金是由 $Metis 代币构成，所以随着代币价格涨跌，基金规模也会变化。回忆曾经的Terra和AVAX生态基金带来的增长，我很期待！本文就来看看Metis生态里有什么吧～@tethysfinance$TETHYS -  $GMX Fork@MaiaDAOEco- $MAIA - Mother protocol Hermes and Talos@hermes(my bag)$HERMES - Defi & Farms for metis, V2 coming soon.@netswapofficial- $NETT - First DEX. Stake $NETT for metis rewards.@Athena_DeFi_- boosting protocols APRs  @TheHerculesDEXCamelot fork on Metis and should be a hyped launch in Q1.  Memes:$VMUM - Vitalik mum chain$BARSIK - Cat narrative  $VDAD - Vitalik dad",
-      "content": "@MetisDAO生态提出了一个9位数的生态基金支持计划，这个生态基金是由 $Metis 代币构成，所以随着代币价格涨跌，基金规模也会变化。回忆曾经的Terra和AVAX生态基金带来的增长，我很期待！<br><br>本文就来看看Metis生态里有什么吧～<br><a href=\"https://t.me/tethysfinance\" target=\"_blank\" title=\"@tethysfinance\">@tethysfinance</a><br>$TETHYS -  $GMX Fork<br><br><a href=\"https://t.me/MaiaDAOEco\" target=\"_blank\" title=\"@MaiaDAOEco\">@MaiaDAOEco</a><br>- $MAIA - Mother protocol Hermes and Talos<br><br><a href=\"https://t.me/hermes\" target=\"_blank\" title=\"@hermes\">@hermes</a><br>(my bag)<br>$HERMES - Defi &amp; Farms for metis, V2 coming soon.<br><br><a href=\"https://t.me/netswapofficial\" target=\"_blank\" title=\"@netswapofficial\">@netswapofficial</a><br>- $NETT - First DEX. Stake $NETT for metis rewards.<br><br><a href=\"https://t.me/Athena_DeFi_\" target=\"_blank\" title=\"@Athena_DeFi_\">@Athena_DeFi_</a><br>- boosting protocols APRs  <br><br><a href=\"https://t.me/TheHerculesDEX\" target=\"_blank\" title=\"@TheHerculesDEX\">@TheHerculesDEX</a><br>Camelot fork on Metis and should be a hyped launch in Q1.  <br><br>Memes:<br>$VMUM - Vitalik mum chain<br>$BARSIK - Cat narrative  <br>$VDAD - Vitalik dad",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "15",
-          "isPaid": false
-        },
         {
           "emoji": "👍",
           "count": "1",

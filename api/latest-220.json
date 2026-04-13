@@ -3,8 +3,8 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/5fd7c599d2bfa94a90ce7797d879dc13.jpg",
-    "totalPosts": 580,
-    "totalPages": 29,
+    "totalPosts": 582,
+    "totalPages": 30,
     "currentPage": 12,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,58 @@
     "prevPageUrl": "latest-200.json"
   },
   "data": [
+    {
+      "id": "384",
+      "title": "highlight 防御",
+      "type": "text",
+      "datetime": "2025-09-11T13:17:39+00:00",
+      "tags": [],
+      "text": "highlight 防御",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/383\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">现在还有的仓位 BTC ETH SOL HYPE 防御时间</div>\n</small></blockquote></a>highlight 防御",
+      "reactions": [
+        {
+          "emoji": "❤‍🔥",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌚",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "383",
+      "title": "现在还有的仓位 BTC ETH SOL HYPE 防御时间",
+      "type": "text",
+      "datetime": "2025-09-11T12:06:49+00:00",
+      "tags": [],
+      "text": "现在还有的仓位 BTC ETH SOL HYPE 防御时间",
+      "content": "现在还有的仓位 BTC ETH SOL HYPE 防御时间",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "19",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "382",
       "title": "0.6走了一半",
@@ -391,48 +443,6 @@
       "reactions": [
         {
           "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "364",
-      "title": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近",
-      "type": "text",
-      "datetime": "2025-08-22T05:17:37+00:00",
-      "tags": [],
-      "text": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近。BMNR 1.16， SBET 1.05",
-      "content": "无论 $BMNR 还是 $SBET , mnav 都已经来到了1附近。BMNR 1.16， SBET 1.05",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "363",
-      "title": "买了一点 $BMNR 虽然觉得这个价格大概率跌破",
-      "type": "text",
-      "datetime": "2025-08-19T15:14:45+00:00",
-      "tags": [],
-      "text": "买了一点 $BMNR 虽然觉得这个价格大概率跌破。金字塔挂单，越跌越买吧。",
-      "content": "买了一点 $BMNR 虽然觉得这个价格大概率跌破。金字塔挂单，越跌越买吧。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
           "count": "2",
           "isPaid": false
         }

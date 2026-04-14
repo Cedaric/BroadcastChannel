@@ -5,6 +5,14 @@
   "home_page_url": "https://fiona.ceda.is/",
   "items": [
     {
+      "url": "https://fiona.ceda.is/posts/618",
+      "title": "最近新云Neocloud真的春天到了",
+      "description": "",
+      "date_published": "2026-04-14T08:03:33.000Z",
+      "tags": [],
+      "content_html": "最近新云Neocloud真的春天到了。尤其是微软的千亿大单引爆了CoreWeave $NBIS 。股价也都走出了震荡区间。<br><br>AI算力缺口仍然存在，NeoCloud长约不断，新云也进入超级周期？Neocloud 提供更短约期（3–12 个月甚至按时租）、高密度 GPU、低延迟网路，对 AI 初创和 model lab 的需求 match 度很高，高增长更给了市场以兴奋点。<br><br>先梳理一下相关的Ticker：<br><i class=\"emoji\"><b>1️⃣</b></i> $CRWV 算新云巨头，英伟达投资，和OpenAI深度合作<br><i class=\"emoji\"><b>2️⃣</b></i> $NBIS 算新云第二巨头，同英伟达投资，拿下微软大单<br><i class=\"emoji\"><b>3️⃣</b></i> $ORCL 算新云的竞争对手，但是打法也有一点“新云化”。对纯 NeoCloud 来说：甲骨文是潜在大客户，承租算力、机房容量；也可能是合作伙伴（互租机房、转包部分负载）。<br><i class=\"emoji\"><b>4️⃣</b></i> Fastly $FSLY : 边缘计算＋安全，近一年因估值偏低、边缘平台适合 AI 工作负载（比如模型推理 API、低延迟内容分发）被重评。智能体AI对低延迟的要求也利好 Fastly<br><i class=\"emoji\"><b>5️⃣</b></i> $APLD : 也是被锤很久终于反弹，深度绑定英伟达的云服务中心。<br><i class=\"emoji\"><b>6️⃣</b></i> $DOCN :中小企业版的新云 / AI 云平台,靠 AI 推理与代理人应用放量，最近上涨颇多。"
+    },
+    {
       "url": "https://fiona.ceda.is/posts/617",
       "title": "股票账户新高，想到会涨没想到会涨这么猛",
       "description": "",
@@ -395,14 +403,6 @@
       "date_published": "2026-03-11T13:50:51.000Z",
       "tags": [],
       "content_html": "买入了 $Hype ，我认为转型最成功的币圈项目，上股票和期货的速度很好，热点也抓的很快，选择标的的眼光也很好。尤其是股市/期货不开盘的时候，成为了很多人/资金涌入的平台。<br>交易的需求是不变的，不管施加交易命令的是人或者是AI agent。"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/566",
-      "title": "The core CPI rose 0.22% in Feb, in line with expectations. ",
-      "description": "",
-      "date_published": "2026-03-11T12:36:40.000Z",
-      "tags": [],
-      "content_html": "The core CPI rose 0.22% in Feb, in line with expectations. <a href=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\">https://x.com/nicktimiraos/status/2031710643712036918?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nicktimiraos/status/2031710643712036918?s=46\" target=\"_blank\" rel=\"noopener\" title=\"The core CPI rose 0.22% in Feb, in line with expectations.That lowered the 12-month rate to 2.46%.Core inflation was 2.3% annualized over the previous six months. Both are the lowest readings in five years.3% annualized over the last 3 months, the…\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/a35b245a1f2f407b814a5447608fe84b.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Nick Timiraos (@NickTimiraos) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">The core CPI rose 0.22% in Feb, in line with expectations.<br><br>That lowered the 12-month rate to 2.46%.<br><br>Core inflation was 2.3% annualized over the previous six months. <br><br>Both are the lowest readings in five years.<br><br>3% annualized over the last 3 months, the…</div>\n</a>"
     }
   ]
 }

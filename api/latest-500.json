@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/23d52481e62cc2d5913ba5202988fa0e.jpg",
-    "totalPosts": 590,
+    "totalPosts": 593,
     "totalPages": 30,
     "currentPage": 26,
     "pageSize": 20,
@@ -13,6 +13,63 @@
     "prevPageUrl": "latest-480.json"
   },
   "data": [
+    {
+      "id": "109",
+      "title": "Front 2.4，又是涨幅榜",
+      "type": "text",
+      "datetime": "2024-03-17T03:45:44+00:00",
+      "tags": [],
+      "text": "Front 2.4，又是涨幅榜",
+      "content": "Front 2.4，又是涨幅榜",
+      "reactions": []
+    },
+    {
+      "id": "107",
+      "title": "Front 破2, BOME FDV10亿",
+      "type": "text",
+      "datetime": "2024-03-16T02:49:21+00:00",
+      "tags": [],
+      "text": "Front 破2, BOME FDV10亿。其实40m的时候看到BOME ，感觉已经有点晚了，但是趋势交易里，追逐强势币种，顺势而为就是最好的操作，感谢买入，也感谢拿住",
+      "content": "Front 破2, BOME FDV10亿。其实40m的时候看到BOME ，感觉已经有点晚了，但是趋势交易里，追逐强势币种，顺势而为就是最好的操作，感谢买入，也感谢拿住",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "39",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "title": "继续加仓sol! Solana生态一定是这一轮最大的alpha",
+      "type": "text",
+      "datetime": "2024-03-15T13:45:34+00:00",
+      "tags": [],
+      "text": "继续加仓sol! Solana生态一定是这一轮最大的alpha",
+      "content": "继续加仓sol! Solana生态一定是这一轮最大的alpha",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "23",
+          "isPaid": false
+        },
+        {
+          "emoji": "🫡",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "105",
       "title": "属于front 的榜一时刻",
@@ -318,74 +375,6 @@
       "text": "未上线新项目: Synfuture https://x.com/nft_hu/status/1764917882771878153?s=46",
       "content": "未上线新项目: Synfuture <a href=\"https://x.com/nft_hu/status/1764917882771878153?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1764917882771878153?s=46\">https://x.com/nft_hu/status/1764917882771878153?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1764917882771878153?s=46\" target=\"_blank\" rel=\"noopener\" title=\"今天介绍一个最近参与合作的Perp DEX项目@SynFuturesDefi 近期刚刚主网上线，有兴趣体验的朋友传送门: https://t.co/NVlRRyycAl1️⃣产品介绍:SynFutures 是「期货合约领域里的 Uniswap」，用户只需点击几下即可轻松上架自己的perp合约，最近大火的 $YES…\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今天介绍一个最近参与合作的Perp DEX项目@SynFuturesDefi <br>近期刚刚主网上线，有兴趣体验的朋友传送门: <br>https://t.co/NVlRRyycAl<br><br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>产品介绍:<br>SynFutures 是「期货合约领域里的 Uniswap」，用户只需点击几下即可轻松上架自己的perp合约，最近大火的 $YES…</div>\n</a>",
       "reactions": []
-    },
-    {
-      "id": "86",
-      "title": "转: 3月几个大的事件boss1、3.5 eth的etf申请 （eth）2、3.11 #btfp结束 （大盘）3、3.12 cpi4、3.13 eth坎昆 （arb op ldo ssv metis）5、3.15 #FTX 债权人会议 （ FTT ）6、3.18 NVDA人工智能 #AI 大会 （wld，mdt，ai）7、3.20 美联邦利率决议8、3.22 $XRP 开庭陈词 （xrp）9、3.25 #SEC诉讼 对DK的审判（ LUNC ，USTC ，luna）10、3.28 sbf宣判 （sbf/ftt）",
-      "type": "text",
-      "datetime": "2024-03-05T07:25:22+00:00",
-      "tags": [
-        "btfp结束",
-        "FTX",
-        "AI",
-        "SEC诉讼"
-      ],
-      "text": "转: 3月几个大的事件boss1、3.5 eth的etf申请 （eth）2、3.11 #btfp结束 （大盘）3、3.12 cpi4、3.13 eth坎昆 （arb op ldo ssv metis）5、3.15 #FTX 债权人会议 （ FTT ）6、3.18 NVDA人工智能 #AI 大会 （wld，mdt，ai）7、3.20 美联邦利率决议8、3.22 $XRP 开庭陈词 （xrp）9、3.25 #SEC诉讼 对DK的审判（ LUNC ，USTC ，luna）10、3.28 sbf宣判 （sbf/ftt）",
-      "content": "转: 3月几个大的事件boss<br>1、3.5 eth的etf申请 （eth）<br>2、3.11 <a href=\"/search/%23btfp%E7%BB%93%E6%9D%9F\" title=\"#btfp结束\">#btfp结束</a> （大盘）<br>3、3.12 cpi<br>4、3.13 eth坎昆 （arb op ldo ssv metis）<br>5、3.15 <a href=\"/search/%23FTX\" title=\"#FTX\">#FTX</a> 债权人会议 （ FTT ）<br>6、3.18 NVDA人工智能 <a href=\"/search/%23AI\" title=\"#AI\">#AI</a> 大会 （wld，mdt，ai）<br>7、3.20 美联邦利率决议<br>8、3.22 $XRP 开庭陈词 （xrp）<br>9、3.25 <a href=\"/search/%23SEC%E8%AF%89%E8%AE%BC\" title=\"#SEC诉讼\">#SEC诉讼</a> 对DK的审判（ LUNC ，USTC ，luna）<br>10、3.28 sbf宣判 （sbf/ftt）",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "85",
-      "title": "热点回来ETH L2 ENS等等",
-      "type": "text",
-      "datetime": "2024-03-05T05:45:39+00:00",
-      "tags": [],
-      "text": "热点回来ETH L2 ENS等等",
-      "content": "热点回来ETH L2 ENS等等",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "84",
-      "title": "最近参与的一个AI➕DEPIN项目: $STOS在 $TAO 与 $AR 爆拉之后，如果说 AI+Crypto+Storage 还有什么项目被遗漏的话，那就是 $STOS 了",
-      "type": "text",
-      "datetime": "2024-03-05T05:09:17+00:00",
-      "tags": [],
-      "text": "最近参与的一个AI➕DEPIN项目: $STOS在 $TAO 与 $AR 爆拉之后，如果说 AI+Crypto+Storage 还有什么项目被遗漏的话，那就是 $STOS 了。上一轮周期的项目， 在今年跟 TAO 合作后就回到1刀，其中跟 NVIDIA 的合作也是重中之重，但是目前知道的人不多。如果 Stratos 要找一个价格对标项目，大约跟 AKASH 之类的项目非常类似，Web2超级资深的创始团队。STOS 是AI+Crypto 概念，技术很扎实 但不太会宣传也没上大所 现在是depin概念 我觉得还行，有空间，所以买入了一些。大家DYOR",
-      "content": "最近参与的一个AI<i class=\"emoji\"><b>➕</b></i>DEPIN项目: $STOS<br><br>在 $TAO 与 $AR 爆拉之后，如果说 AI+Crypto+Storage 还有什么项目被遗漏的话，那就是 $STOS 了。<br><br>上一轮周期的项目， 在今年跟 TAO 合作后就回到1刀，其中跟 NVIDIA 的合作也是重中之重，但是目前知道的人不多。<br><br>如果 Stratos 要找一个价格对标项目，大约跟 AKASH 之类的项目非常类似，Web2超级资深的创始团队。<br><br>STOS 是AI+Crypto 概念，技术很扎实 但不太会宣传也没上大所 现在是depin概念 <br><br>我觉得还行，有空间，所以买入了一些。大家DYOR",
-      "reactions": [
-        {
-          "emoji": "👌",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

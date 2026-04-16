@@ -2,8 +2,8 @@
   "meta": {
     "title": "投机之路",
     "description": "",
-    "avatar": "/static/0fe263ec1663a9b207a4ca297052c0ee.jpg",
-    "totalPosts": 192,
+    "avatar": "/static/e9a1b8de33c895bf1c6f7d48cf1fa32d.jpg",
+    "totalPosts": 194,
     "totalPages": 10,
     "currentPage": 8,
     "pageSize": 20,
@@ -13,6 +13,83 @@
     "prevPageUrl": "latest-120.json"
   },
   "data": [
+    {
+      "id": "69",
+      "title": "很多时候人应该向内求自己的问题，这样才能让自己一次次进步：比如假设我思考“我为什么没有同年龄的Pumpfun创始人Alon牛逼”时，我会这么拆解：那是因为我自己没有更早的涉足Solana链上交易/没有任何Rust编程基础/是中国人所以不方便做交易所项目》》》这一切都是我自己的取舍，我的懒惰，我的天赋，我的选择 一系列因素叠加起来造成今天的结果》》》Alon凭借个人能力+努力抓住了时代给予的机会，恭喜这样一名成功者》》》我无法改变今天，但是我可以为下次机会做准备",
+      "type": "text",
+      "datetime": "2025-09-03T21:15:22+00:00",
+      "tags": [],
+      "text": "很多时候人应该向内求自己的问题，这样才能让自己一次次进步：比如假设我思考“我为什么没有同年龄的Pumpfun创始人Alon牛逼”时，我会这么拆解：那是因为我自己没有更早的涉足Solana链上交易/没有任何Rust编程基础/是中国人所以不方便做交易所项目》》》这一切都是我自己的取舍，我的懒惰，我的天赋，我的选择 一系列因素叠加起来造成今天的结果》》》Alon凭借个人能力+努力抓住了时代给予的机会，恭喜这样一名成功者》》》我无法改变今天，但是我可以为下次机会做准备",
+      "content": "很多时候人应该向内求自己的问题，这样才能让自己一次次进步：<br>比如假设我思考“我为什么没有同年龄的Pumpfun创始人Alon牛逼”时，我会这么拆解：<br><br>那是因为我自己没有更早的涉足Solana链上交易/没有任何Rust编程基础/是中国人所以不方便做交易所项目》》》这一切都是我自己的取舍，我的懒惰，我的天赋，我的选择 一系列因素叠加起来造成今天的结果》》》Alon凭借个人能力+努力抓住了时代给予的机会，恭喜这样一名成功者》》》我无法改变今天，但是我可以为下次机会做准备",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "196",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "39",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "title": "有些量化圈的老登真的挺搞笑的，以前喜欢说我“是P图/是伪造收益PnL/是幸运”现在我实盘出名了，开始说我是“靠内幕交易策略罢了”，而不是正儿八经的量化为啥人会有心理防御机制这个东西呢",
+      "type": "text",
+      "datetime": "2025-09-03T21:04:34+00:00",
+      "tags": [],
+      "text": "有些量化圈的老登真的挺搞笑的，以前喜欢说我“是P图/是伪造收益PnL/是幸运”现在我实盘出名了，开始说我是“靠内幕交易策略罢了”，而不是正儿八经的量化为啥人会有心理防御机制这个东西呢。菜就多练，大大方方光明磊落的多好输了就是输了，比不过就是比不过 菜就多练 我搞不懂这类人为啥不服输呢那像Scale AI创始人00后，24岁身价10亿美元+了，现在更是30亿美元+那像Pumpfun创始人Alon，00后，几亿美元现金我看他们只会夸他们牛逼，狠狠的抓住了时代给的机遇而不会踩一踩说“他们只是靠运气踩上风口/碰巧把公司卖给冤大头/只是靠收割链上meme韭菜而已”这类宽慰我自己内心的话我只会想着自己如何进步如何努力，能攀登到和他们一样高的位子不会去酸别人踩别人无人扶我青云志，我自踏雪至山巅。 若是命中无此运，亦可孤身登昆仑。https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f",
+      "content": "有些量化圈的老登真的挺搞笑的，<br>以前喜欢说我“是P图/是伪造收益PnL/是幸运”<br>现在我实盘出名了，开始说我是“靠内幕交易策略罢了”，而不是正儿八经的量化<br><br>为啥人会有<br><pre><code class=\"language-text\">心理防御机制</code></pre><br>这个东西呢。<br>菜就多练，大大方方光明磊落的多好<br>输了就是输了，比不过就是比不过 菜就多练 我搞不懂这类人为啥不服输呢<br><br>那像Scale AI创始人00后，24岁身价10亿美元+了，现在更是30亿美元+<br>那像Pumpfun创始人Alon，00后，几亿美元现金<br>我看他们只会夸他们牛逼，狠狠的抓住了时代给的机遇<br>而不会踩一踩说“他们只是靠运气踩上风口/碰巧把公司卖给冤大头/只是靠收割链上meme韭菜而已”这类宽慰我自己内心的话<br><br>我只会想着自己如何进步如何努力，能攀登到和他们一样高的位子<br>不会去酸别人踩别人<br><br><pre><code class=\"language-text\">无人扶我青云志，我自踏雪至山巅。 若是命中无此运，亦可孤身登昆仑。</code></pre><br><br><a href=\"https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f\" target=\"_blank\" rel=\"noopener\" title=\"https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f\">https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f</a><a class=\"tgme_widget_message_link_preview\" href=\"https://chatgpt.com/share/68b8ad51-d474-8007-a255-3535060ba13f\" target=\"_blank\" rel=\"noopener\" title=\"ChatGPT helps you get answers, find inspiration, and be more productive.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/d3ec2ec6b1eade721e02e361448b19ed.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">ChatGPT</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">ChatGPT - 心理防御机制解析</div>\n  <div class=\"link_preview_description\" dir=\"auto\">ChatGPT helps you get answers, find inspiration, and be more productive.</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "121",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "50",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "67",
       "title": "离开中国在海外体验游牧民族生活快2年了，我的感觉是：一开始几个月是不适应的，因为要和新环境做各种融合，后面就越来越喜欢这种自由自在、浪迹天涯的感觉回头看我觉得- 中国是一个很好的国家，只是它的体制决定了它需要“铁拳”来维护zz的稳定性，而铁拳也客观意义上让中国形成了一个安全、稳定的社会，我现在认为中国的体系是非常适合它的国情的",
@@ -809,93 +886,6 @@
         {
           "emoji": "🤔",
           "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "46",
-      "title": "美股今天创新高，但是美元指数今年跌了12%创下1973以来最大跌幅，对于很多欧元/日元本位的投资者来说他们其实没赚多少本币",
-      "type": "text",
-      "datetime": "2025-07-03T14:17:44+00:00",
-      "tags": [],
-      "text": "美股今天创新高，但是美元指数今年跌了12%创下1973以来最大跌幅，对于很多欧元/日元本位的投资者来说他们其实没赚多少本币",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-46-0\" popovertargetaction=\"show\">\n        <img src=\"/static/162190ed8c02ba4891939a9bf2819112.jpg\" alt=\"美股今天创新高，但是美元指数今年跌了12%创下1973以来最大跌幅，对于很多欧元/日元本位的投资者来说他们其实没赚多少本币\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-46-0\" popovertarget=\"modal-46-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/162190ed8c02ba4891939a9bf2819112.jpg\" alt=\"美股今天创新高，但是美元指数今年跌了12%创下1973以来最大跌幅，对于很多欧元/日元本位的投资者来说他们其实没赚多少本币\" loading=\"lazy\" />\n      </button>\n    </div>美股今天创新高，但是美元指数今年跌了12%创下1973以来最大跌幅，对于很多欧元/日元本位的投资者来说他们其实没赚多少本币",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "95",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "29",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "45",
-      "title": "最近美股的操作：把我之前持有的BIL（1-3月短债ETF）全换成了BOXX或者IB01 etfBOXX和IB01都是和BIL类似的短债低风险型ETF，他们都是不进行任何分红而是不断的再投资的ETF",
-      "type": "text",
-      "datetime": "2025-07-01T14:27:05+00:00",
-      "tags": [],
-      "text": "最近美股的操作：把我之前持有的BIL（1-3月短债ETF）全换成了BOXX或者IB01 etfBOXX和IB01都是和BIL类似的短债低风险型ETF，他们都是不进行任何分红而是不断的再投资的ETF。不分红的好处自己问问AI吧，我就不解释了",
-      "content": "最近美股的操作：<br>把我之前持有的BIL（1-3月短债ETF）全换成了BOXX或者IB01 etf<br><br>BOXX和IB01都是和BIL类似的短债低风险型ETF，他们都是不进行任何分红而是不断的再投资的ETF。<br><br>不分红的好处自己问问AI吧，我就不解释了",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "72",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "17",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "1",
           "isPaid": false
         }
       ]

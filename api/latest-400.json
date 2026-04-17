@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/36d8e6ddb347d838f801b0f7733a924f.jpg",
-    "totalPosts": 596,
+    "avatar": "/static/84164f68157b7219f8c87f3e49198ce7.jpg",
+    "totalPosts": 597,
     "totalPages": 30,
     "currentPage": 21,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-380.json"
   },
   "data": [
+    {
+      "id": "214",
+      "title": "BTW 我昨晚和今早又卖了点，BNB挖矿收益低于预期，最近大盘走势弱于美股，增加现金配置",
+      "type": "text",
+      "datetime": "2024-08-15T05:40:01+00:00",
+      "tags": [],
+      "text": "BTW 我昨晚和今早又卖了点，BNB挖矿收益低于预期，最近大盘走势弱于美股，增加现金配置。",
+      "content": "BTW 我昨晚和今早又卖了点，BNB挖矿收益低于预期，最近大盘走势弱于美股，增加现金配置。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "20",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "213",
       "title": "BNB的理财活动马上开始，一起准备挖 $TON 吧！",
@@ -377,22 +393,6 @@
         {
           "emoji": "👍",
           "count": "29",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "193",
-      "title": "止盈减仓1/3",
-      "type": "text",
-      "datetime": "2024-07-29T14:39:52+00:00",
-      "tags": [],
-      "text": "止盈减仓1/3",
-      "content": "止盈减仓1/3",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "13",
           "isPaid": false
         }
       ]

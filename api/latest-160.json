@@ -2,8 +2,8 @@
   "meta": {
     "title": "投机之路",
     "description": "",
-    "avatar": "/static/e9a1b8de33c895bf1c6f7d48cf1fa32d.jpg",
-    "totalPosts": 194,
+    "avatar": "/static/4f5925b436cba0ea9e90675b7a18fa31.jpg",
+    "totalPosts": 197,
     "totalPages": 10,
     "currentPage": 9,
     "pageSize": 20,
@@ -13,6 +13,124 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "52",
+      "title": "把4月份初抄底的那批Intel股票清仓了，一家公司如果在这么好的市场都表现的那么差，那么说明这家公司做的真的很差劲",
+      "type": "text",
+      "datetime": "2025-07-30T18:38:26+00:00",
+      "tags": [],
+      "text": "把4月份初抄底的那批Intel股票清仓了，一家公司如果在这么好的市场都表现的那么差，那么说明这家公司做的真的很差劲。",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-52-0\" popovertargetaction=\"show\">\n        <img src=\"/static/491fb98b800418a005e88c41d1d3d734.jpg\" alt=\"把4月份初抄底的那批Intel股票清仓了，一家公司如果在这么好的市场都表现的那么差，那么说明这家公司做的真的很差劲\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-52-0\" popovertarget=\"modal-52-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/491fb98b800418a005e88c41d1d3d734.jpg\" alt=\"把4月份初抄底的那批Intel股票清仓了，一家公司如果在这么好的市场都表现的那么差，那么说明这家公司做的真的很差劲\" loading=\"lazy\" />\n      </button>\n    </div>把4月份初抄底的那批Intel股票清仓了，一家公司如果在这么好的市场都表现的那么差，那么说明这家公司做的真的很差劲。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "127",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "18",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "title": "A股牛市终于也要来了，和比特币、美股、日本股市一样：要涨的原因是没有任何能下跌的理由我预测12个月内就能看见中国全民疯狂fomo的样子了到时候会把我的bag甩卖给他们",
+      "type": "text",
+      "datetime": "2025-07-23T00:44:44+00:00",
+      "tags": [],
+      "text": "A股牛市终于也要来了，和比特币、美股、日本股市一样：要涨的原因是没有任何能下跌的理由我预测12个月内就能看见中国全民疯狂fomo的样子了到时候会把我的bag甩卖给他们",
+      "content": "A股牛市终于也要来了，和比特币、美股、日本股市一样：要涨的原因是没有任何能下跌的理由<br><br>我预测12个月内就能看见中国全民疯狂fomo的样子了<br><br>到时候会把我的bag甩卖给他们",
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "181",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "39",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "26",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "18",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "12",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "title": "继续加仓了一些ARM作为5-10年长期投资，原因：- 云计算AWS、Google公司都在推出自己的基于ARM框架的芯片",
+      "type": "text",
+      "datetime": "2025-07-07T16:37:18+00:00",
+      "tags": [],
+      "text": "继续加仓了一些ARM作为5-10年长期投资，原因：- 云计算AWS、Google公司都在推出自己的基于ARM框架的芯片。其能够提供相较x86_64框架同等的性能但是低30%+的功耗成本- Apple的M系列芯片也都是ARM框架，且跑分性能强劲，算是证明了ARM在家用领域也开始大放异彩ARM在计算性能和实用性方面已经不输x84_64且正在被越来越多想要自主设计芯片的公司所采用。当前已经不是最好的价格了，但是我愿意拿时间换金钱。",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-47-0\" popovertargetaction=\"show\">\n        <img src=\"/static/3b60d16bed331af23d7b320b2edadf50.jpg\" alt=\"继续加仓了一些ARM作为5-10年长期投资，原因：- 云计算AWS、Google公司都在推出自己的基于ARM框架的芯片\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-47-0\" popovertarget=\"modal-47-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/3b60d16bed331af23d7b320b2edadf50.jpg\" alt=\"继续加仓了一些ARM作为5-10年长期投资，原因：- 云计算AWS、Google公司都在推出自己的基于ARM框架的芯片\" loading=\"lazy\" />\n      </button>\n    </div>继续加仓了一些ARM作为5-10年长期投资，原因：<br>- 云计算AWS、Google公司都在推出自己的基于ARM框架的芯片。其能够提供相较x86_64框架同等的性能但是低30%+的功耗成本<br>- Apple的M系列芯片也都是ARM框架，且跑分性能强劲，算是证明了ARM在家用领域也开始大放异彩<br><br>ARM在计算性能和实用性方面已经不输x84_64且正在被越来越多想要自主设计芯片的公司所采用。<br><br>当前已经不是最好的价格了，但是我愿意拿时间换金钱。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "89",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "46",
       "title": "美股今天创新高，但是美元指数今年跌了12%创下1973以来最大跌幅，对于很多欧元/日元本位的投资者来说他们其实没赚多少本币",
@@ -758,144 +876,6 @@
         {
           "emoji": "😢",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "25",
-      "title": "挺搞笑的是推特timeline上多出了很多开始夸ETH的内容，早干啥去了呢？大道至简：市场开始喊“VC和项目方全都不赚钱了”、“要完蛋了”，市场参与者开始卖儿卖女的时候，切换成“仅做多模式”，专注于买便宜货市场开始说“人类文明进入新的伟大进程”、“年末100万刀不是梦”、“meme是信息时代最伟大的发明”的时候切换成只卖出及无风险套利模式我会用一生践行这个理论",
-      "type": "text",
-      "datetime": "2025-05-11T17:33:55+00:00",
-      "tags": [],
-      "text": "挺搞笑的是推特timeline上多出了很多开始夸ETH的内容，早干啥去了呢？大道至简：市场开始喊“VC和项目方全都不赚钱了”、“要完蛋了”，市场参与者开始卖儿卖女的时候，切换成“仅做多模式”，专注于买便宜货市场开始说“人类文明进入新的伟大进程”、“年末100万刀不是梦”、“meme是信息时代最伟大的发明”的时候切换成只卖出及无风险套利模式我会用一生践行这个理论",
-      "content": "挺搞笑的是推特timeline上多出了很多开始夸ETH的内容，早干啥去了呢？<br><br>大道至简：市场开始喊“VC和项目方全都不赚钱了”、“要完蛋了”，市场参与者开始卖儿卖女的时候，切换成“仅做多模式”，专注于买便宜货<br><br>市场开始说“人类文明进入新的伟大进程”、“年末100万刀不是梦”、“meme是信息时代最伟大的发明”的时候切换成只卖出及无风险套利模式<br><br>我会用一生践行这个理论",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "290",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "39",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "😢",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "24",
-      "title": "推特上我把这个post删了，因为感觉政治不正确，不团结的话还是不要说",
-      "type": "text",
-      "datetime": "2025-05-11T16:05:19+00:00",
-      "tags": [],
-      "text": "推特上我把这个post删了，因为感觉政治不正确，不团结的话还是不要说。真理有时候还是让少部分人掌握比较好",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-24-0\" popovertargetaction=\"show\">\n        <img src=\"/static/e3ddd15bd9a1410fe0bf4c6fdd52eb99.jpg\" alt=\"推特上我把这个post删了，因为感觉政治不正确，不团结的话还是不要说\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-24-0\" popovertarget=\"modal-24-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/e3ddd15bd9a1410fe0bf4c6fdd52eb99.jpg\" alt=\"推特上我把这个post删了，因为感觉政治不正确，不团结的话还是不要说\" loading=\"lazy\" />\n      </button>\n    </div>推特上我把这个post删了，因为感觉政治不正确，不团结的话还是不要说。<br><br>真理有时候还是让少部分人掌握比较好",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "119",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "23",
-      "title": "在我看来一个成功的交易员一定要同时积极的扩张自己的影响力，让自己成为市场的一股重要力量之一",
-      "type": "text",
-      "datetime": "2025-05-11T15:10:43+00:00",
-      "tags": [],
-      "text": "在我看来一个成功的交易员一定要同时积极的扩张自己的影响力，让自己成为市场的一股重要力量之一",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/22\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">https://x.com/thankucrypto/status/1921578110425669645  熬鹰这段话说得不错。 我不明白为什么有人唾弃当车头，在我看来就是小酸子而已  增加自己的影响力》自己拥有大资金+有强影响力〉想让什么涨就让什么涨，想引爆什么叙事就引爆什么叙事。 一方面这很爽，是权力的感觉 一方面这对你自己交易也是+ev，你永远可以买到相对底部的价格  在加密市场 影响力=金钱和权力</div>\n</small></blockquote></a>在我看来一个成功的交易员一定要同时积极的扩张自己的影响力，让自己成为市场的一股重要力量之一",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "109",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "6",
           "isPaid": false
         }
       ]

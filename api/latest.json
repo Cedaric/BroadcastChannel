@@ -2,8 +2,8 @@
   "meta": {
     "title": "投机之路",
     "description": "",
-    "avatar": "/static/e9a1b8de33c895bf1c6f7d48cf1fa32d.jpg",
-    "totalPosts": 194,
+    "avatar": "/static/4f5925b436cba0ea9e90675b7a18fa31.jpg",
+    "totalPosts": 197,
     "totalPages": 10,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,129 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "231",
+      "title": "还有一个死$M庄币也可以玩这个操作 薅死他们",
+      "type": "text",
+      "datetime": "2026-04-18T12:49:09+00:00",
+      "tags": [],
+      "text": "还有一个死$M庄币也可以玩这个操作 薅死他们。仓位不能开太大，因为合约腿有adl风险。我爆仓价也留至少50倍的",
+      "content": "还有一个死$M庄币也可以玩这个操作 薅死他们。仓位不能开太大，因为合约腿有adl风险。<br><br>我爆仓价也留至少50倍的",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "46",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "230",
+      "title": "操他妈平早了啊",
+      "type": "text",
+      "datetime": "2026-04-18T12:11:13+00:00",
+      "tags": [],
+      "text": "操他妈平早了啊",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/229\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">舒服了<i class=\"emoji\" style=\"background-image:url('/static/01f561ee0f9f51a483fb6f825c73fe98.png')\"><b>😌</b></i> 目前gate现货溢价10% 平了一大半了 两天付出资金费成本3万U</div>\n</small></blockquote></a>操他妈平早了啊",
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": "126",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "22",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "15",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "😱",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "229",
+      "title": "舒服了😌 目前gate现货溢价10% 平了一大半了两天付出资金费成本3万U",
+      "type": "text",
+      "datetime": "2026-04-18T12:00:59+00:00",
+      "tags": [],
+      "text": "舒服了😌 目前gate现货溢价10% 平了一大半了两天付出资金费成本3万U",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/228\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大    rave庄家弃盘》合约溢价=吃资费 rave庄家继续发力》现货溢价=吃spread 唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序</div>\n</small></blockquote></a>舒服了<i class=\"emoji\"><b>😌</b></i> 目前gate现货溢价10% 平了一大半了<br>两天付出资金费成本3万U",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "63",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤣",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "228",
       "title": "目前我还开着gate现货多45000个RAVE，币安合约空45000个RAVE 》 赌现货溢价扩大  rave庄家弃盘》合约溢价=吃资费rave庄家继续发力》现货溢价=吃spread唯一的风险就是如果庄家跑路跑太快，比如几分钟里砸50%+则交易所可能会adl我的仓位，所以我也写了监控adl队列+自动减仓程序",
@@ -916,174 +1039,6 @@
         {
           "emoji": "👏",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "204",
-      "title": "刚刚那个Bybit上送钱的家伙大概损失了1-2亿美元希望人没逝",
-      "type": "text",
-      "datetime": "2026-02-07T16:44:50+00:00",
-      "tags": [],
-      "text": "刚刚那个Bybit上送钱的家伙大概损失了1-2亿美元希望人没逝",
-      "content": "刚刚那个Bybit上送钱的家伙大概损失了1-2亿美元希望人没逝",
-      "reactions": [
-        {
-          "emoji": "😱",
-          "count": "174",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "41",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "18",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤯",
-          "count": "17",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🙏",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "203",
-      "title": "我其实还持有1万多个HYPE，几天前买的，已经stake了",
-      "type": "text",
-      "datetime": "2026-02-06T02:10:34+00:00",
-      "tags": [],
-      "text": "我其实还持有1万多个HYPE，几天前买的，已经stake了。之所以没告诉你们是因为我建仓成本价是33，感觉短期内有点贵。但是HYPE最近真的硬爆了，市场跌成这样也依然坚挺，所以现在我可以说了。HYPE的逻辑挺简单的：欧美群众起义引发的币安替代叙事 / 去中心化CME，之前也谈过了—————————可以预见的是在监管铁拳没有打击Hyperliquid之前，它会一直发展的很好。",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/200\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">放2个没屌用的不准确的预言（我他妈能预测未来不就取代马斯克成世界首富了吗？）  - BTC 2032年之前会达到18万美元 - HYPE 2029年之前会达到100美元</div>\n</small></blockquote></a>我其实还持有1万多个HYPE，几天前买的，已经stake了。之所以没告诉你们是因为我建仓成本价是33，感觉短期内有点贵。<br><br>但是HYPE最近真的硬爆了，市场跌成这样也依然坚挺，所以现在我可以说了。<br><br>HYPE的逻辑挺简单的：欧美群众起义引发的币安替代叙事 / 去中心化CME，之前也谈过了<br><br>—————————<br>可以预见的是在监管铁拳没有打击Hyperliquid之前，它会一直发展的很好。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "241",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "32",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "18",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "11",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🥰",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🏆",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "202",
-      "title": "已完全退出此仓位",
-      "type": "text",
-      "datetime": "2026-02-06T01:13:44+00:00",
-      "tags": [],
-      "text": "已完全退出此仓位。我打这一波scalping的目标是赚点U降低我的现货持有成本，这样的话我之前抄底的300万美元现货成本已经在59k左右了。我的现货是不会卖的",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/198\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">又打了500万美元子弹@60k做scalping</div>\n</small></blockquote></a>已完全退出此仓位。<br>我打这一波scalping的目标是赚点U降低我的现货持有成本，这样的话我之前抄底的300万美元现货成本已经在59k左右了。<br><br>我的现货是不会卖的",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "189",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "50",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "15",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤔",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "1",
           "isPaid": false
         }
       ]

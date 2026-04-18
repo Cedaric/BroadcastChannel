@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/84164f68157b7219f8c87f3e49198ce7.jpg",
-    "totalPosts": 597,
+    "avatar": "/static/8168272368304c4decb05d872f3e51d8.jpg",
+    "totalPosts": 600,
     "totalPages": 30,
     "currentPage": 1,
     "pageSize": 20,
@@ -13,6 +13,63 @@
     "prevPageUrl": null
   },
   "data": [
+    {
+      "id": "632",
+      "title": "",
+      "type": "text",
+      "datetime": "2026-04-18T12:49:46+00:00",
+      "tags": [],
+      "text": "https://x.com/kobeissiletter/status/2045483864873652547?s=46",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/631\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">海事情报公司：伊朗革命卫队向试图穿越霍尔木兹海峡的油轮开火  两艘试图穿越霍尔木兹海峡的印度船只被伊朗伊斯兰革命卫队海军逼退，其间出现开火情况。其中一艘是悬挂印度国旗的超大型油轮。伊朗方面尚未就此表态。</div>\n</small></blockquote></a><a href=\"https://x.com/kobeissiletter/status/2045483864873652547?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/kobeissiletter/status/2045483864873652547?s=46\">https://x.com/kobeissiletter/status/2045483864873652547?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/kobeissiletter/status/2045483864873652547?s=46\" target=\"_blank\" rel=\"noopener\" title=\"BREAKING: Iran’s military announces that they have closed the Strait of Hormuz again.There are now new reports of an oil tanker being struck near Oman.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/8d97805109ac7451a08da82c080d84fc.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">The Kobeissi Letter (@KobeissiLetter) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BREAKING: Iran’s military announces that they have closed the Strait of Hormuz again.<br><br>There are now new reports of an oil tanker being struck near Oman.</div>\n</a>",
+      "reactions": []
+    },
+    {
+      "id": "631",
+      "title": "海事情报公司：伊朗革命卫队向试图穿越霍尔木兹海峡的油轮开火两艘试图穿越霍尔木兹海峡的印度船只被伊朗伊斯兰革命卫队海军逼退，其间出现开火情况",
+      "type": "text",
+      "datetime": "2026-04-18T12:09:46+00:00",
+      "tags": [],
+      "text": "海事情报公司：伊朗革命卫队向试图穿越霍尔木兹海峡的油轮开火两艘试图穿越霍尔木兹海峡的印度船只被伊朗伊斯兰革命卫队海军逼退，其间出现开火情况。其中一艘是悬挂印度国旗的超大型油轮。伊朗方面尚未就此表态。",
+      "content": "海事情报公司：伊朗革命卫队向试图穿越霍尔木兹海峡的油轮开火<br><br>两艘试图穿越霍尔木兹海峡的印度船只被伊朗伊斯兰革命卫队海军逼退，其间出现开火情况。其中一艘是悬挂印度国旗的超大型油轮。伊朗方面尚未就此表态。",
+      "reactions": [
+        {
+          "emoji": "😢",
+          "count": "5",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "630",
+      "title": "每一轮周期结束，打扫钱包都会零零碎碎找到一些钱",
+      "type": "text",
+      "datetime": "2026-04-18T08:23:30+00:00",
+      "tags": [],
+      "text": "每一轮周期结束，打扫钱包都会零零碎碎找到一些钱。这次找到的钱贬值比较少的原因，主要是吸取了从前的经验——把不常用钱包的资金要不用ETH，要不用USDT。经历过 波卡生态归零、Arbitrum生态消失、Bearchain熄火、铭文集体归零的我终于长大了。该卖卖，拥有长期价值的事物还是稀有的。",
+      "content": "每一轮周期结束，打扫钱包都会零零碎碎找到一些钱。这次找到的钱贬值比较少的原因，主要是吸取了从前的经验——把不常用钱包的资金要不用ETH，要不用USDT。<br><br>经历过 波卡生态归零、Arbitrum生态消失、Bearchain熄火、铭文集体归零的我终于长大了。<br><br>该卖卖，拥有长期价值的事物还是稀有的。",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "629",
       "title": "和Elon Musk创办SpaceX时，账户里躺着大约1亿美元的启动资金不同，Peter的账户里并没有那么多现金",
@@ -338,59 +395,6 @@
       "text": "距离建仓 $MRVL 盈利37%，下跌期间也加仓了。最近价格强势突破，值得关注。最近会写一下关于迈威尔的研报。",
       "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/563\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">仓位还是集中在内存和光通讯，因为韩股权重大，对能源价格敏感，所以还是谨慎持有中。 新增持有了 $MRVL 财报利好<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>这波下跌相对强势<i class=\"emoji\" style=\"background-image:url('/static/baf0d312bdfb3ec62f588003f9982461.png')\"><b>➕</b></i>GTC将近</div>\n</small></blockquote></a>距离建仓 $MRVL 盈利37%，下跌期间也加仓了。最近价格强势突破，值得关注。最近会写一下关于迈威尔的研报。",
       "reactions": []
-    },
-    {
-      "id": "612",
-      "title": "没有辜负我对特朗普的判断，不整一些幺蛾子就不是他了",
-      "type": "text",
-      "datetime": "2026-04-12T13:53:03+00:00",
-      "tags": [],
-      "text": "没有辜负我对特朗普的判断，不整一些幺蛾子就不是他了。",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/606\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">昨天已经卖了部分这次抄底的仓位，主要还是基于对于“停火协议”这件事情执行度的不确信。  就像在之前很多次分享中我的观点：战争一旦超出预计时间（最初设定的4-6周），战争对于不同方的意义就变得不同。美国有最大的动力去停止战争，而以色列和伊朗却可能并非如此。  这也是我之前会说 “就怕这次Taco了，也停不下来。”  但是美股其实需要的很多时候，也就是一个信号罢了。需要总统告诉大家，他想要停下，想要退出这场不该开始的战争。  但是这一切和“事实停战”是不同的，“停火协议”也不等于霍尔木兹海峡重新开放，不等于石油和LNG的运量恢复到战前。…</div>\n</small></blockquote></a>没有辜负我对特朗普的判断，不整一些幺蛾子就不是他了。",
-      "reactions": [
-        {
-          "emoji": "🤣",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "611",
-      "title": "真牛，美国也开始封锁霍尔木兹海峡",
-      "type": "text",
-      "datetime": "2026-04-12T13:50:33+00:00",
-      "tags": [],
-      "text": "真牛，美国也开始封锁霍尔木兹海峡。之前特朗普就提出和伊朗一起收过路费的事儿，我以为大爷说说而已。最无辜的就是阿曼了。本来阿曼位于霍尔木兹海峡外围，伊朗封锁不到，趁着油价上涨阿曼舒舒服服赚得开心。没想到一转眼被美国背刺。不过又有波段机会啦！",
-      "content": "真牛，美国也开始封锁霍尔木兹海峡。<br><br>之前特朗普就提出和伊朗一起收过路费的事儿，我以为大爷说说而已。<br><br>最无辜的就是阿曼了。本来阿曼位于霍尔木兹海峡外围，伊朗封锁不到，趁着油价上涨阿曼舒舒服服赚得开心。没想到一转眼被美国背刺。<br><br>不过又有波段机会啦！",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "610",
-      "title": "建立了 $SATS 的初步仓位作为对 SpaceX上线的布局",
-      "type": "text",
-      "datetime": "2026-04-11T03:09:47+00:00",
-      "tags": [],
-      "text": "建立了 $SATS 的初步仓位作为对 SpaceX上线的布局。和 SpaceX 的关系核心是「卖频谱给 SpaceX，拿了一大块 SpaceX 股权」，所以现在被视为间接持有 SpaceX 的公众载体。公司仍亏损，但过去12个月仍然脱离基本面的猛烈上涨，主要也是对其持有的SpaceX股权的重新定价。这笔频谱交易换股权发生在去年9月:对价结构是现金 + SpaceX 股权；初始协议大约 85 亿现金 + 85 亿 SpaceX 股票，按 SpaceX 当时约 4000 亿美元估值算，相当于取得约 2% 左右 SpaceX 持股。也有后续补充协议说持股比例可能达到2~3%。按照现在市场给SpaceX市场传出的估值15000亿，这部分的股权定价为300到450亿美金。而现在 $SATS 的市值为370亿。基本属于自己的业务白送，只计算股权价值。SATS 被重塑成一个SpaceX 的上市“影子股”：SpaceX 估值涨 → EchoStar 资产净值涨 → 市场给 SATS 提前重估。一旦 SpaceX 真 IPO，EchoStar 可以通过部分套现或抵押来修补资产负债表、换现金和减债，故事空间更大。",
-      "content": "建立了 $SATS 的初步仓位作为对 SpaceX上线的布局。<br><br>和 SpaceX 的关系核心是「卖频谱给 SpaceX，拿了一大块 SpaceX 股权」，所以现在被视为间接持有 SpaceX 的公众载体。<br><br>公司仍亏损，但过去12个月仍然脱离基本面的猛烈上涨，主要也是对其持有的SpaceX股权的重新定价。<br><br>这笔频谱交易换股权发生在去年9月:<br>对价结构是现金 + SpaceX 股权；初始协议大约 85 亿现金 + 85 亿 SpaceX 股票，按 SpaceX 当时约 4000 亿美元估值算，相当于取得约 2% 左右 SpaceX 持股。也有后续补充协议说持股比例可能达到2~3%。<br><br>按照现在市场给SpaceX市场传出的估值15000亿，这部分的股权定价为300到450亿美金。而现在 $SATS 的市值为370亿。基本属于自己的业务白送，只计算股权价值。<br><br>SATS 被重塑成一个SpaceX 的上市“影子股”：<br>SpaceX 估值涨 → EchoStar 资产净值涨 → 市场给 SATS 提前重估。<br>一旦 SpaceX 真 IPO，EchoStar 可以通过部分套现或抵押来修补资产负债表、换现金和减债，故事空间更大。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

@@ -2,8 +2,8 @@
   "meta": {
     "title": "投机之路",
     "description": "",
-    "avatar": "/static/c8c12717861adc0e782f1723a069d06b.jpg",
-    "totalPosts": 198,
+    "avatar": "/static/a9472b38af71ae9af327d81a3aec164a.jpg",
+    "totalPosts": 200,
     "totalPages": 10,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,103 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "28",
+      "title": "今天准备卖出剩余的1/3的$TLT调仓成$BIL，我的观点变为美国的通胀率会上升比较头疼的是之前NET没有加仓到位，感觉仓位还是干的不够多，Cloudflare注定会在5-10年之后成为全球第一的电信巨头，成为世界500强企业之一",
+      "type": "text",
+      "datetime": "2025-05-19T14:13:17+00:00",
+      "tags": [],
+      "text": "今天准备卖出剩余的1/3的$TLT调仓成$BIL，我的观点变为美国的通胀率会上升比较头疼的是之前NET没有加仓到位，感觉仓位还是干的不够多，Cloudflare注定会在5-10年之后成为全球第一的电信巨头，成为世界500强企业之一。但我不会现在加仓，因为它现在没有性价比。如果再跌到120以下会增持更多我个人对它的预期是2028年之前它的股价会达到200",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/15\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">美股方向最近的操作： - 减持2/3的$TLT，我的成本是87左右，现在89.9退出了。调仓换成的$BIL（1-3月短债）。原因是我认为Trump的关税的威力会在未来半年的样子显现出来，给美国带来更高的长期通胀【预期】而导致长期利率又又又又又一次上升 - 增持少量$NET，作为长期投资，目前总仓位340万刀。我猜测它的下次季报依然会超市场预期。过去2个月新增的巨型客户是Twitter。 - 增持少量$AMD，目前总仓位150万刀，作为长期投资。 - 增持少量$ARM，作为长期投资。  我依然持有大量的短债…</div>\n</small></blockquote></a>今天准备卖出剩余的1/3的$TLT调仓成$BIL，我的观点变为美国的通胀率会上升<br><br>比较头疼的是之前NET没有加仓到位，感觉仓位还是干的不够多，Cloudflare注定会在5-10年之后成为全球第一的电信巨头，成为世界500强企业之一。但我不会现在加仓，因为它现在没有性价比。如果再跌到120以下会增持更多<br><br>我个人对它的预期是2028年之前它的股价会达到200",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "116",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "我的人生旅程和刘銮雄、史玉柱、扎克伯格、比尔盖茨的前1/4差不多，让我们看看后3/4会怎么样吧～ 我会用时间来书写我的传奇",
+      "type": "text",
+      "datetime": "2025-05-11T21:54:27+00:00",
+      "tags": [],
+      "text": "我的人生旅程和刘銮雄、史玉柱、扎克伯格、比尔盖茨的前1/4差不多，让我们看看后3/4会怎么样吧～ 我会用时间来书写我的传奇",
+      "content": "我的人生旅程和刘銮雄、史玉柱、扎克伯格、比尔盖茨的前1/4差不多，让我们看看后3/4会怎么样吧～ 我会用时间来书写我的传奇",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "423",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "35",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "10",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤩",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "6",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "26",
       "title": "在二级市场喊单带货，在我的理解里就像：你开了一个跨境电商公司原本你只在Amazon、Ebay上卖但如果你同时开一个抖音账户做直播带货，且你的抖音号做的很成功，那么对你的销量和利润都会有巨量提升",

@@ -2,8 +2,8 @@
   "meta": {
     "title": "投机之路",
     "description": "",
-    "avatar": "/static/4f5925b436cba0ea9e90675b7a18fa31.jpg",
-    "totalPosts": 197,
+    "avatar": "/static/c8c12717861adc0e782f1723a069d06b.jpg",
+    "totalPosts": 198,
     "totalPages": 10,
     "currentPage": 6,
     "pageSize": 20,
@@ -13,6 +13,62 @@
     "prevPageUrl": "latest-80.json"
   },
   "data": [
+    {
+      "id": "118",
+      "title": "另外我虽然看空，我是不会做空的",
+      "type": "text",
+      "datetime": "2025-11-02T08:30:36+00:00",
+      "tags": [],
+      "text": "另外我虽然看空，我是不会做空的。持有现金吃利息多爽，大仓位去做空是愚蠢的",
+      "content": "另外我虽然看空，我是不会做空的。<br>持有现金吃利息多爽，大仓位去做空是愚蠢的",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "319",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "41",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "🌭",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "💯",
+          "count": "3",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤬",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "117",
       "title": "我现在并没有完全减掉我的仓位，比如美股我NET和GOOG这两个我有信仰的公司依然不会减仓A股我持有的沪深300 ETF、还有那一揽子股票，也暂时还没减仓",
@@ -1133,72 +1189,6 @@
         {
           "emoji": "🤔",
           "count": "17",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "98",
-      "title": "我又要说政治不正确的话了，并不是我“飘了”，而是我一直以来的观点：我从来不敬畏市场因为市场本身是由人设计的，人设计的系统就会存在漏洞/BUG",
-      "type": "text",
-      "datetime": "2025-10-11T10:15:55+00:00",
-      "tags": [],
-      "text": "我又要说政治不正确的话了，并不是我“飘了”，而是我一直以来的观点：我从来不敬畏市场因为市场本身是由人设计的，人设计的系统就会存在漏洞/BUG。隔三差五市场先生就失灵一下，创造不对等的机会我会一直致力于做抓市场先生漏洞的人",
-      "content": "我又要说政治不正确的话了，并不是我“飘了”，而是我一直以来的观点：<br><br>我从来不敬畏市场<br><br>因为市场本身是由人设计的，人设计的系统就会存在漏洞/BUG。隔三差五市场先生就失灵一下，创造不对等的机会<br><br>我会一直致力于做抓市场先生漏洞的人",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "536",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "222",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "34",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "16",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "14",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤩",
-          "count": "10",
-          "isPaid": false
-        },
-        {
-          "emoji": "🙏",
-          "count": "6",
-          "isPaid": false
-        },
-        {
-          "emoji": "😱",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "2",
           "isPaid": false
         }
       ]

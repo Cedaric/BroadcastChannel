@@ -2,8 +2,8 @@
   "meta": {
     "title": "投机之路",
     "description": "",
-    "avatar": "/static/4f5925b436cba0ea9e90675b7a18fa31.jpg",
-    "totalPosts": 197,
+    "avatar": "/static/c8c12717861adc0e782f1723a069d06b.jpg",
+    "totalPosts": 198,
     "totalPages": 10,
     "currentPage": 10,
     "pageSize": 20,
@@ -13,6 +13,37 @@
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "26",
+      "title": "在二级市场喊单带货，在我的理解里就像：你开了一个跨境电商公司原本你只在Amazon、Ebay上卖但如果你同时开一个抖音账户做直播带货，且你的抖音号做的很成功，那么对你的销量和利润都会有巨量提升",
+      "type": "text",
+      "datetime": "2025-05-11T17:45:18+00:00",
+      "tags": [],
+      "text": "在二级市场喊单带货，在我的理解里就像：你开了一个跨境电商公司原本你只在Amazon、Ebay上卖但如果你同时开一个抖音账户做直播带货，且你的抖音号做的很成功，那么对你的销量和利润都会有巨量提升。为什么很多人不想带货呢？主要是害羞不敢露脸直播或者是做不出内容吸引客流或者是怕带到了无良商品而被客户投诉与骂，大机构则主要是怕吃政治铁拳👊",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/23\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">投机之路</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">在我看来一个成功的交易员一定要同时积极的扩张自己的影响力，让自己成为市场的一股重要力量之一</div>\n</small></blockquote></a>在二级市场喊单带货，在我的理解里就像：你开了一个跨境电商公司<br><br>原本你只在Amazon、Ebay上卖<br><br>但如果你同时开一个抖音账户做直播带货，且你的抖音号做的很成功，那么对你的销量和利润都会有巨量提升。<br><br>为什么很多人不想带货呢？主要是害羞不敢露脸直播或者是做不出内容吸引客流或者是怕带到了无良商品而被客户投诉与骂，大机构则主要是怕吃政治铁拳<i class=\"emoji\"><b>👊</b></i>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "100",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "19",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "😢",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "25",
       "title": "挺搞笑的是推特timeline上多出了很多开始夸ETH的内容，早干啥去了呢？大道至简：市场开始喊“VC和项目方全都不赚钱了”、“要完蛋了”，市场参与者开始卖儿卖女的时候，切换成“仅做多模式”，专注于买便宜货市场开始说“人类文明进入新的伟大进程”、“年末100万刀不是梦”、“meme是信息时代最伟大的发明”的时候切换成只卖出及无风险套利模式我会用一生践行这个理论",

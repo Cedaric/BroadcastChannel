@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/cf0c8ede0f36d447acf5968d3cb59507.jpg",
-    "totalPosts": 609,
+    "totalPosts": 611,
     "totalPages": 31,
     "currentPage": 29,
     "pageSize": 20,
@@ -13,6 +13,38 @@
     "prevPageUrl": "latest-540.json"
   },
   "data": [
+    {
+      "id": "61",
+      "title": "新项目介绍：早期项目风险高，本文只做介绍并非投资建议@LENX_Finance  Backed by @fraxfinance, @Bitcoin, @zetablockchain  @FjordFoundry旨在做流动性协议，并且支持BTC资产的抵押借贷",
+      "type": "text",
+      "datetime": "2024-01-07T06:45:14+00:00",
+      "tags": [],
+      "text": "新项目介绍：早期项目风险高，本文只做介绍并非投资建议@LENX_Finance  Backed by @fraxfinance, @Bitcoin, @zetablockchain  @FjordFoundry旨在做流动性协议，并且支持BTC资产的抵押借贷。聚合了市面上核心的借贷协议来提供最佳利率。目前官网除了借贷之外，还有BTC和ETH之间的桥。目前LBP正在进行中。官网介绍的四大产品：1⃣️xBTC BTC StablecoinLENX issues a stablecoin, xBTC, a BTC pegged asset. xBTC is the first stablecoin to seamlessly transfer and redeem native Bitcoin without a long wait on any chain.2⃣️Omnichain BTC SwapLENX's core lies in its ability to conduct swaps and facilitate liquidity for native Bitcoin into any chain.3⃣️XD, permissionless BAMM gaugeFrax BAMM is the core lending facility for LENX, allowing debt origination, customized non-custodial loans, and onboarding collateral assets to the omnichain economy with Frax.4⃣️BOX, Bitcoin-backed CDPLENX issues a USD-pegged stablecoin, BOX. BOX is the first stablecoin to collaterize native Bitcoin, currently in development and will be revealed at V2.",
+      "content": "新项目介绍：早期项目风险高，本文只做介绍并非投资建议<br><br><a href=\"https://t.me/LENX_Finance\" target=\"_blank\" title=\"@LENX_Finance\">@LENX_Finance</a>  <br>Backed by <a href=\"https://twitter.com/fraxfinance\" target=\"_blank\" rel=\"noopener\" title=\"@fraxfinance\">@fraxfinance</a>, <a href=\"https://twitter.com/Bitcoin\" target=\"_blank\" rel=\"noopener\" title=\"@Bitcoin\">@Bitcoin</a>, <a href=\"https://twitter.com/zetablockchain\" target=\"_blank\" rel=\"noopener\" title=\"@zetablockchain\">@zetablockchain</a>  <a href=\"https://twitter.com/FjordFoundry\" target=\"_blank\" rel=\"noopener\" title=\"@FjordFoundry\">@FjordFoundry</a><br>旨在做流动性协议，并且支持BTC资产的抵押借贷。聚合了市面上核心的借贷协议来提供最佳利率。目前官网除了借贷之外，还有BTC和ETH之间的桥。<br><br>目前LBP正在进行中。<br><br>官网介绍的四大产品：<br><i class=\"emoji\"><b>1⃣️</b></i>xBTC BTC Stablecoin<br>LENX issues a stablecoin, xBTC, a BTC pegged asset. xBTC is the first stablecoin to seamlessly transfer and redeem native Bitcoin without a long wait on any chain.<br><i class=\"emoji\"><b>2⃣️</b></i>Omnichain BTC Swap<br>LENX's core lies in its ability to conduct swaps and facilitate liquidity for native Bitcoin into any chain.<br><i class=\"emoji\"><b>3⃣️</b></i>XD, permissionless BAMM gauge<br>Frax BAMM is the core lending facility for LENX, allowing debt origination, customized non-custodial loans, and onboarding collateral assets to the omnichain economy with Frax.<br><i class=\"emoji\"><b>4⃣️</b></i>BOX, Bitcoin-backed CDP<br>LENX issues a USD-pegged stablecoin, BOX. BOX is the first stablecoin to collaterize native Bitcoin, currently in development and will be revealed at V2.<a class=\"tgme_widget_message_link_preview\" href=\"https://twitter.com/fraxfinance\" target=\"_blank\" rel=\"noopener\" title=\"¤ The Financial Engine of the Internet ¤ $FRAX (prev. $FXS)For onchain DeFi → @fraxfinanceFor strategic &amp; institutional news → @frax\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/10892314697fc9c1a3a0b8e738849d7b.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Frax Finance ¤<i class=\"emoji\" style=\"background-image:url('/static/7e7d4994d53a374a93644af2abe4b1de.png')\"><b>⛓️</b></i>¤ (@fraxfinance) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">¤ The Financial Engine of the Internet ¤ $FRAX (prev. $FXS)<br><br>For onchain DeFi → @fraxfinance<br>For strategic &amp; institutional news → @frax</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-01-07T06:22:55+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1743880598211678419?s=46",
+      "content": "<a href=\"https://x.com/nft_hu/status/1743880598211678419?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1743880598211678419?s=46\">https://x.com/nft_hu/status/1743880598211678419?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "59",
       "title": "群友秘籍: 如何选择TIA节点1）选佣金低于10%的，但不要选0；2）选20名以外的节点，符合cosmos生态去中心化诉求，有的项目方不给前20名空投；3）不要选交易所节点； 4）最好有restaking功能，自动复投，收益最大化",
@@ -342,38 +374,6 @@
         {
           "emoji": "👍",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "38",
-      "title": "一切都在新高中！MubiMiceFoox",
-      "type": "text",
-      "datetime": "2023-12-15T22:38:20+00:00",
-      "tags": [],
-      "text": "一切都在新高中！MubiMiceFoox",
-      "content": "一切都在新高中！<br>Mubi<br>Mice<br>Foox",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "37",
-      "title": "Fiona‘s daily news-12.15, 20231⃣️IDO related之前颇有造福效应的 @Turtsat和 $aution 最近都有新的IDO",
-      "type": "text",
-      "datetime": "2023-12-14T23:13:52+00:00",
-      "tags": [],
-      "text": "Fiona‘s daily news-12.15, 20231⃣️IDO related之前颇有造福效应的 @Turtsat和 $aution 最近都有新的IDO。昨天参与了Turtsat的IDO，兑换一个alpha白名单需要25000egg，购买成本200u，现在一个号的价值是3000u，相当于15倍。同时持有$Turt 不仅可以挖矿，turt自己也因为这样的价值持续上涨。我个人会继续持有。2⃣️ SOLS昨天介绍的solana头部铭文，价格已经从16sols一张突破到了50sols，单日3倍。同样LAMP作为龙二也吸引了很多关注 3⃣️Mice米老鼠继续冲锋，部分也有rats冲锋带动板块热度和热钱。我的平均成本是14sats左右，底部7sats，现在是53sats。4⃣️ATOM原子协议12000一张，正式200倍。现在阻碍价格上涨的一大原因是整张卖不可拆分。需要关注新的拆分方案是否可行。ATOM生态上的AVM ARCS REALM 和NFT toothy也都持有。5⃣️Bell挖矿昨天难度暴增，现在需要租算力挖矿。昨天挖了不少，如果场外价格稳定会考虑提出代挖服务。6⃣️Analysoor sol上新铭文，代币Zerohttps://x.com/leslienomad/status/1735242404670894223?s=207⃣️dotswap，BRC上的uniswap，稍微买了点——————————————————————————————————————————IDO1⃣️今晚11点Portal presale",
-      "content": "Fiona‘s daily news-12.15, 2023<br><br><i class=\"emoji\"><b>1⃣️</b></i>IDO related之前颇有造福效应的 <a href=\"https://twitter.com/Turtsat\" target=\"_blank\" rel=\"noopener\" title=\"@Turtsat\">@Turtsat</a>和 <a href=\"https://twitter.com/search?q=%24aution&amp;amp;src=cashtag_click\" target=\"_blank\" rel=\"noopener\" title=\"$aution\">$aution</a> 最近都有新的IDO。<br>昨天参与了Turtsat的IDO，兑换一个alpha白名单需要25000egg，购买成本200u，现在一个号的价值是3000u，相当于15倍。<br>同时持有$Turt 不仅可以挖矿，turt自己也因为这样的价值持续上涨。我个人会继续持有。<br><br><i class=\"emoji\"><b>2⃣️</b></i> SOLS<br>昨天介绍的solana头部铭文，价格已经从16sols一张突破到了50sols，单日3倍。<br>同样LAMP作为龙二也吸引了很多关注<br><br> <i class=\"emoji\"><b>3⃣️</b></i>Mice<br>米老鼠继续冲锋，部分也有rats冲锋带动板块热度和热钱。<br>我的平均成本是14sats左右，底部7sats，现在是53sats。<br><br><i class=\"emoji\"><b>4⃣️</b></i>ATOM原子协议12000一张，正式200倍。现在阻碍价格上涨的一大原因是整张卖不可拆分。需要关注新的拆分方案是否可行。<br>ATOM生态上的AVM ARCS REALM 和NFT toothy也都持有。<br><br><i class=\"emoji\"><b>5⃣️</b></i>Bell挖矿昨天难度暴增，现在需要租算力挖矿。昨天挖了不少，如果场外价格稳定会考虑提出代挖服务。<br><br><i class=\"emoji\"><b>6⃣️</b></i>Analysoor sol上新铭文，代币Zero<br><a href=\"https://x.com/leslienomad/status/1735242404670894223?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/leslienomad/status/1735242404670894223?s=20\">https://x.com/leslienomad/status/1735242404670894223?s=20</a><br><br><i class=\"emoji\"><b>7⃣️</b></i>dotswap，BRC上的uniswap，稍微买了点<br><br>——————————————————————————————————————————<br><br>IDO<br><i class=\"emoji\"><b>1⃣️</b></i>今晚11点Portal presale<a class=\"tgme_widget_message_link_preview\" href=\"https://twitter.com/Turtsat\" target=\"_blank\" rel=\"noopener\" title=\"Buidl, donate, and impact Bitcoin Ordinals &amp; BRC-20 through TurtsatDiscord : https://t.co/FyarUxtzLpTG: https://t.co/tIE1FECrRA  #Bitcoin #Ordinals #BRC20 #ORC20\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/b70960db0c67c3e7f4478068c01e0eb8.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">TurtSat (@Turtsat) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Buidl, donate, and impact Bitcoin Ordinals &amp; BRC-20 through Turtsat<br>Discord : https://t.co/FyarUxtzLp<br>TG: https://t.co/tIE1FECrRA<br><br>  #Bitcoin #Ordinals #BRC20 #ORC20</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "2",
           "isPaid": false
         }
       ]

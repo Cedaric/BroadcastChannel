@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/cf0c8ede0f36d447acf5968d3cb59507.jpg",
-    "totalPosts": 609,
+    "totalPosts": 611,
     "totalPages": 31,
     "currentPage": 18,
     "pageSize": 20,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-320.json"
   },
   "data": [
+    {
+      "id": "292",
+      "title": "MSTR 与BTC",
+      "type": "text",
+      "datetime": "2024-11-24T03:11:36+00:00",
+      "tags": [],
+      "text": "MSTR 与BTChttps://x.com/nft_hu/status/1860519813854167385",
+      "content": "MSTR 与BTC<br><a href=\"https://x.com/nft_hu/status/1860519813854167385\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1860519813854167385\">https://x.com/nft_hu/status/1860519813854167385</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1860519813854167385\" target=\"_blank\" rel=\"noopener\" title=\"随着 $BTC 逼近10万美金大关，微策略 MSTR 也成为本轮的最大赢家。伴随着掌声和欢呼，质疑和做空也是随之而来，最多的一种猜疑是：比特币/MSTR将会是下一个Luna么？有一部分玩家（包括香橼）也开始了 多$BTC 空 MSTR的组合交易，这背后的故事和逻辑是如何？且听我一一道来。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/2055327a22555996dae7e81e0efc2fe7.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">随着 $BTC 逼近10万美金大关，微策略 MSTR 也成为本轮的最大赢家。伴随着掌声和欢呼，质疑和做空也是随之而来，最多的一种猜疑是：<br>比特币/MSTR将会是下一个Luna么？<br><br>有一部分玩家（包括香橼）也开始了 多$BTC 空 MSTR的组合交易，这背后的故事和逻辑是如何？且听我一一道来。</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "8",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "291",
+      "title": "DeSci 来袭：",
+      "type": "text",
+      "datetime": "2024-11-16T08:17:44+00:00",
+      "tags": [],
+      "text": "DeSci 来袭：https://x.com/nft_hu/status/1857698789253066910",
+      "content": "DeSci 来袭：<a href=\"https://x.com/nft_hu/status/1857698789253066910\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1857698789253066910\">https://x.com/nft_hu/status/1857698789253066910</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1857698789253066910\" target=\"_blank\" rel=\"noopener\" title=\"BIO Protocol @bioprotocol 一下子推动了 人们对去中心化科学（DeSci）的关注。$BIO 是什么来头，又是如何吸BN投资？DeSci讲的是怎样一个故事？Let's Dive In～首先回到故事的起源： Bio Protocol。11月，Binance Labs宣布对BIO\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/1a1e5c0df372ba256968f3fce47194c7.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BIO Protocol @bioprotocol 一下子推动了 人们对去中心化科学（DeSci）的关注。<br>$BIO 是什么来头，又是如何吸BN投资？<br>DeSci讲的是怎样一个故事？<br>Let's Dive In～<br><br>首先回到故事的起源： Bio Protocol。11月，Binance Labs宣布对BIO</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "290",
       "title": "APE Chain 交易须知：1⃣官方桥：",
@@ -452,53 +494,6 @@
         {
           "emoji": "❤️",
           "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "272",
-      "title": "SUI的买入原因 ：",
-      "type": "text",
-      "datetime": "2024-09-21T13:16:49+00:00",
-      "tags": [],
-      "text": "SUI的买入原因 ：https://x.com/nft_hu/status/1837480926395486237",
-      "content": "SUI的买入原因 ：<a href=\"https://x.com/nft_hu/status/1837480926395486237\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1837480926395486237\">https://x.com/nft_hu/status/1837480926395486237</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1837480926395486237\" target=\"_blank\" rel=\"noopener\" title=\"最近有点懈怠，买 $SUI 这个行为已经很久了，但是关于为什么买入一直缺少一个整理。这条既是回顾我买入时候的思路，又是对是否还应该持有的一个分享。此外，SUI已经涨了不少，很多当时买入的人也有了一定的利润垫，大家谨慎FOMO。1⃣ $SUI 第一次进入我的视线回到9月7号，我开始整理所有强于\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/c329cf8bf55c89612c4f4be60e75397e.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">最近有点懈怠，买 $SUI 这个行为已经很久了，但是关于为什么买入一直缺少一个整理。<br><br>这条既是回顾我买入时候的思路，又是对是否还应该持有的一个分享。<br>此外，SUI已经涨了不少，很多当时买入的人也有了一定的利润垫，大家谨慎FOMO。<br><br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1⃣</b></i> $SUI 第一次进入我的视线<br>回到9月7号，我开始整理所有强于</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "3",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "271",
-      "title": "BTC SUI PEPE ETH 目前我的四大持仓 5成仓位，感觉Sui",
-      "type": "text",
-      "datetime": "2024-09-20T02:50:35+00:00",
-      "tags": [],
-      "text": "BTC SUI PEPE ETH 目前我的四大持仓 5成仓位，感觉Sui",
-      "content": "BTC SUI PEPE ETH 目前我的四大持仓 5成仓位，感觉Sui",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "31",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "👀",
-          "count": "8",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "5",
           "isPaid": false
         }
       ]

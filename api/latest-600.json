@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/cf0c8ede0f36d447acf5968d3cb59507.jpg",
-    "totalPosts": 611,
+    "avatar": "/static/3be14d12b5dd89ef1c593f0479d80a03.jpg",
+    "totalPosts": 612,
     "totalPages": 31,
     "currentPage": 31,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-580.json"
   },
   "data": [
+    {
+      "id": "18",
+      "title": "⚠️关于BTC生态你必须知道的事： ",
+      "type": "text",
+      "datetime": "2023-11-18T00:50:54+00:00",
+      "tags": [],
+      "text": "⚠️关于BTC生态你必须知道的事： https://x.com/nft_hu/status/1725677178497704060?s=20",
+      "content": "<i class=\"emoji\"><b>⚠️</b></i>关于BTC生态你必须知道的事： <a href=\"https://x.com/nft_hu/status/1725677178497704060?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1725677178497704060?s=20\">https://x.com/nft_hu/status/1725677178497704060?s=20</a>",
+      "reactions": [
+        {
+          "emoji": "👏",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "17",
       "title": "Fiona‘s daily news-11.16, 2023NEWS：1-美 SEC 推迟对 Hashdex 现货比特币 ETF 和灰度以太坊期货 ETF 的申请做出决定，盘面普涨",

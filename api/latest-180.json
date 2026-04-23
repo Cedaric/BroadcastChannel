@@ -2,17 +2,53 @@
   "meta": {
     "title": "投机之路",
     "description": "",
-    "avatar": "/static/a9472b38af71ae9af327d81a3aec164a.jpg",
-    "totalPosts": 200,
-    "totalPages": 10,
+    "avatar": "/static/2dfeecb443a1a860e107d718a805b82b.jpg",
+    "totalPosts": 201,
+    "totalPages": 11,
     "currentPage": 10,
     "pageSize": 20,
-    "hasNextPage": false,
+    "hasNextPage": true,
     "hasPrevPage": true,
-    "nextPageUrl": null,
+    "nextPageUrl": "latest-200.json",
     "prevPageUrl": "latest-160.json"
   },
   "data": [
+    {
+      "id": "31",
+      "title": "今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些",
+      "type": "text",
+      "datetime": "2025-05-28T07:34:35+00:00",
+      "tags": [],
+      "text": "今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些。我不会选择买日经225 ETF，因为里面有一些我认为会被中国抢市场份额而导致衰落的公司比如丰田汽车。理由（抄别人作业）：GCR说过他整体而言很看好日本&马来西亚，其中日本的投资逻辑是：以前过剩的老龄人口在逐渐的去世，人口比例在慢慢恢复平衡，驱动经济的复苏。日本经济当前=熊末牛初的状态",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-31-0\" popovertargetaction=\"show\">\n        <img src=\"/static/e5a94f1956709b610287b2de4b65cfd5.jpg\" alt=\"今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-31-0\" popovertarget=\"modal-31-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/e5a94f1956709b610287b2de4b65cfd5.jpg\" alt=\"今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些\" loading=\"lazy\" />\n      </button>\n    </div>今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些。<br><br>我不会选择买日经225 ETF，因为里面有一些我认为会被中国抢市场份额而导致衰落的公司比如丰田汽车。<br><br>理由（抄别人作业）：<br>GCR说过他整体而言很看好日本&amp;马来西亚，其中日本的投资逻辑是：以前过剩的老龄人口在逐渐的去世，人口比例在慢慢恢复平衡，驱动经济的复苏。<br><br>日本经济当前=熊末牛初的状态",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "107",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "36",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "13",
+          "isPaid": false
+        },
+        {
+          "emoji": "✍",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "7",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "28",
       "title": "今天准备卖出剩余的1/3的$TLT调仓成$BIL，我的观点变为美国的通胀率会上升比较头疼的是之前NET没有加仓到位，感觉仓位还是干的不够多，Cloudflare注定会在5-10年之后成为全球第一的电信巨头，成为世界500强企业之一",
@@ -813,72 +849,6 @@
         {
           "emoji": "👏",
           "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "title": "为什么要建立此频道：因为- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结",
-      "type": "text",
-      "datetime": "2025-04-25T22:33:28+00:00",
-      "tags": [],
-      "text": "为什么要建立此频道：因为- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结。- 我不想我的推特timeline上发一大堆个人主观感受或者与市场没什么关联的内容而降低我的内容质量- 我的推特现在有太多能影响我的未来的重要的人关注了，导致我发什么东西都要组织语言，不能乱发，没有那种轻松的感觉- 0xenas和Joshua都建立了自己的tg频道所以我也想搞一个我希望这个频道能多发点我日常的小技巧，交易点子，商业想法，对市场的看法，就像我以前知乎经常发的想法一样随意",
-      "content": "为什么要建立此频道：<br>因为<br>- 我感觉在推特上无法自由的说很多我想说的话，比如我以前经常说的“加密市场就是一个财富转移游戏，从90%的散户转移到10%的精英手里”，这种话我现在没法在推特说，因为：这在推特上不政治正确，不利于团结。<br>- 我不想我的推特timeline上发一大堆个人主观感受或者与市场没什么关联的内容而降低我的内容质量<br>- 我的推特现在有太多能影响我的未来的重要的人关注了，导致我发什么东西都要组织语言，不能乱发，没有那种轻松的感觉<br>- 0xenas和Joshua都建立了自己的tg频道所以我也想搞一个<br><br>我希望这个频道能多发点我日常的小技巧，交易点子，商业想法，对市场的看法，就像我以前知乎经常发的想法一样随意",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "812",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "122",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "78",
-          "isPaid": false
-        },
-        {
-          "emoji": "🌭",
-          "count": "27",
-          "isPaid": false
-        },
-        {
-          "emoji": "😈",
-          "count": "12",
-          "isPaid": false
-        },
-        {
-          "emoji": "🎉",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "🙏",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "😁",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤬",
-          "count": "5",
           "isPaid": false
         }
       ]

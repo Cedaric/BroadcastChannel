@@ -2,9 +2,9 @@
   "meta": {
     "title": "投机之路",
     "description": "",
-    "avatar": "/static/a9472b38af71ae9af327d81a3aec164a.jpg",
-    "totalPosts": 200,
-    "totalPages": 10,
+    "avatar": "/static/2dfeecb443a1a860e107d718a805b82b.jpg",
+    "totalPosts": 201,
+    "totalPages": 11,
     "currentPage": 9,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,47 @@
     "prevPageUrl": "latest-140.json"
   },
   "data": [
+    {
+      "id": "56",
+      "title": "要说全中国白手起家00后富豪榜，我现在排个前10完全没问题，可能前5都很轻松但是我不会去参与任何媒体的这种类型的采访了",
+      "type": "text",
+      "datetime": "2025-08-15T19:28:47+00:00",
+      "tags": [],
+      "text": "要说全中国白手起家00后富豪榜，我现在排个前10完全没问题，可能前5都很轻松但是我不会去参与任何媒体的这种类型的采访了。其实无论是OKX还是Binance还是好多圈内的媒体，都想采访我给我发过邀约，我想要更大的名气的话简直是再简单不过的事情，但是我全都拒绝了。因为我已经认识到了这么做会带来很多不必要的麻烦包括你们有些人前几天看到的👀实盘我看到有人讨论就立马隐藏掉了，也没做任何正面回复我现在已经过了那个爱装逼的阶段（虽然偶尔还是装一下但是我永远都只露我的一角😁）",
+      "content": "要说全中国白手起家00后富豪榜，我现在排个前10完全没问题，可能前5都很轻松<br><br>但是我不会去参与任何媒体的这种类型的采访了。其实无论是OKX还是Binance还是好多圈内的媒体，都想采访我给我发过邀约，我想要更大的名气的话简直是再简单不过的事情，但是我全都拒绝了。因为我已经认识到了这么做会带来很多不必要的麻烦<br><br>包括你们有些人前几天看到的<i class=\"emoji\"><b>👀</b></i>实盘<br>我看到有人讨论就立马隐藏掉了，也没做任何正面回复<br><br>我现在已经过了那个爱装逼的阶段（虽然偶尔还是装一下但是我永远都只露我的一角<i class=\"emoji\"><b>😁</b></i>）",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "150",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "65",
+          "isPaid": false
+        },
+        {
+          "emoji": "😁",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "😈",
+          "count": "9",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🤔",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "55",
       "title": "要多去看正在成功路上的小登、后辈们的发文，有好多营养成分极高的发言像我以前就是纯纯爱装逼爱显摆、我享受这种被人崇拜的感觉才发那么多东西而我现在的风格就不会发这些东西了",
@@ -835,42 +876,6 @@
         {
           "emoji": "🔥",
           "count": "5",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "31",
-      "title": "今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些",
-      "type": "text",
-      "datetime": "2025-05-28T07:34:35+00:00",
-      "tags": [],
-      "text": "今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些。我不会选择买日经225 ETF，因为里面有一些我认为会被中国抢市场份额而导致衰落的公司比如丰田汽车。理由（抄别人作业）：GCR说过他整体而言很看好日本&马来西亚，其中日本的投资逻辑是：以前过剩的老龄人口在逐渐的去世，人口比例在慢慢恢复平衡，驱动经济的复苏。日本经济当前=熊末牛初的状态",
-      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-31-0\" popovertargetaction=\"show\">\n        <img src=\"/static/e5a94f1956709b610287b2de4b65cfd5.jpg\" alt=\"今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-31-0\" popovertarget=\"modal-31-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/e5a94f1956709b610287b2de4b65cfd5.jpg\" alt=\"今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些\" loading=\"lazy\" />\n      </button>\n    </div>今天开始建仓一些日本股市的半导体股票，不多，只是建个小仓位让投资组合更多元化一些。<br><br>我不会选择买日经225 ETF，因为里面有一些我认为会被中国抢市场份额而导致衰落的公司比如丰田汽车。<br><br>理由（抄别人作业）：<br>GCR说过他整体而言很看好日本&amp;马来西亚，其中日本的投资逻辑是：以前过剩的老龄人口在逐渐的去世，人口比例在慢慢恢复平衡，驱动经济的复苏。<br><br>日本经济当前=熊末牛初的状态",
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "107",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "36",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "13",
-          "isPaid": false
-        },
-        {
-          "emoji": "✍",
-          "count": "9",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "7",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/608265d28d1ea2630fddf6e185a5c6e3.jpg",
-    "totalPosts": 623,
+    "totalPosts": 625,
     "totalPages": 32,
     "currentPage": 15,
     "pageSize": 20,
@@ -13,6 +13,58 @@
     "prevPageUrl": "latest-260.json"
   },
   "data": [
+    {
+      "id": "367",
+      "title": "多单平了，现货继续",
+      "type": "text",
+      "datetime": "2025-08-22T14:24:41+00:00",
+      "tags": [],
+      "text": "多单平了，现货继续",
+      "content": "多单平了，现货继续",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "17",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "366",
+      "title": "18.7买入SBET 重新建仓一点",
+      "type": "text",
+      "datetime": "2025-08-22T14:09:58+00:00",
+      "tags": [],
+      "text": "18.7买入SBET 重新建仓一点",
+      "content": "18.7买入SBET 重新建仓一点",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "👎",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "365",
       "title": "美联储主席鲍威尔：失业率保持稳定，使美联储在考虑调整政策立场时能够“谨慎行事”",
@@ -373,63 +425,6 @@
         },
         {
           "emoji": "😍",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "347",
-      "title": "为自己鼓掌👏",
-      "type": "text",
-      "datetime": "2025-08-01T14:16:57+00:00",
-      "tags": [],
-      "text": "为自己鼓掌👏",
-      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/346\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">亏损了一次，提示我对行情的理解不正确。 握着现金休息一下，看的更明白再出发。 目前还是看好ETH华尔街叙事，但是对于蜂拥而至的币股感到有点生理不适。</div>\n</small></blockquote></a>为自己鼓掌<i class=\"emoji\"><b>👏</b></i>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "29",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        },
-        {
-          "emoji": "👏",
-          "count": "3",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "2",
-          "isPaid": false
-        },
-        {
-          "emoji": "🔥",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "346",
-      "title": "亏损了一次，提示我对行情的理解不正确",
-      "type": "text",
-      "datetime": "2025-07-29T15:16:01+00:00",
-      "tags": [],
-      "text": "亏损了一次，提示我对行情的理解不正确。握着现金休息一下，看的更明白再出发。目前还是看好ETH华尔街叙事，但是对于蜂拥而至的币股感到有点生理不适。",
-      "content": "亏损了一次，提示我对行情的理解不正确。<br>握着现金休息一下，看的更明白再出发。<br>目前还是看好ETH华尔街叙事，但是对于蜂拥而至的币股感到有点生理不适。",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "27",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤣",
           "count": "2",
           "isPaid": false
         }

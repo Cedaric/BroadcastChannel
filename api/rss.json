@@ -5,6 +5,14 @@
   "home_page_url": "https://fiona.ceda.is/",
   "items": [
     {
+      "url": "https://fiona.ceda.is/posts/673",
+      "title": "周末聊一聊太空🚀",
+      "description": "",
+      "date_published": "2026-05-02T14:33:50.000Z",
+      "tags": [],
+      "content_html": "周末聊一聊太空<i class=\"emoji\"><b>🚀</b></i>。本周零零碎碎也发生了不少事。<br><br>事件<i class=\"emoji\"><b>1️⃣</b></i><br>主要先说说FCC频谱新规（4月30日）<br>“美国联邦通讯委员会（FCC）于4月30日更新低地球轨道卫星频谱分配规则，取代1990年代的旧框架，新规允许以现代技术标准协调干扰，可解锁最多7倍的太空宽频容量。”<br><br>事件<i class=\"emoji\"><b>2️⃣</b></i> <br>$ASTS获FCC批准额外部署223颗卫星，但BlueBird-7发射出现异常，公司已转向Block-2卫星生产，BlueBird 8-10预计近期可出货，目标2026年底前将45-60颗卫星送入轨道。<br><br>事件<i class=\"emoji\"><b>3️⃣</b></i><br>Rocket Lab本周完成两次发射，分别来自不同发射场，48小时内完成，任务对象包括美国国防测试与日本JAXA。即将于5月22日执行Synspective地球影像星座「Viva La StriX」任务。<br>下周他的财报公布日：5月7日。<br><br>事件<i class=\"emoji\"><b>4️⃣</b></i><br>亚马逊加持亚马逊CEO Andy Jassy在法说会上指出手机直连卫星需求「非常庞大」，AT&amp;T CEO亦确认美国市场足以支持多家LEO星座运营商共存，不会赢者全拿。"
+    },
+    {
       "url": "https://fiona.ceda.is/posts/672",
       "title": "【Fiona日报】2026-05-02 周六━━ 今日最重要一件事 ━━S&P 500 和 Nasdaq 双双刷新历史收盘纪录——但驱动逻辑是\"双重侥幸\"，不是基本面转折",
       "description": "",
@@ -399,14 +407,6 @@
       "date_published": "2026-04-15T15:24:22.000Z",
       "tags": [],
       "content_html": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/615\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买入一些 $NOW</div>\n</small></blockquote></a>For now, $NOW pumped from 84-93"
-    },
-    {
-      "url": "https://fiona.ceda.is/posts/622",
-      "title": "刷过zkSync Lite的朋友记得查一下余额，该链5月4号永久结束，之后资产都会取不出",
-      "description": "",
-      "date_published": "2026-04-15T12:57:26.000Z",
-      "tags": [],
-      "content_html": "刷过zkSync Lite的朋友记得查一下余额，该链5月4号永久结束，之后资产都会取不出<br><a href=\"https://x.com/nft_hu/status/2044397562141266075?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/2044397562141266075?s=20\">https://x.com/nft_hu/status/2044397562141266075?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/2044397562141266075?s=20\" target=\"_blank\" rel=\"noopener\" title=\"今天白捡了3000美金，感谢 @meekdonald起因是收到@meekdonald 的私信，提醒我有一个和我关联的地址里还有3000多美金在ZK sync Lite上。这个上古的名字之前刷过ZK空投的朋友应该都还记得。而zkSync lite将在不久之后的5月4号永久关停，之后在这条链上的钱都永久取不出来。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/053250f42f78ba1daaac66e93da76eb8.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今天白捡了3000美金，感谢 @meekdonald<br><br>起因是收到@meekdonald 的私信，提醒我有一个和我关联的地址里还有3000多美金在ZK sync Lite上。这个上古的名字之前刷过ZK空投的朋友应该都还记得。<br><br>而zkSync lite将在不久之后的5月4号永久关停，之后在这条链上的钱都永久取不出来。</div>\n</a>"
     }
   ]
 }

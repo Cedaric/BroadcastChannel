@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/428c51dfad0f2db70b3dd6c4340a360f.jpg",
-    "totalPosts": 639,
+    "avatar": "/static/99776e26fc7f5e3cc4d3cc5ac966d9c1.jpg",
+    "totalPosts": 640,
     "totalPages": 32,
     "currentPage": 29,
     "pageSize": 20,
@@ -13,6 +13,22 @@
     "prevPageUrl": "latest-540.json"
   },
   "data": [
+    {
+      "id": "94",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-03-09T10:25:20+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1766409858126094749?s=46",
+      "content": "<a href=\"https://x.com/nft_hu/status/1766409858126094749?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1766409858126094749?s=46\">https://x.com/nft_hu/status/1766409858126094749?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "93",
       "title": "AR SOL CKB 加仓",
@@ -356,22 +372,6 @@
         {
           "emoji": "❤️",
           "count": "15",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "71",
-      "title": "",
-      "type": "text",
-      "datetime": "2024-02-09T03:06:03+00:00",
-      "tags": [],
-      "text": "https://x.com/nft_hu/status/1755789988523082139?s=20",
-      "content": "<a href=\"https://x.com/nft_hu/status/1755789988523082139?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1755789988523082139?s=20\">https://x.com/nft_hu/status/1755789988523082139?s=20</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "2",
           "isPaid": false
         }
       ]

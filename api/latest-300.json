@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/428c51dfad0f2db70b3dd6c4340a360f.jpg",
-    "totalPosts": 639,
+    "avatar": "/static/99776e26fc7f5e3cc4d3cc5ac966d9c1.jpg",
+    "totalPosts": 640,
     "totalPages": 32,
     "currentPage": 16,
     "pageSize": 20,
@@ -13,6 +13,32 @@
     "prevPageUrl": "latest-280.json"
   },
   "data": [
+    {
+      "id": "362",
+      "title": "So far $SOL good",
+      "type": "text",
+      "datetime": "2025-08-14T03:37:29+00:00",
+      "tags": [],
+      "text": "So far $SOL good",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/360\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">买了点SOL</div>\n</small></blockquote></a>So far $SOL good",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "25",
+          "isPaid": false
+        },
+        {
+          "emoji": "🥰",
+          "count": "2",
+          "isPaid": false
+        },
+        {
+          "emoji": "👎",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "361",
       "title": "今晚必看：",
@@ -420,22 +446,6 @@
         {
           "emoji": "😁",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "342",
-      "title": "SEBT减仓，现在大头是BMNR",
-      "type": "text",
-      "datetime": "2025-07-23T15:12:36+00:00",
-      "tags": [],
-      "text": "SEBT减仓，现在大头是BMNR",
-      "content": "SEBT减仓，现在大头是BMNR",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "6",
           "isPaid": false
         }
       ]

@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/428c51dfad0f2db70b3dd6c4340a360f.jpg",
-    "totalPosts": 636,
+    "totalPosts": 639,
     "totalPages": 32,
     "currentPage": 24,
     "pageSize": 20,
@@ -13,6 +13,54 @@
     "prevPageUrl": "latest-440.json"
   },
   "data": [
+    {
+      "id": "195",
+      "title": "买了一点 AAVE 弱市场里的强势币",
+      "type": "text",
+      "datetime": "2024-08-03T08:57:05+00:00",
+      "tags": [],
+      "text": "买了一点 AAVE 弱市场里的强势币",
+      "content": "买了一点 AAVE 弱市场里的强势币",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "title": "回看只能说卖的好！ 等一个好位置再抄底",
+      "type": "text",
+      "datetime": "2024-08-01T06:07:42+00:00",
+      "tags": [],
+      "text": "回看只能说卖的好！ 等一个好位置再抄底",
+      "content": "回看只能说卖的好！ 等一个好位置再抄底",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "29",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "title": "止盈减仓1/3",
+      "type": "text",
+      "datetime": "2024-07-29T14:39:52+00:00",
+      "tags": [],
+      "text": "止盈减仓1/3",
+      "content": "止盈减仓1/3",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "13",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "192",
       "title": "Fiona’s daily news, &.231⃣️重大消息1-ETH ETF通过并将开始正式交易2-随着选举进入未知领域，拜登的退出刺激 Polymarket 日交易量创纪录的 2800 万美元，对美国总统选举获胜者的赌注飙升至超过 3 亿美元2⃣️公司：1-传英伟达将推出中国特供版「Blackwell」架构 B20 加速器2-马斯克：特斯拉有望 2026 年大规模生产人形机器人，供其他公司使用3- 微软技术故障造成全球损失或超 10 亿美元3⃣️行情预测1-有分析师指出：在特朗普参加比特币大会之前获利了结将会付出昂贵的代价",
@@ -328,59 +376,6 @@
         {
           "emoji": "❤️",
           "count": "7",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "175",
-      "title": "Fiona’s daily news 6.4💵经济1️⃣ 多只纽交所股票显示近100%下跌，纽交所称系技术问题",
-      "type": "text",
-      "datetime": "2024-06-04T15:24:07+00:00",
-      "tags": [],
-      "text": "Fiona’s daily news 6.4💵经济1️⃣ 多只纽交所股票显示近100%下跌，纽交所称系技术问题。https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/2️⃣ AMD挑战英伟达，新AI芯片性能是H200的1.3倍。 https://www.capacitymedia.com/article/2dbhdi09uei52nt4ms5c0/news/amds-ai-chips-to-challenge-nvidia3️⃣ Imec和ASML在荷兰开设高NA EUV光刻实验室，为芯片制造商提供测试版高NA EUV扫描仪。https://www.reuters.com/technology/asml-belgiums-imec-open-laboratory-test-newest-chip-making-tool-2024-06-03/🪙币圈1️⃣ 泰国证交会批准One Asset Management推出首个比特币ETF，仅限富裕和机构投资者。https://www.bangkokpost.com/business/investment/2804674/thai-sec-approves-first-bitcoin-etf2️⃣ Binance将从2024年6月30日起限制EEA用户使用未授权的稳定币。https://www.binance.com/en/support/announcement/mica-stablecoin-rules-implementation-announcement-884c621e335540e0add5fdce315971213️⃣ 澳大利亚首个现货比特币ETF IBTC将于周二在Cboe Australia上市。 https://www.coindesk.com/policy/2024/06/03/australiass-first-spot-bitcoin-etf-with-direct-btc-holdings-to-go-live-on-tuesday/?utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_medium=social4️⃣ CoinShares：5月加密投资产品流入20亿美元，以太坊市场情绪“转变”。https://www.theblock.co/post/298181/crypto-investment-products-2-billion-inflows-may-turnaround-ethereum-sentiment-coinshares5️⃣ GameStop股票飙升，周一早盘上涨超75%。https://x.com/abc/status/1797881227216670820?s=466️⃣ “MEME游乐园”Pump.fun：代币发行量占Solana超七成，3人团队创造3000万美元收入。https://x.com/theblock__/status/1797948767909425566?s=467️⃣ 美国现货比特币ETF周一净流入1.0512亿美元，Fidelity的FBTC领跑。 https://www.theblock.co/post/298302/spot-bitcoin-etfs-2-billion",
-      "content": "Fiona’s daily news 6.4<br><br><i class=\"emoji\"><b>💵</b></i>经济<br><i class=\"emoji\"><b>1️⃣</b></i> 多只纽交所股票显示近100%下跌，纽交所称系技术问题。<br><a href=\"https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/\">https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/</a><br><i class=\"emoji\"><b>2️⃣</b></i> AMD挑战英伟达，新AI芯片性能是H200的1.3倍。 <br><a href=\"https://www.capacitymedia.com/article/2dbhdi09uei52nt4ms5c0/news/amds-ai-chips-to-challenge-nvidia\" target=\"_blank\" rel=\"noopener\" title=\"https://www.capacitymedia.com/article/2dbhdi09uei52nt4ms5c0/news/amds-ai-chips-to-challenge-nvidia\">https://www.capacitymedia.com/article/2dbhdi09uei52nt4ms5c0/news/amds-ai-chips-to-challenge-nvidia</a><br><i class=\"emoji\"><b>3️⃣</b></i> Imec和ASML在荷兰开设高NA EUV光刻实验室，为芯片制造商提供测试版高NA EUV扫描仪。<br><a href=\"https://www.reuters.com/technology/asml-belgiums-imec-open-laboratory-test-newest-chip-making-tool-2024-06-03/\" target=\"_blank\" rel=\"noopener\" title=\"https://www.reuters.com/technology/asml-belgiums-imec-open-laboratory-test-newest-chip-making-tool-2024-06-03/\">https://www.reuters.com/technology/asml-belgiums-imec-open-laboratory-test-newest-chip-making-tool-2024-06-03/</a><br><br><i class=\"emoji\"><b>🪙</b></i>币圈<br><i class=\"emoji\"><b>1️⃣</b></i> 泰国证交会批准One Asset Management推出首个比特币ETF，仅限富裕和机构投资者。<br><a href=\"https://www.bangkokpost.com/business/investment/2804674/thai-sec-approves-first-bitcoin-etf\" target=\"_blank\" rel=\"noopener\" title=\"https://www.bangkokpost.com/business/investment/2804674/thai-sec-approves-first-bitcoin-etf\">https://www.bangkokpost.com/business/investment/2804674/thai-sec-approves-first-bitcoin-etf</a><br><i class=\"emoji\"><b>2️⃣</b></i> Binance将从2024年6月30日起限制EEA用户使用未授权的稳定币。<br><a href=\"https://www.binance.com/en/support/announcement/mica-stablecoin-rules-implementation-announcement-884c621e335540e0add5fdce31597121\" target=\"_blank\" rel=\"noopener\" title=\"https://www.binance.com/en/support/announcement/mica-stablecoin-rules-implementation-announcement-884c621e335540e0add5fdce31597121\">https://www.binance.com/en/support/announcement/mica-stablecoin-rules-implementation-announcement-884c621e335540e0add5fdce31597121</a><br><i class=\"emoji\"><b>3️⃣</b></i> 澳大利亚首个现货比特币ETF IBTC将于周二在Cboe Australia上市。 <br><a href=\"https://www.coindesk.com/policy/2024/06/03/australiass-first-spot-bitcoin-etf-with-direct-btc-holdings-to-go-live-on-tuesday/?utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_term=organic&amp;utm_content=editorial&amp;utm_medium=social\" target=\"_blank\" rel=\"noopener\" title=\"https://www.coindesk.com/policy/2024/06/03/australiass-first-spot-bitcoin-etf-with-direct-btc-holdings-to-go-live-on-tuesday/?utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_term=organic&amp;utm_content=editorial&amp;utm_medium=social\">https://www.coindesk.com/policy/2024/06/03/australiass-first-spot-bitcoin-etf-with-direct-btc-holdings-to-go-live-on-tuesday/?utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_term=organic&amp;utm_content=editorial&amp;utm_medium=social</a><br><i class=\"emoji\"><b>4️⃣</b></i> CoinShares：5月加密投资产品流入20亿美元，以太坊市场情绪“转变”。<br><a href=\"https://www.theblock.co/post/298181/crypto-investment-products-2-billion-inflows-may-turnaround-ethereum-sentiment-coinshares\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblock.co/post/298181/crypto-investment-products-2-billion-inflows-may-turnaround-ethereum-sentiment-coinshares\">https://www.theblock.co/post/298181/crypto-investment-products-2-billion-inflows-may-turnaround-ethereum-sentiment-coinshares</a><br><i class=\"emoji\"><b>5️⃣</b></i> GameStop股票飙升，周一早盘上涨超75%。<br><a href=\"https://x.com/abc/status/1797881227216670820?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/abc/status/1797881227216670820?s=46\">https://x.com/abc/status/1797881227216670820?s=46</a><br><i class=\"emoji\"><b>6️⃣</b></i> “MEME游乐园”Pump.fun：代币发行量占Solana超七成，3人团队创造3000万美元收入。<br><a href=\"https://x.com/theblock__/status/1797948767909425566?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/theblock__/status/1797948767909425566?s=46\">https://x.com/theblock__/status/1797948767909425566?s=46</a><br><i class=\"emoji\"><b>7️⃣</b></i> 美国现货比特币ETF周一净流入1.0512亿美元，Fidelity的FBTC领跑。 <br><a href=\"https://www.theblock.co/post/298302/spot-bitcoin-etfs-2-billion\" target=\"_blank\" rel=\"noopener\" title=\"https://www.theblock.co/post/298302/spot-bitcoin-etfs-2-billion\">https://www.theblock.co/post/298302/spot-bitcoin-etfs-2-billion</a><a class=\"tgme_widget_message_link_preview\" href=\"https://www.cbsnews.com/news/nyse-technical-issue-warren-buffett-berkshire-hathaway/\" target=\"_blank\" rel=\"noopener\" title=\"New York Stock Exchange technical troubles cause Berkshire Hathaway shares to appear down almost 100%.\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/bbb75d3a5ec9c9b9eaa02d745dcb018a.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">CBS News</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">NYSE glitch sends Berkshire Hathaway shares down nearly 100%</div>\n  <div class=\"link_preview_description\" dir=\"auto\">New York Stock Exchange technical troubles cause Berkshire Hathaway shares to appear down almost 100%.</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "174",
-      "title": "Fiona’s daily news🌏 政治1️⃣ 特朗普被定罪当天政治捐款激增",
-      "type": "text",
-      "datetime": "2024-06-03T12:07:24+00:00",
-      "tags": [],
-      "text": "Fiona’s daily news🌏 政治1️⃣ 特朗普被定罪当天政治捐款激增。2️⃣ 4月美国个人消费支出（PCE）物价指数同比上涨2.7%，核心PCE同比增长2.8%。总体通胀依然顽固。💵 经济1️⃣ Nvidia发布下一代AI芯片，市值增加3500亿美元。2️⃣ 香港公布新法规下17家申请加密交易平台名单。3️⃣ 中国和阿联酋肯定央行数字货币（CBDC）在跨境贸易中的作用。🪙 币圈1️⃣ 自ETF获批以来，超30亿美元ETH从交易所提现。2️⃣ Term Structure固定收益协议在以太坊上线。3️⃣ Notcoin 24小时交易额达46.73亿美元。4️⃣ 美国海军寻找合作伙伴开发区块链安全系统。5️⃣ GameStop（GME）因“Roaring Kitty”重返Reddit股价飙升。6️⃣ Binance账户因下载KOL推广的谷歌插件Aggr被黑，用户曝光100万美元被盗。",
-      "content": "Fiona’s daily news<br><br><i class=\"emoji\"><b>🌏</b></i> 政治<br><i class=\"emoji\"><b>1️⃣</b></i> 特朗普被定罪当天政治捐款激增。<br><i class=\"emoji\"><b>2️⃣</b></i> 4月美国个人消费支出（PCE）物价指数同比上涨2.7%，核心PCE同比增长2.8%。总体通胀依然顽固。<br><br><i class=\"emoji\"><b>💵</b></i> 经济<br><i class=\"emoji\"><b>1️⃣</b></i> Nvidia发布下一代AI芯片，市值增加3500亿美元。<br><i class=\"emoji\"><b>2️⃣</b></i> 香港公布新法规下17家申请加密交易平台名单。<br><i class=\"emoji\"><b>3️⃣</b></i> 中国和阿联酋肯定央行数字货币（CBDC）在跨境贸易中的作用。<br><br><i class=\"emoji\"><b>🪙</b></i> 币圈<br><i class=\"emoji\"><b>1️⃣</b></i> 自ETF获批以来，超30亿美元ETH从交易所提现。<br><i class=\"emoji\"><b>2️⃣</b></i> Term Structure固定收益协议在以太坊上线。<br><i class=\"emoji\"><b>3️⃣</b></i> Notcoin 24小时交易额达46.73亿美元。<br><i class=\"emoji\"><b>4️⃣</b></i> 美国海军寻找合作伙伴开发区块链安全系统。<br><i class=\"emoji\"><b>5️⃣</b></i> GameStop（GME）因“Roaring Kitty”重返Reddit股价飙升。<br><i class=\"emoji\"><b>6️⃣</b></i> Binance账户因下载KOL推广的谷歌插件Aggr被黑，用户曝光100万美元被盗。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "4",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "173",
-      "title": "Rez追在今日高点，不过这个筹码结构要拉很好拉，跌多了补仓",
-      "type": "text",
-      "datetime": "2024-06-02T09:52:14+00:00",
-      "tags": [],
-      "text": "Rez追在今日高点，不过这个筹码结构要拉很好拉，跌多了补仓",
-      "content": "Rez追在今日高点，不过这个筹码结构要拉很好拉，跌多了补仓",
-      "reactions": [
-        {
-          "emoji": "🦄",
-          "count": "7",
-          "isPaid": false
-        },
-        {
-          "emoji": "💯",
-          "count": "4",
           "isPaid": false
         }
       ]

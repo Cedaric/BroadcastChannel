@@ -2,9 +2,9 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/99776e26fc7f5e3cc4d3cc5ac966d9c1.jpg",
-    "totalPosts": 640,
-    "totalPages": 32,
+    "avatar": "/static/93b22fbf098d99312d7ca4d6d80d12a1.jpg",
+    "totalPosts": 642,
+    "totalPages": 33,
     "currentPage": 13,
     "pageSize": 20,
     "hasNextPage": true,
@@ -13,6 +13,48 @@
     "prevPageUrl": "latest-220.json"
   },
   "data": [
+    {
+      "id": "426",
+      "title": "铜选股～看多铜价",
+      "type": "text",
+      "datetime": "2025-10-07T14:18:38+00:00",
+      "tags": [],
+      "text": "铜选股～看多铜价",
+      "content": "<div class=\"image-list-container image-list-odd\">\n      <button class=\"image-preview-button image-preview-wrap\" popovertarget=\"modal-426-0\" popovertargetaction=\"show\">\n        <img src=\"/static/d3d5e6f263f1aa46af3ed9789e0b0562.jpg\" alt=\"铜选股～看多铜价\" loading=\"lazy\" />\n      </button>\n      <button class=\"image-preview-button modal\" id=\"modal-426-0\" popovertarget=\"modal-426-0\" popovertargetaction=\"hide\" popover>\n        <img class=\"modal-img\" src=\"/static/d3d5e6f263f1aa46af3ed9789e0b0562.jpg\" alt=\"铜选股～看多铜价\" loading=\"lazy\" />\n      </button>\n    </div>铜选股～看多铜价",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "19",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "4",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "425",
+      "title": "MNT冲刺继续",
+      "type": "text",
+      "datetime": "2025-10-06T11:49:54+00:00",
+      "tags": [],
+      "text": "MNT冲刺继续",
+      "content": "<a class=\"tgme_widget_message_reply user-color-default\" href=\"/posts/423\" \"=\"\"><blockquote><small>\n<div class=\"tgme_widget_message_author accent_color\">\n  <span class=\"tgme_widget_message_author_name\" dir=\"auto\">Fiona’s daily news</span>\n</div>\n<div class=\"tgme_widget_message_text js-message_reply_text\" dir=\"auto\">BTC 突破 追回来了。首次买入 MNT</div>\n</small></blockquote></a>MNT冲刺继续",
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "6",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "424",
       "title": "持仓体验尚可",
@@ -381,43 +423,6 @@
         {
           "emoji": "🤮",
           "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "405",
-      "title": "周六买了点 $WLFI k线走势+回购消息，仓位不大",
-      "type": "text",
-      "datetime": "2025-09-21T06:59:59+00:00",
-      "tags": [],
-      "text": "周六买了点 $WLFI k线走势+回购消息，仓位不大。走的好会考虑加仓，美股联动标的。$ALTS",
-      "content": "周六买了点 $WLFI k线走势+回购消息，仓位不大。走的好会考虑加仓，美股联动标的。$ALTS",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "15",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "404",
-      "title": "听大哥的 稍微买了点 $THE低估值，YZI 投资，Perp概念NFA",
-      "type": "text",
-      "datetime": "2025-09-21T06:58:49+00:00",
-      "tags": [],
-      "text": "听大哥的 稍微买了点 $THE低估值，YZI 投资，Perp概念NFA",
-      "content": "听大哥的 稍微买了点 $THE<br>低估值，YZI 投资，Perp概念<br>NFA",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "19",
-          "isPaid": false
-        },
-        {
-          "emoji": "🤮",
-          "count": "3",
           "isPaid": false
         }
       ]

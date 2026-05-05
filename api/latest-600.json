@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/4eae6fd0178475ed705840b3330f5584.jpg",
-    "totalPosts": 647,
+    "totalPosts": 650,
     "totalPages": 33,
     "currentPage": 31,
     "pageSize": 20,
@@ -13,6 +13,59 @@
     "prevPageUrl": "latest-580.json"
   },
   "data": [
+    {
+      "id": "60",
+      "title": "",
+      "type": "text",
+      "datetime": "2024-01-07T06:22:55+00:00",
+      "tags": [],
+      "text": "https://x.com/nft_hu/status/1743880598211678419?s=46",
+      "content": "<a href=\"https://x.com/nft_hu/status/1743880598211678419?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1743880598211678419?s=46\">https://x.com/nft_hu/status/1743880598211678419?s=46</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "title": "群友秘籍: 如何选择TIA节点1）选佣金低于10%的，但不要选0；2）选20名以外的节点，符合cosmos生态去中心化诉求，有的项目方不给前20名空投；3）不要选交易所节点； 4）最好有restaking功能，自动复投，收益最大化",
+      "type": "text",
+      "datetime": "2024-01-03T01:33:39+00:00",
+      "tags": [],
+      "text": "群友秘籍: 如何选择TIA节点1）选佣金低于10%的，但不要选0；2）选20名以外的节点，符合cosmos生态去中心化诉求，有的项目方不给前20名空投；3）不要选交易所节点； 4）最好有restaking功能，自动复投，收益最大化。",
+      "content": "群友秘籍: 如何选择TIA节点<br><br>1）选佣金低于10%的，但不要选0；<br>2）选20名以外的节点，符合cosmos生态去中心化诉求，有的项目方不给前20名空投；<br>3）不要选交易所节点； <br>4）最好有restaking功能，自动复投，收益最大化。",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "11",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "2",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "title": "Tia质押的金铲子作用日益体现，如何质押看 ",
+      "type": "text",
+      "datetime": "2024-01-02T14:29:28+00:00",
+      "tags": [],
+      "text": "Tia质押的金铲子作用日益体现，如何质押看 https://x.com/odailychina/status/1734861645263057098?s=46",
+      "content": "Tia质押的金铲子作用日益体现，如何质押看 <a href=\"https://x.com/odailychina/status/1734861645263057098?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/odailychina/status/1734861645263057098?s=46\">https://x.com/odailychina/status/1734861645263057098?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/odailychina/status/1734861645263057098?s=46\" target=\"_blank\" rel=\"noopener\" title=\"💸质押 $TIA 还能获得哪些潜在空投机会？（附TIA质押教程）Celestia @CelestiaOrg  作为 #Cosmos 生态的主流项目，肯定也不会抛弃质押赚取空投的模式。随着Cosmos生态热度上升，社区中也出现讨论质押 TIA 的声音，并表示Celestia生态的项目未来将会给 TIA 质押发放空投。https://t.co/n5OXs3Z0FR\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Odaily@ChinaCryptoNews (@OdailyChina) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('/static/38273bbe94a86f4fa7d8c86b8ae44eec.png')\"><b>💸</b></i>质押 $TIA 还能获得哪些潜在空投机会？（附TIA质押教程）<br><br>Celestia @CelestiaOrg  作为 #Cosmos 生态的主流项目，肯定也不会抛弃质押赚取空投的模式。<br><br>随着Cosmos生态热度上升，社区中也出现讨论质押 TIA 的声音，并表示Celestia生态的项目未来将会给 TIA 质押发放空投。<br><br>https://t.co/n5OXs3Z0FR</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "5",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "57",
       "title": "Fiona‘s daily news-1.2, 2024大家新年好！最近的项目每天都参加的到应接不暇，希望新年一起发财！MEME的更替速度也更快，玩Meme一定要注意节奏",
@@ -324,48 +377,6 @@
           "isPaid": false
         }
       ]
-    },
-    {
-      "id": "37",
-      "title": "Fiona‘s daily news-12.15, 20231⃣️IDO related之前颇有造福效应的 @Turtsat和 $aution 最近都有新的IDO",
-      "type": "text",
-      "datetime": "2023-12-14T23:13:52+00:00",
-      "tags": [],
-      "text": "Fiona‘s daily news-12.15, 20231⃣️IDO related之前颇有造福效应的 @Turtsat和 $aution 最近都有新的IDO。昨天参与了Turtsat的IDO，兑换一个alpha白名单需要25000egg，购买成本200u，现在一个号的价值是3000u，相当于15倍。同时持有$Turt 不仅可以挖矿，turt自己也因为这样的价值持续上涨。我个人会继续持有。2⃣️ SOLS昨天介绍的solana头部铭文，价格已经从16sols一张突破到了50sols，单日3倍。同样LAMP作为龙二也吸引了很多关注 3⃣️Mice米老鼠继续冲锋，部分也有rats冲锋带动板块热度和热钱。我的平均成本是14sats左右，底部7sats，现在是53sats。4⃣️ATOM原子协议12000一张，正式200倍。现在阻碍价格上涨的一大原因是整张卖不可拆分。需要关注新的拆分方案是否可行。ATOM生态上的AVM ARCS REALM 和NFT toothy也都持有。5⃣️Bell挖矿昨天难度暴增，现在需要租算力挖矿。昨天挖了不少，如果场外价格稳定会考虑提出代挖服务。6⃣️Analysoor sol上新铭文，代币Zerohttps://x.com/leslienomad/status/1735242404670894223?s=207⃣️dotswap，BRC上的uniswap，稍微买了点——————————————————————————————————————————IDO1⃣️今晚11点Portal presale",
-      "content": "Fiona‘s daily news-12.15, 2023<br><br><i class=\"emoji\"><b>1⃣️</b></i>IDO related之前颇有造福效应的 <a href=\"https://twitter.com/Turtsat\" target=\"_blank\" rel=\"noopener\" title=\"@Turtsat\">@Turtsat</a>和 <a href=\"https://twitter.com/search?q=%24aution&amp;amp;src=cashtag_click\" target=\"_blank\" rel=\"noopener\" title=\"$aution\">$aution</a> 最近都有新的IDO。<br>昨天参与了Turtsat的IDO，兑换一个alpha白名单需要25000egg，购买成本200u，现在一个号的价值是3000u，相当于15倍。<br>同时持有$Turt 不仅可以挖矿，turt自己也因为这样的价值持续上涨。我个人会继续持有。<br><br><i class=\"emoji\"><b>2⃣️</b></i> SOLS<br>昨天介绍的solana头部铭文，价格已经从16sols一张突破到了50sols，单日3倍。<br>同样LAMP作为龙二也吸引了很多关注<br><br> <i class=\"emoji\"><b>3⃣️</b></i>Mice<br>米老鼠继续冲锋，部分也有rats冲锋带动板块热度和热钱。<br>我的平均成本是14sats左右，底部7sats，现在是53sats。<br><br><i class=\"emoji\"><b>4⃣️</b></i>ATOM原子协议12000一张，正式200倍。现在阻碍价格上涨的一大原因是整张卖不可拆分。需要关注新的拆分方案是否可行。<br>ATOM生态上的AVM ARCS REALM 和NFT toothy也都持有。<br><br><i class=\"emoji\"><b>5⃣️</b></i>Bell挖矿昨天难度暴增，现在需要租算力挖矿。昨天挖了不少，如果场外价格稳定会考虑提出代挖服务。<br><br><i class=\"emoji\"><b>6⃣️</b></i>Analysoor sol上新铭文，代币Zero<br><a href=\"https://x.com/leslienomad/status/1735242404670894223?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/leslienomad/status/1735242404670894223?s=20\">https://x.com/leslienomad/status/1735242404670894223?s=20</a><br><br><i class=\"emoji\"><b>7⃣️</b></i>dotswap，BRC上的uniswap，稍微买了点<br><br>——————————————————————————————————————————<br><br>IDO<br><i class=\"emoji\"><b>1⃣️</b></i>今晚11点Portal presale<a class=\"tgme_widget_message_link_preview\" href=\"https://twitter.com/Turtsat\" target=\"_blank\" rel=\"noopener\" title=\"Buidl, donate, and impact Bitcoin Ordinals &amp; BRC-20 through TurtsatDiscord : https://t.co/FyarUxtzLpTG: https://t.co/tIE1FECrRA  #Bitcoin #Ordinals #BRC20 #ORC20\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/b70960db0c67c3e7f4478068c01e0eb8.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">TurtSat (@Turtsat) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">Buidl, donate, and impact Bitcoin Ordinals &amp; BRC-20 through Turtsat<br>Discord : https://t.co/FyarUxtzLp<br>TG: https://t.co/tIE1FECrRA<br><br>  #Bitcoin #Ordinals #BRC20 #ORC20</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "36",
-      "title": "返工第一天 :1️⃣sols铭文，OK钱包主页推荐，上线gate，目前市值不高",
-      "type": "text",
-      "datetime": "2023-12-14T05:29:58+00:00",
-      "tags": [],
-      "text": "返工第一天 :1️⃣sols铭文，OK钱包主页推荐，上线gate，目前市值不高。2️⃣ $PSBTC (骗傻逼同事，防弹少年团）mint进度已超80%，目前9971holders，24万笔交易，还剩余37个区块，预计晚上前全部打完。预计持币人数和交易量接近COOK3️⃣$AVAV avax上的铭文，打了防身，名字又meme又羞耻4️⃣MICE，米老鼠很久之前打的，终于涨了5️⃣Turt今晚新IDO6️⃣昨晚把 $INJ 买回来了，之前卖飞我认错还有一些之前的仓位 MUBI TURT 新高，Atom站稳10000元，TIA 和SOL都走的很稳。近期Depin 很热; sol和avax生态出金狗的几率也表大很多。",
-      "content": "返工第一天 :<br><i class=\"emoji\"><b>1️⃣</b></i>sols铭文，OK钱包主页推荐，上线gate，目前市值不高。<br><br><i class=\"emoji\"><b>2️⃣</b></i> $PSBTC (骗傻逼同事，防弹少年团）<br>mint进度已超80%，目前9971holders，24万笔交易，还剩余37个区块，预计晚上前全部打完。预计持币人数和交易量接近COOK<br><br><i class=\"emoji\"><b>3️⃣</b></i>$AVAV avax上的铭文，打了防身，名字又meme又羞耻<br><br><i class=\"emoji\"><b>4️⃣</b></i>MICE，米老鼠很久之前打的，终于涨了<br><br><i class=\"emoji\"><b>5️⃣</b></i>Turt今晚新IDO<br><br><i class=\"emoji\"><b>6️⃣</b></i>昨晚把 $INJ 买回来了，之前卖飞我认错<br><br>还有一些之前的仓位 MUBI TURT 新高，Atom站稳10000元，TIA 和SOL都走的很稳。<br><br>近期Depin 很热; sol和avax生态出金狗的几率也表大很多。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "6",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "35",
-      "title": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议",
-      "type": "text",
-      "datetime": "2023-12-07T12:55:53+00:00",
-      "tags": [],
-      "text": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议。https://x.com/nft_hu/status/1732744748845445548?s=20",
-      "content": "JTO介绍 Jito是Solana上的Lido，也是目前TVL第二大的协议。<br><a href=\"https://x.com/nft_hu/status/1732744748845445548?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1732744748845445548?s=20\">https://x.com/nft_hu/status/1732744748845445548?s=20</a>",
-      "reactions": []
     }
   ]
 }

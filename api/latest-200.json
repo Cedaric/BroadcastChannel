@@ -3,7 +3,7 @@
     "title": "Fiona’s daily news",
     "description": "",
     "avatar": "/static/4eae6fd0178475ed705840b3330f5584.jpg",
-    "totalPosts": 647,
+    "totalPosts": 650,
     "totalPages": 33,
     "currentPage": 11,
     "pageSize": 20,
@@ -13,6 +13,84 @@
     "prevPageUrl": "latest-180.json"
   },
   "data": [
+    {
+      "id": "479",
+      "title": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：1️⃣ 企业级智能体 -Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代",
+      "type": "text",
+      "datetime": "2026-01-09T12:17:09+00:00",
+      "tags": [],
+      "text": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：1️⃣ 企业级智能体 -Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代。-ServiceNow  $NOW : 重构 UI 界面，从“填表单”进化为“跟智能体聊天”。-Snowflake $SNOW : 数据平台与 AI 深度融合，让云端数据直接变为可对话的知识。NetApp  $NTAP: 存储巨头转身，集成语义 AI 实现智能化客服与数据检索。Salesforce  $CRM: 利用 Nemotron 模型强化其 AI Agent 生态。2️⃣ 生产力与安全 Cursor: (老黄私心最爱) 彻底重塑了 NVIDIA 内部的编程范式。CodeRabbit: NVIDIA 全员普及的 AI 代码评审工具。、CrowdStrike  $CRWD: 打造“以 AI 对抗 AI 威胁”的底层安全护栏。Hugging Face: 与 NVIDIA 深度合作，成为 GR00T 和 Cosmos 等模型的主要开源阵地。3️⃣ 物理 AI 与工业落地 (Physical AI)奔驰 CLA 级首发 Alpamayo 自驾推理模型。JLR (捷豹路虎) & Lucid  $LCID : 紧随其后的自驾技术合作伙伴。Siemens (http://SIE.DE): 投入数百名专家，深度集成工业 AI 与数字孪生。Uber  $UBER: 利用 Alpamayo 系统推进 L4 级自动驾驶落地。",
+      "content": "整理了最新英伟达CEO黄仁勋在CES的讲话中点名的 App、合作方及底层逻辑梳理：<br><br><i class=\"emoji\"><b>1️⃣</b></i> 企业级智能体 <br>-Palantir  $PLTR : 全平台深度集成 NVIDIA 加速，数据分析正式进入“自动驾驶”时代。<br>-ServiceNow  $NOW : 重构 UI 界面，从“填表单”进化为“跟智能体聊天”。<br>-Snowflake $SNOW : 数据平台与 AI 深度融合，让云端数据直接变为可对话的知识。<br>NetApp  $NTAP: 存储巨头转身，集成语义 AI 实现智能化客服与数据检索。<br>Salesforce  $CRM: 利用 Nemotron 模型强化其 AI Agent 生态。<br><br><i class=\"emoji\"><b>2️⃣</b></i> 生产力与安全 <br>Cursor: (老黄私心最爱) 彻底重塑了 NVIDIA 内部的编程范式。<br>CodeRabbit: NVIDIA 全员普及的 AI 代码评审工具。、<br>CrowdStrike  $CRWD: 打造“以 AI 对抗 AI 威胁”的底层安全护栏。<br>Hugging Face: 与 NVIDIA 深度合作，成为 GR00T 和 Cosmos 等模型的主要开源阵地。<br><br><i class=\"emoji\"><b>3️⃣</b></i> 物理 AI 与工业落地 (Physical AI)<br>奔驰 CLA 级首发 Alpamayo 自驾推理模型。<br>JLR (捷豹路虎) &amp; Lucid  $LCID : 紧随其后的自驾技术合作伙伴。<br>Siemens (<a href=\"http://SIE.DE/\" target=\"_blank\" rel=\"noopener\" title=\"http://SIE.DE\">http://SIE.DE</a>): 投入数百名专家，深度集成工业 AI 与数字孪生。<br>Uber  $UBER: 利用 Alpamayo 系统推进 L4 级自动驾驶落地。<a class=\"tgme_widget_message_link_preview\" href=\"http://sie.de/\" target=\"_blank\" rel=\"noopener\" title=\"BRIGITTE inspiriert deinen Alltag: Von Karriere bis Horoskop, von Rezepten bis zu Modetrends, von Psychologie bis Beauty findest du hier, was dich bewegt\">\n  \n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">brigitte.de</div>\n  <img class=\"link_preview_image\" alt=\"BRIGITTE: Dein Leben. Dein Weg.\" src=\"/static/821ae8fcfb3b35c387caf2aaa0371172.jpg\" loading=\"lazy\">\n  <div class=\"link_preview_title\" dir=\"auto\">BRIGITTE: Dein Leben. Dein Weg.</div>\n  <div class=\"link_preview_description\" dir=\"auto\">BRIGITTE inspiriert deinen Alltag: Von Karriere bis Horoskop, von Rezepten bis zu Modetrends, von Psychologie bis Beauty findest du hier, was dich bewegt</div>\n</a>",
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "👍",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "478",
+      "title": "有一个很简单但是很本质的选股逻辑，你的生活里被什么包围，你在用什么且觉得好用离不开，那就买什么？$BABA 承包了我的购物$GOOG 承包了日常、出行、工作$AAPL 承担了我的电子设备全家桶",
+      "type": "text",
+      "datetime": "2026-01-09T03:05:12+00:00",
+      "tags": [],
+      "text": "有一个很简单但是很本质的选股逻辑，你的生活里被什么包围，你在用什么且觉得好用离不开，那就买什么？$BABA 承包了我的购物$GOOG 承包了日常、出行、工作$AAPL 承担了我的电子设备全家桶",
+      "content": "有一个很简单但是很本质的选股逻辑，你的生活里被什么包围，你在用什么且觉得好用离不开，那就买什么？<br>$BABA 承包了我的购物<br>$GOOG 承包了日常、出行、工作<br>$AAPL 承担了我的电子设备全家桶",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "24",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "4",
+          "isPaid": false
+        },
+        {
+          "emoji": "🔥",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "👏",
+          "count": "1",
+          "isPaid": false
+        },
+        {
+          "emoji": "🎉",
+          "count": "1",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+      "id": "477",
+      "title": "【Fiona的日报频道】  2026-01-09 ━━ 宏观要闻 ━━1️⃣美股高位震荡小幅回落： 道指与标普500在创下历史新高后小幅回落，市场正屏息等待周五即将公布的美国12月非农就业报告及失业率数据",
+      "type": "text",
+      "datetime": "2026-01-09T02:44:49+00:00",
+      "tags": [],
+      "text": "【Fiona的日报频道】  2026-01-09 ━━ 宏观要闻 ━━1️⃣美股高位震荡小幅回落： 道指与标普500在创下历史新高后小幅回落，市场正屏息等待周五即将公布的美国12月非农就业报告及失业率数据。2️⃣美国总统特朗普就核裁军条约和台湾问题发表讲话：他表示将允许美俄《新削减战略武器条约》到期并认为这是正常，同时就台湾问题强调由习近平决定，但美方仍“非常不满”任何改变现状。3️⃣中国对日本实施出口管制针对军事用途的双重用途物项，区域安全局势紧张加剧。4️⃣沪指新高：沪指上破4100点再创十年新高，日内涨0.4%，深成指涨0.6%。商业航天、多元金融等板块涨幅居前。5️⃣美参议院推进限制特朗普对委内瑞拉军事行动的决议：参议院以窄幅多数向前推进一项决议，要求国会授权才能进一步军事行动，此举反映国会对总统战争权力的制衡趋势。6️⃣美联储——①米兰：预计在2026年将进行约150个基点的降息。②特朗普称已决定下一任美联储主席人选。③贝森特敦促美联储进一步降息，并称预计特朗普将在本月宣布美联储主席人选。评价：区域安全变数重重，台海问题在特朗普任期内愈添变数。港A热度持续，美股官网新年第一份非农。━━ AI新闻 ━━1️⃣Minimax： 港股AI大模型公司MiniMax(00100.HK)扩大涨幅，现涨超52%，总市值达770亿港元。2️⃣摩尔线程：正式发布开源大模型分布式训练仿真工具SimuMax的1.1版本。3️⃣英伟达支持的数据中心公司Nscale据悉寻求20亿美元融资。4️⃣商务部回应审查Meta收购Manus：企业从事对外投资等活动须符合中国法律法规━━ 太空经济 ━━马斯克宣布星舰大规模量产：可能每年生产 1 万枚星舰SpaceX 首席执行官马斯克最近公布了航天业有史以来最雄心勃勃的制造目标之一“每年生产 1 万艘星舰飞船”。━━ 机器人新闻 ━━1️⃣智元登顶全球人形机器人出货量榜首：根据全球权威市场研究机构Omdia最新发布的《通用具身机器人市场雷达》报告，2025年全球人形机器人总出货量达1.3万台，中国厂商领跑全球。其中，智元（AGIBOT）以超5100台出货量及39%市场份额，拿下全球出货量与份额双第一。报告预测，该品类将迎指数级增长，2035年出货量有望达260万台。2️⃣乐聚机器人与阿里云达成全栈AI合作：双方将基于阿里云算力、AI平台、千问模型，共同开展人形机器人训练场合作。3️⃣金力永磁：2025年净利同比预增127%-161%，具身机器人电机转子及磁材产品已有小批量交付。━━ 其他要闻 ━━1️⃣铜资源争夺白热化，嘉能可与力拓重启合并谈判2️⃣仙工智能继续推进港股 IPO 计划：作为机器人控制系统龙头企业，在港交所上市预期仍备受市场关注3️⃣重大跨境赌诈犯罪集团头目陈志被押解回国。━━ 产业新闻 ━━1️⃣淘宝闪购称要达到市场绝对第一：阿里巴巴面向投资者的最新交流信息显示，淘宝闪购在最新季度取得关键进展。同时，阿里集团对于淘宝闪购 2026 年的投入战略也明朗化：闪购首要目标是份额增长，会坚定加大投入以达到市场绝对第一。━━ 加密新闻 ━━1️⃣Truebit被盗 8536～ETH约 2600万美金 2️⃣美国总统特朗普无意赦免SBF - 在接受《纽约时报》采访时表示，他无意赦免",
+      "content": "<b>【Fiona的日报频道】  2026-01-09 </b><br><b>━━ 宏观要闻 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i>美股高位震荡小幅回落：</b> 道指与标普500在创下历史新高后小幅回落，市场正屏息等待周五即将公布的美国12月非农就业报告及失业率数据。<br><i class=\"emoji\"><b>2️⃣</b></i><b>美国总统特朗普就核裁军条约和台湾问题发表讲话：</b>他表示将允许美俄《新削减战略武器条约》到期并认为这是正常，同时就台湾问题强调由习近平决定，但美方仍“非常不满”任何改变现状。<br><i class=\"emoji\"><b>3️⃣</b></i>中国对日本实施出口管制针对军事用途的双重用途物项，区域安全局势紧张加剧。<br><b><i class=\"emoji\"><b>4️⃣</b></i>沪指新高</b>：沪指上破4100点再创十年新高，日内涨0.4%，深成指涨0.6%。商业航天、多元金融等板块涨幅居前。<br><b><i class=\"emoji\"><b>5️⃣</b></i>美参议院推进限制特朗普对委内瑞拉军事行动的决议</b>：参议院以窄幅多数向前推进一项决议，要求国会授权才能进一步军事行动，此举反映国会对总统战争权力的制衡趋势。<br><b><i class=\"emoji\"><b>6️⃣</b></i>美联储</b>——①米兰：预计在2026年将进行约150个基点的降息。②特朗普称已决定下一任美联储主席人选。③贝森特敦促美联储进一步降息，并称预计特朗普将在本月宣布美联储主席人选。<br><b>评价：区域安全变数重重，台海问题在特朗普任期内愈添变数。港A热度持续，美股官网新年第一份非农。</b><br><br><b>━━ AI新闻 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i>Minimax：</b> 港股AI大模型公司MiniMax(<a href=\"http://00100.HK/\" target=\"_blank\" rel=\"noopener\" title=\"00100.HK\">00100.HK</a>)扩大涨幅，现涨超52%，总市值达770亿港元。<br><b><i class=\"emoji\"><b>2️⃣</b></i>摩尔线程：</b>正式发布开源大模型分布式训练仿真工具SimuMax的1.1版本。<br><i class=\"emoji\"><b>3️⃣</b></i>英伟达支持的数据中心公司Nscale据悉寻求20亿美元融资。<br><b><i class=\"emoji\"><b>4️⃣</b></i>商务部回应审查Meta收购Manus</b>：企业从事对外投资等活动须符合中国法律法规<br><br><b>━━ 太空经济 ━━</b><br><b>马斯克宣布星舰大规模量产：可能每年生产 1 万枚星舰SpaceX 首席执行官马斯克最近公布了航天业有史以来最雄心勃勃的制造目标之一“每年生产 1 万艘星舰飞船”。</b><br><b><br>━━ 机器人新闻 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i>智元登顶全球人形机器人出货量榜首</b>：根据全球权威市场研究机构Omdia最新发布的《通用具身机器人市场雷达》报告，2025年全球人形机器人总出货量达1.3万台，中国厂商领跑全球。其中，智元（AGIBOT）以超5100台出货量及39%市场份额，拿下全球出货量与份额双第一。报告预测，该品类将迎指数级增长，2035年出货量有望达260万台。<br><b><i class=\"emoji\"><b>2️⃣</b></i>乐聚机器人与阿里云达成全栈AI合作</b>：双方将基于阿里云算力、AI平台、千问模型，共同开展人形机器人训练场合作。<br><b><i class=\"emoji\"><b>3️⃣</b></i>金力永磁</b>：2025年净利同比预增127%-161%，具身机器人电机转子及磁材产品已有小批量交付。<br><br><b>━━ 其他要闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i><b>铜资源争夺白热化，嘉能可与力拓重启合并谈判</b><br><b><i class=\"emoji\"><b>2️⃣</b></i>仙工智能继续推进港股 IPO 计划</b>：作为机器人控制系统龙头企业，在港交所上市预期仍备受市场关注<br><b><i class=\"emoji\"><b>3️⃣</b></i>重大跨境赌诈犯罪集团头目陈志被押解回国</b>。<br><br><b>━━ 产业新闻 ━━</b><br><b><i class=\"emoji\"><b>1️⃣</b></i>淘宝闪购称要达到市场绝对第一</b>：阿里巴巴面向投资者的最新交流信息显示，淘宝闪购在最新季度取得关键进展。同时，阿里集团对于淘宝闪购 2026 年的投入战略也明朗化：闪购首要目标是份额增长，会坚定加大投入以达到市场绝对第一。<br><br><b>━━ 加密新闻 ━━</b><br><i class=\"emoji\"><b>1️⃣</b></i>Truebit被盗 8536～ETH约 2600万美金 <br><i class=\"emoji\"><b>2️⃣</b></i>美国总统特朗普无意赦免SBF - 在接受《纽约时报》采访时表示，他无意赦免",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "7",
+          "isPaid": false
+        },
+        {
+          "emoji": "❤️",
+          "count": "3",
+          "isPaid": false
+        }
+      ]
+    },
     {
       "id": "474",
       "title": "接下来会恢复日报的更新，但是会把内容更聚焦在AI和股票市场",
@@ -379,69 +457,6 @@
       "text": "光通讯 知识点复习 https://x.com/nft_hu/status/1988075814794260886?s=46",
       "content": "光通讯 知识点复习 <a href=\"https://x.com/nft_hu/status/1988075814794260886?s=46\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1988075814794260886?s=46\">https://x.com/nft_hu/status/1988075814794260886?s=46</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1988075814794260886?s=46\" target=\"_blank\" rel=\"noopener\" title=\"今天想来写一下 光通讯 （Optical Communication），受到 @woodycryptow 和 @xingpt 对话中的启发。什么是光通讯？他和传统@woodycryptow 和 @xingpt 对话中的启发。第一次研究这个赛道，欢迎指正。1️⃣什么是光通讯？他和传统的通讯有什么不同？光通讯通常依靠光纤来传输数据，速度快、损耗小。\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/7061b26b183f393488bd8e87d6b97167.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">今天想来写一下 光通讯 （Optical Communication），受到 @woodycryptow 和 @xingpt 对话中的启发。什么是光通讯？他和传统@woodycryptow 和 @xingpt 对话中的启发。第一次研究这个赛道，欢迎指正。<br><br><i class=\"emoji\" style=\"background-image:url('/static/17424555f3e437c96831adfecd4b86be.png')\"><b>1️⃣</b></i>什么是光通讯？他和传统的通讯有什么不同？<br>光通讯通常依靠光纤来传输数据，速度快、损耗小。</div>\n</a>",
       "reactions": []
-    },
-    {
-      "id": "456",
-      "title": "电力介绍有关的标的实在是太多了！越写越发现这件事情很有意思，越挖越深，日日有所得",
-      "type": "text",
-      "datetime": "2025-12-06T13:05:44+00:00",
-      "tags": [],
-      "text": "电力介绍有关的标的实在是太多了！越写越发现这件事情很有意思，越挖越深，日日有所得。慢慢出产深度文的同时，本文列举一下相关标的：$FLNC 仅此于Tesla 的储能巨头，近一周表现极其强势。$EOSE 同样是储能板块，但与传统“锂电池 + BESS”供应商不同，它主打 锌基 (zinc‑based) 储能解决方案。$CEG 北美最大的清洁能源发电运营商，也是最大的核能运营商：包含核能、水电、风电、太阳能、天然气发电等方式。$NEE 同样是绿电，近期与 与 Google 签署协议，将重启爱荷华州的 Duane Arnold Energy Center（615 MW）核电厂。$VRT 液冷的龙头企业。它提供数据中心用电、供电模块 (PDUs)、UPS／不间断电源、冷却系统、机房基础设施等综合解决方案。$ETN 斥资95亿美元收购Boyd Thermal。此举使伊顿从单一的电力设备供应商，转变为AI数据中心集成热能与电力管理解决方案提供商。$ABB 近期与 Nvidia 合作，为其推动的“800 VDC 供电架构 + 未来吉瓦数据中心” 提供高效率电力基础设备 /基础架构解决方案。提供电力 /能源 /自动化 /电网 /配电 /变电 /供电设备 /工控系统。$GEV 与 Amazon 签订合作，为其大规模数据中心扩展／新建提供电力连接 /基础设施建设支持。也有军工航天的部分。$OKLO 核能公司, 采取小型模组化反应炉 (SMR)，功率范围从 15 兆瓦到 50 兆瓦不等，旨在以更少的燃料产生更大功率。燃料策略计划使用回收核废料（用过的核燃料）进行发电，以减少核废料问题。",
-      "content": "电力介绍有关的标的实在是太多了！越写越发现这件事情很有意思，越挖越深，日日有所得。<br><br>慢慢出产深度文的同时，本文列举一下相关标的：<br>$FLNC 仅此于Tesla 的储能巨头，近一周表现极其强势。<br>$EOSE 同样是储能板块，但与传统“锂电池 + BESS”供应商不同，它主打 锌基 (zinc‑based) 储能解决方案。<br>$CEG 北美最大的清洁能源发电运营商，也是最大的核能运营商：包含核能、水电、风电、太阳能、天然气发电等方式。<br>$NEE 同样是绿电，近期与 与 Google 签署协议，将重启爱荷华州的 Duane Arnold Energy Center（615 MW）核电厂。<br>$VRT 液冷的龙头企业。它提供数据中心用电、供电模块 (PDUs)、UPS／不间断电源、冷却系统、机房基础设施等综合解决方案。<br>$ETN 斥资95亿美元收购Boyd Thermal。此举使伊顿从单一的电力设备供应商，转变为AI数据中心集成热能与电力管理解决方案提供商。<br>$ABB 近期与 Nvidia 合作，为其推动的“800 VDC 供电架构 + 未来吉瓦数据中心” 提供高效率电力基础设备 /基础架构解决方案。提供电力 /能源 /自动化 /电网 /配电 /变电 /供电设备 /工控系统。<br>$GEV 与 Amazon 签订合作，为其大规模数据中心扩展／新建提供电力连接 /基础设施建设支持。也有军工航天的部分。<br>$OKLO 核能公司, 采取小型模组化反应炉 (SMR)，功率范围从 15 兆瓦到 50 兆瓦不等，旨在以更少的燃料产生更大功率。燃料策略计划使用回收核废料（用过的核燃料）进行发电，以减少核废料问题。",
-      "reactions": [
-        {
-          "emoji": "❤️",
-          "count": "21",
-          "isPaid": false
-        },
-        {
-          "emoji": "👍",
-          "count": "10",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "455",
-      "title": "高收入和低利润率并存的储能公司 FLNC 介绍文：有意思的是 $FLNC 低利润率挡不住投资者的热情和年内股价的起飞",
-      "type": "text",
-      "datetime": "2025-12-05T13:51:40+00:00",
-      "tags": [],
-      "text": "高收入和低利润率并存的储能公司 FLNC 介绍文：有意思的是 $FLNC 低利润率挡不住投资者的热情和年内股价的起飞。从3.5美金到23美金，风口上的猪是会飞的，且不说人家是正正经经的储能板块龙头。只要想象力够大，只要利好还没有完全兑现。何况Flunce手上的订单量有足足49亿美金。不过写完觉得 $TSLA 更牛逼更值得持有了。https://x.com/nft_hu/status/1996938896534593922?s=20",
-      "content": "高收入和低利润率并存的储能公司 FLNC 介绍文：<br>有意思的是 $FLNC 低利润率挡不住投资者的热情和年内股价的起飞。从3.5美金到23美金，风口上的猪是会飞的，且不说人家是正正经经的储能板块龙头。<br><br>只要想象力够大，只要利好还没有完全兑现。何况Flunce手上的订单量有足足49亿美金。<br>不过写完觉得 $TSLA 更牛逼更值得持有了。<br><a href=\"https://x.com/nft_hu/status/1996938896534593922?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1996938896534593922?s=20\">https://x.com/nft_hu/status/1996938896534593922?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1996938896534593922?s=20\" target=\"_blank\" rel=\"noopener\" title=\"昨天刚发完文，储能概念股就都大涨。不得不加快了码字的小手。AI数据中心的电力缺口，所带来的巨大机遇，也在不断被资本认可。今天我们来讨论一下储能概念龙头美股 $FLNC —— 一家让我从惊讶的公司，看到最后揭晓原因。温馨提示：美股处在高位，本文不构成投资建议。Fluence Energy Inc（ $FLNC)\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/6c7fd91c584e741a9f4cbdc53da8c01d.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">昨天刚发完文，储能概念股就都大涨。不得不加快了码字的小手。AI数据中心的电力缺口，所带来的巨大机遇，也在不断被资本认可。<br><br>今天我们来讨论一下储能概念龙头美股 $FLNC —— 一家让我从惊讶的公司，看到最后揭晓原因。<br>温馨提示：美股处在高位，本文不构成投资建议。<br><br>Fluence Energy Inc（ $FLNC)</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "1",
-          "isPaid": false
-        }
-      ]
-    },
-    {
-      "id": "454",
-      "title": "电力板块之储能 ",
-      "type": "text",
-      "datetime": "2025-12-04T06:42:29+00:00",
-      "tags": [],
-      "text": "电力板块之储能 https://x.com/nft_hu/status/1996469738080211081?s=20",
-      "content": "电力板块之储能 <a href=\"https://x.com/nft_hu/status/1996469738080211081?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1996469738080211081?s=20\">https://x.com/nft_hu/status/1996469738080211081?s=20</a><a class=\"tgme_widget_message_link_preview\" href=\"https://x.com/nft_hu/status/1996469738080211081?s=20\" target=\"_blank\" rel=\"noopener\" title=\"在前文《AI军备竞赛的终点是电力竞赛么？》中我们已经论述了AI算力中心所面临的巨大电力缺口。其中有一个解法，也是Elon非常推崇的解决方案是——“储能”（Energy Storage）。针对最近美国／全球对电网压力 + AI／数据中心对电力需求暴增的情境，Musk 提出一个大胆设想 ——\">\n  <i class=\"link_preview_right_image\" style=\"background-image:url('/static/7d7ed60acea00a06b1751053caf3215d.jpg')\"></i>\n  <div class=\"link_preview_site_name accent_color\" dir=\"auto\">X (formerly Twitter)</div>\n  \n  <div class=\"link_preview_title\" dir=\"auto\">Fiona <i class=\"emoji\" style=\"background-image:url('/static/629c485827daf0b8d569a3c46148faad.png')\"><b>❤️</b></i>&amp; <i class=\"emoji\" style=\"background-image:url('/static/8f22df3f7377963bbd007e61b97b65f0.png')\"><b>✌️</b></i> (@nft_hu) on X</div>\n  <div class=\"link_preview_description\" dir=\"auto\">在前文《AI军备竞赛的终点是电力竞赛么？》中我们已经论述了AI算力中心所面临的巨大电力缺口。其中有一个解法，也是Elon非常推崇的解决方案是——“储能”（Energy Storage）。<br><br>针对最近美国／全球对电网压力 + AI／数据中心对电力需求暴增的情境，Musk 提出一个大胆设想 ——</div>\n</a>",
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "5",
-          "isPaid": false
-        },
-        {
-          "emoji": "❤️",
-          "count": "2",
-          "isPaid": false
-        }
-      ]
     }
   ]
 }

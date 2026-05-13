@@ -2,8 +2,8 @@
   "meta": {
     "title": "Fiona’s daily news",
     "description": "",
-    "avatar": "/static/ea55eb60c171d3877471788a1b3e826f.jpg",
-    "totalPosts": 657,
+    "avatar": "/static/76208a1bcc2299f1aa402c0d23ffdb72.jpg",
+    "totalPosts": 658,
     "totalPages": 33,
     "currentPage": 33,
     "pageSize": 20,
@@ -13,6 +13,16 @@
     "prevPageUrl": "latest-620.json"
   },
   "data": [
+    {
+      "id": "24",
+      "title": "Meson挖矿教程，有手就会：",
+      "type": "text",
+      "datetime": "2023-11-30T08:44:25+00:00",
+      "tags": [],
+      "text": "Meson挖矿教程，有手就会：https://x.com/nft_hu/status/1730143725714882953?s=20",
+      "content": "Meson挖矿教程，有手就会：<br><a href=\"https://x.com/nft_hu/status/1730143725714882953?s=20\" target=\"_blank\" rel=\"noopener\" title=\"https://x.com/nft_hu/status/1730143725714882953?s=20\">https://x.com/nft_hu/status/1730143725714882953?s=20</a>",
+      "reactions": []
+    },
     {
       "id": "23",
       "title": "Meson测试网开了可以去挖币，测试币最后映射",
